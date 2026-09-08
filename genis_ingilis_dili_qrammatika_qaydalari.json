@@ -1,0 +1,2844 @@
+{
+  "title": "Geniş İngilis dili qrammatika qaydaları",
+  "language": "az",
+  "format_version": "2.0",
+  "note": "Məktəb və imtahan hazırlığı üçün sistemləşdirilmiş qaydalar toplusu. Bu fayl konkret müəllif kitabının sözbəsöz surəti deyil.",
+  "categories": [
+    {
+      "id": "01_articles",
+      "name": "Articles — Artikllər",
+      "rules": [
+        {
+          "id": "ART-01",
+          "name": "A artikli",
+          "rule": "Tək, sayıla bilən və samit səslə başlayan qeyri-müəyyən isimdən əvvəl işlənir.",
+          "formula": "a + singular countable noun",
+          "uses": [
+            "ilk dəfə xatırlanan əşya/şəxs",
+            "peşə və vəzifə bildirmək",
+            "‘bir’ mənasına yaxın ümumi işlənmə"
+          ],
+          "exceptions": [
+            "Əsas meyar hərf yox, səsdir.",
+            "a university, a European; çünki başlanğıc səs /j/ samitdir."
+          ],
+          "examples": [
+            "a book",
+            "a teacher",
+            "a university"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-02",
+          "name": "AN artikli",
+          "rule": "Tək, sayıla bilən və sait səslə başlayan qeyri-müəyyən isimdən əvvəl işlənir.",
+          "formula": "an + singular countable noun",
+          "uses": [
+            "ilk dəfə xatırlanan isim",
+            "peşə və vəzifə",
+            "sait səslə başlayan qısaltmalar və sözlər"
+          ],
+          "exceptions": [
+            "hour, honest, heir kimi h-siz tələffüz olunan sözlərdə an işlənir."
+          ],
+          "examples": [
+            "an apple",
+            "an engineer",
+            "an hour"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-03",
+          "name": "THE artikli — əsas qayda",
+          "rule": "Danışan və dinləyən üçün müəyyən olan və ya əvvəlcədən məlum isimlə işlənir.",
+          "formula": "the + noun",
+          "uses": [
+            "əvvəl xatırlanmış isim",
+            "tək və bənzərsiz obyektlər",
+            "kontekstdən müəyyən olan isim"
+          ],
+          "exceptions": [
+            "Xüsusi adların hamısı the qəbul etmir."
+          ],
+          "examples": [
+            "I saw a dog. The dog was black.",
+            "the sun",
+            "the Earth"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-04",
+          "name": "THE — coğrafi adlar",
+          "rule": "Çaylar, dənizlər, okeanlar, səhralar, dağ silsilələri, ada qrupları və bəzi ölkə adları ilə the işlənir.",
+          "formula": "the + geographical name",
+          "uses": [
+            "the Nile",
+            "the Caspian Sea",
+            "the Pacific",
+            "the Alps",
+            "the Sahara",
+            "the United States"
+          ],
+          "exceptions": [
+            "Tək dağ, göl və əksər şəhər/ölkə adlarında adətən artikl işlənmir."
+          ],
+          "examples": [
+            "the Volga",
+            "the Black Sea",
+            "the Netherlands"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-05",
+          "name": "THE — superlativ və sıra sayları",
+          "rule": "Superlativ dərəcədə və sıra saylarında adətən the işlənir.",
+          "formula": "the + superlative / ordinal",
+          "uses": [
+            "ən yüksək/ən aşağı dərəcə",
+            "first, second, third və s.",
+            "the same ilə"
+          ],
+          "exceptions": [],
+          "examples": [
+            "the best",
+            "the first lesson",
+            "the most interesting book"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-06",
+          "name": "THE — musiqi alətləri",
+          "rule": "Musiqi alətini ümumi bacarıq kimi ifadə edərkən the + alət işlənə bilər.",
+          "formula": "play + the + instrument",
+          "uses": [],
+          "exceptions": [
+            "Musiqi alətinin konkret bir nüsxəsi nəzərdə tutulanda struktur dəyişə bilər."
+          ],
+          "examples": [
+            "play the piano",
+            "play the guitar"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-07",
+          "name": "THE — ailə və qruplar",
+          "rule": "Soyadı cəm formada ailəni bildirirsə, the işlənir.",
+          "formula": "the + plural family name",
+          "uses": [
+            "ailə üzvləri qrupu",
+            "millət və xalqı bildirən bəzi cəm isimlər"
+          ],
+          "exceptions": [],
+          "examples": [
+            "the Smiths",
+            "the Browns"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-08",
+          "name": "ZERO ARTICLE — ümumi cəm",
+          "rule": "Ümumi mənada işlənən cəm sayıla bilən isimlərdə artikl olmur.",
+          "formula": "plural noun",
+          "uses": [
+            "ümumi anlayış",
+            "kateqoriya haqqında ümumi fikir"
+          ],
+          "exceptions": [],
+          "examples": [
+            "Books are useful.",
+            "Dogs are friendly."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-09",
+          "name": "ZERO ARTICLE — sayılmayan isimlər",
+          "rule": "Ümumi mənada işlənən sayılmayan isimlərdə artikl olmur.",
+          "formula": "uncountable noun",
+          "uses": [
+            "maddələr",
+            "mücərrəd anlayışlar",
+            "ümumi anlayışlar"
+          ],
+          "exceptions": [
+            "Konkretləşdirildikdə the işlənə bilər."
+          ],
+          "examples": [
+            "Water is important.",
+            "Love is powerful."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-10",
+          "name": "ZERO ARTICLE — dillər və fənlər",
+          "rule": "Dillər, məktəb fənləri və bir çox ümumi anlayış adətən artiklsiz işlənir.",
+          "formula": "language/subject",
+          "uses": [],
+          "exceptions": [
+            "Konkret kontekstdə the mümkündür."
+          ],
+          "examples": [
+            "English is easy.",
+            "Mathematics is interesting."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-11",
+          "name": "Müəssisələr: school, hospital, prison və s.",
+          "rule": "Məqsəd/funksiya mənasında bəzi müəssisə adları artiklsiz işlənə bilər; konkret bina nəzərdə tutulanda the/a/an gələ bilər.",
+          "formula": "at/in + institution",
+          "uses": [
+            "funksiya üçün getmək",
+            "bina/yer kimi nəzərdə tutmaq"
+          ],
+          "exceptions": [
+            "British və American istifadəsində bəzi fərqlər var."
+          ],
+          "examples": [
+            "go to school",
+            "visit the school",
+            "be in hospital"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-12",
+          "name": "Nəqliyyat və vasitələr",
+          "rule": "By + nəqliyyat vasitəsi ilə adətən artikl işlənmir.",
+          "formula": "by + transport",
+          "uses": [
+            "by bus",
+            "by car",
+            "by train"
+          ],
+          "exceptions": [
+            "on foot artiklsiz sabit ifadədir."
+          ],
+          "examples": [
+            "go by bus",
+            "travel by train",
+            "on foot"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-13",
+          "name": "Vaxt ifadələrində artikl",
+          "rule": "Bəzi vaxt ifadələrində zero article, bəzilərində the/a işlənir.",
+          "formula": "time expression",
+          "uses": [
+            "at night",
+            "in the morning",
+            "in the afternoon",
+            "in the evening"
+          ],
+          "exceptions": [
+            "night, day və digər sözlər kontekstə görə dəyişə bilər."
+          ],
+          "examples": [
+            "at night",
+            "in the morning",
+            "during the day"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ART-14",
+          "name": "A/AN ilə xüsusi ifadələr",
+          "rule": "Sayıla bilən isimlərlə tez-tez işlənən sabit birləşmələrdə a/an saxlanılır.",
+          "formula": "a/an + noun",
+          "uses": [
+            "have a look",
+            "have a rest",
+            "make a mistake",
+            "take a break"
+          ],
+          "exceptions": [],
+          "examples": [
+            "have a look",
+            "make a decision",
+            "take a photo"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "02_nouns",
+      "name": "Nouns — İsimlər",
+      "rules": [
+        {
+          "id": "N-01",
+          "name": "Tək və cəm",
+          "rule": "Sayıla bilən isimlərin bir hissəsi təkdə və cəmdə işlənir.",
+          "formula": "singular ↔ plural",
+          "uses": [
+            "bir və ya bir neçə obyekt"
+          ],
+          "exceptions": [
+            "Qaydasız cəmlər ayrıca öyrənilir."
+          ],
+          "examples": [
+            "book/books",
+            "car/cars"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-02",
+          "name": "Regular plural — -s",
+          "rule": "Əksər isimlər cəmdə -s qəbul edir.",
+          "formula": "noun + s",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "book → books",
+            "pen → pens"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-03",
+          "name": "-es ilə cəm",
+          "rule": "s, ss, sh, ch, x, z ilə bitən bir çox isim -es qəbul edir.",
+          "formula": "noun + es",
+          "uses": [],
+          "exceptions": [
+            "Bəzi sözlərdə yazılış və tələffüz istisnadır."
+          ],
+          "examples": [
+            "bus → buses",
+            "box → boxes"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-04",
+          "name": "-y ilə bitən isimlər",
+          "rule": "Samit + y ilə bitən isimlərdə y → ies; sait + y olduqda adətən sadəcə -s.",
+          "formula": "consonant+y → ies",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "city → cities",
+            "boy → boys"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-05",
+          "name": "-f/-fe ilə bitən isimlər",
+          "rule": "Bəzi sözlərdə f/fe → ves olur, bəzilərində sadəcə -s artırılır.",
+          "formula": "wife → wives / roof → roofs",
+          "uses": [],
+          "exceptions": [
+            "roof, chief, belief kimi sözlərdə -s saxlanılır."
+          ],
+          "examples": [
+            "wife/wives",
+            "roof/roofs"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-06",
+          "name": "Qaydasız cəm",
+          "rule": "Bəzi isimlər qaydasız şəkildə cəmlənir.",
+          "formula": "man → men",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "child/children",
+            "foot/feet",
+            "mouse/mice",
+            "person/people"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-07",
+          "name": "Eyni forma ilə cəm",
+          "rule": "Bəzi isimlərin tək və cəm forması eynidir.",
+          "formula": "one sheep / two sheep",
+          "uses": [
+            "sheep",
+            "deer",
+            "fish kimi sözlərin bir çox istifadəsi"
+          ],
+          "exceptions": [
+            "fish/fishes xüsusi mənada fərqlənə bilər."
+          ],
+          "examples": [
+            "one sheep",
+            "two sheep"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-08",
+          "name": "Countable / Uncountable",
+          "rule": "Sayıla bilən isimlərlə a/an və ədədlər işlənə bilər; sayılmayanlarla adətən a/an işlənmir.",
+          "formula": "countable / uncountable",
+          "uses": [
+            "many/few countable",
+            "much/little uncountable"
+          ],
+          "exceptions": [
+            "Bəzi isimlər mənaya görə hər iki tipdə işlənə bilər."
+          ],
+          "examples": [
+            "a book",
+            "some water"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-09",
+          "name": "Possessive — 's",
+          "rule": "Canlı varlıqlarda sahiblik çox vaxt 's ilə göstərilir.",
+          "formula": "owner + 's + noun",
+          "uses": [
+            "tək isim",
+            "qaydasız cəm"
+          ],
+          "exceptions": [
+            "Cəm isim -s ilə bitirsə, yalnız apostrof gələ bilər."
+          ],
+          "examples": [
+            "Ali's book",
+            "the children's room"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "N-10",
+          "name": "Of-possessive",
+          "rule": "Əşyalar və uzun isim qruplarında of quruluşu geniş işlənir.",
+          "formula": "the + noun + of + noun",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "the door of the room",
+            "the name of the school"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "03_pronouns",
+      "name": "Pronouns — Əvəzliklər",
+      "rules": [
+        {
+          "id": "P-01",
+          "name": "Subject pronouns",
+          "rule": "Mübtəda əvəzlikləri felin qarşısında mübtəda kimi işlənir.",
+          "formula": "I, you, he, she, it, we, they",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "She works.",
+            "They are ready."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "P-02",
+          "name": "Object pronouns",
+          "rule": "Tamamlıq əvəzlikləri feldən və ya ön qoşmadan sonra işlənir.",
+          "formula": "me, you, him, her, it, us, them",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "Help me.",
+            "I saw them."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "P-03",
+          "name": "Possessive adjectives",
+          "rule": "İsimdən əvvəl sahiblik bildirir.",
+          "formula": "my, your, his, her, its, our, their + noun",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "my book",
+            "their house"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "P-04",
+          "name": "Possessive pronouns",
+          "rule": "İsim təkrar edilmədən sahiblik bildirir.",
+          "formula": "mine, yours, his, hers, ours, theirs",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "This book is mine.",
+            "The car is theirs."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "P-05",
+          "name": "Reflexive pronouns",
+          "rule": "Mübtəda ilə tamamlıq eyni şəxs olduqda və vurğu üçün işlənir.",
+          "formula": "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves",
+          "uses": [
+            "özünü",
+            "özü şəxsən"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I hurt myself.",
+            "She did it herself."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "P-06",
+          "name": "Demonstratives",
+          "rule": "Yaxın və uzaq tək/cəm obyektləri göstərir.",
+          "formula": "this/these; that/those",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "this book",
+            "those cars"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "P-07",
+          "name": "Indefinite pronouns",
+          "rule": "Qeyri-müəyyən şəxs və əşyaları bildirir.",
+          "formula": "someone, anyone, nobody, something və s.",
+          "uses": [
+            "müsbət, sual, mənfi cümlələr"
+          ],
+          "exceptions": [
+            "-body/-one ilə bitənlər adətən tək fel qəbul edir."
+          ],
+          "examples": [
+            "Someone is here.",
+            "Nothing works."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "P-08",
+          "name": "Relative pronouns",
+          "rule": "Təyin budaq cümləsində who, which, that, whose, whom işlənə bilər.",
+          "formula": "who/which/that/whose/whom",
+          "uses": [],
+          "exceptions": [
+            "Non-defining relative clause-da that işlənmir."
+          ],
+          "examples": [
+            "The man who called me...",
+            "The book that I bought..."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "04_be_do_have",
+      "name": "Be, Do, Have — Köməkçi fellər",
+      "rules": [
+        {
+          "id": "AUX-01",
+          "name": "BE — Present",
+          "rule": "am/is/are indiki zamanda be felinin formalarıdır.",
+          "formula": "I am; he/she/it is; you/we/they are",
+          "uses": [
+            "isim",
+            "sifət",
+            "yer",
+            "continuous"
+          ],
+          "exceptions": [],
+          "examples": [
+            "She is a student.",
+            "They are happy."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "AUX-02",
+          "name": "BE — Past",
+          "rule": "was/were keçmişdə be felinin formalarıdır.",
+          "formula": "I/he/she/it was; you/we/they were",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "He was tired.",
+            "We were at home."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "AUX-03",
+          "name": "DO — sual və inkar",
+          "rule": "Present Simple-da əsas fel be deyilsə, sual və inkarda do/does işlənir.",
+          "formula": "Do/Does + subject + V1?",
+          "uses": [
+            "I/you/we/they → do",
+            "he/she/it → does"
+          ],
+          "exceptions": [
+            "Əsas fel does-dan sonra V1 olur."
+          ],
+          "examples": [
+            "Does he work?",
+            "They don't know."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "AUX-04",
+          "name": "DID — Past Simple",
+          "rule": "Past Simple-da sual və inkarda did işlənir və əsas fel V1 formasına qayıdır.",
+          "formula": "Did + subject + V1?",
+          "uses": [
+            "bütün şəxslər"
+          ],
+          "exceptions": [
+            "did-dən sonra V2 işlənmir."
+          ],
+          "examples": [
+            "Did you go?",
+            "She didn't go."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "AUX-05",
+          "name": "HAVE/HAS — Present Perfect",
+          "rule": "Present Perfect-də have/has köməkçi feldir.",
+          "formula": "have/has + V3",
+          "uses": [
+            "I/you/we/they → have",
+            "he/she/it → has"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I have finished.",
+            "She has gone."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "AUX-06",
+          "name": "HAD — Past Perfect",
+          "rule": "Past Perfect-də bütün şəxslərlə had + V3 işlənir.",
+          "formula": "had + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "They had left."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "05_tenses",
+      "name": "Tenses — Zamanlar",
+      "rules": [
+        {
+          "id": "T-01",
+          "name": "Present Simple",
+          "rule": "Adət, rutin, ümumi həqiqət və cədvəl üzrə hadisələr üçün işlənir.",
+          "formula": "I/you/we/they + V1; he/she/it + V1-s",
+          "uses": [
+            "routines",
+            "facts",
+            "timetables"
+          ],
+          "exceptions": [
+            "he/she/it ilə -s/-es qaydası"
+          ],
+          "examples": [
+            "I work every day.",
+            "She plays tennis."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-02",
+          "name": "Present Continuous",
+          "rule": "Danışıq anında gedən və müvəqqəti davam edən hərəkətlər üçün işlənir.",
+          "formula": "am/is/are + V-ing",
+          "uses": [
+            "now",
+            "at the moment",
+            "temporary situations"
+          ],
+          "exceptions": [
+            "stative verbs çox vaxt continuous qəbul etmir."
+          ],
+          "examples": [
+            "I am studying now.",
+            "They are working."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-03",
+          "name": "Present Perfect",
+          "rule": "Keçmişdə baş verib nəticəsi və ya indiki zamanla əlaqəsi olan hərəkətlər üçün işlənir.",
+          "formula": "have/has + V3",
+          "uses": [
+            "experience",
+            "result",
+            "unfinished time"
+          ],
+          "exceptions": [
+            "finished past time ifadəsi ilə adətən Past Simple işlənir."
+          ],
+          "examples": [
+            "I have seen this film.",
+            "She has lost her key."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-04",
+          "name": "Present Perfect Continuous",
+          "rule": "Keçmişdə başlayıb indiyə qədər davam edən və ya yeni bitmiş, müddəti vurğulanan hərəkət üçün işlənir.",
+          "formula": "have/has been + V-ing",
+          "uses": [
+            "for",
+            "since",
+            "duration"
+          ],
+          "exceptions": [
+            "Stative verbs adətən continuous olmur."
+          ],
+          "examples": [
+            "I have been studying for two hours."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-05",
+          "name": "Past Simple",
+          "rule": "Keçmişdə müəyyən vaxtda baş vermiş və bitmiş hərəkətlər üçün işlənir.",
+          "formula": "V2 / did + V1",
+          "uses": [
+            "yesterday",
+            "last week",
+            "ago",
+            "in 2020"
+          ],
+          "exceptions": [
+            "be → was/were"
+          ],
+          "examples": [
+            "We visited Baku last year.",
+            "Did you see him?"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-06",
+          "name": "Past Continuous",
+          "rule": "Keçmişdə müəyyən anda davam edən hərəkət üçün işlənir.",
+          "formula": "was/were + V-ing",
+          "uses": [
+            "at 5 yesterday",
+            "while"
+          ],
+          "exceptions": [
+            "Qısa hadisə ilə interrupted action mümkündür."
+          ],
+          "examples": [
+            "I was reading when he called."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-07",
+          "name": "Past Perfect",
+          "rule": "Keçmişdə başqa bir keçmiş hadisədən daha əvvəl baş vermiş hərəkət üçün işlənir.",
+          "formula": "had + V3",
+          "uses": [
+            "before",
+            "after",
+            "by the time"
+          ],
+          "exceptions": [],
+          "examples": [
+            "She had left before I arrived."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-08",
+          "name": "Past Perfect Continuous",
+          "rule": "Keçmişdə müəyyən nöqtəyə qədər davam edən hərəkətin müddətini vurğulayır.",
+          "formula": "had been + V-ing",
+          "uses": [
+            "for",
+            "since",
+            "before"
+          ],
+          "exceptions": [
+            "Stative verbs ilə məhduddur."
+          ],
+          "examples": [
+            "They had been waiting for an hour."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-09",
+          "name": "Future Simple",
+          "rule": "Ani qərar, proqnoz, vəd və gələcəklə bağlı fikir üçün will işlənir.",
+          "formula": "will + V1",
+          "uses": [
+            "I think",
+            "probably",
+            "promise",
+            "offer"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I will help you.",
+            "It will rain."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-10",
+          "name": "Be going to",
+          "rule": "Əvvəlcədən planlaşdırılmış niyyət və mövcud əlamətə əsaslanan proqnoz üçün işlənir.",
+          "formula": "am/is/are going to + V1",
+          "uses": [
+            "plans",
+            "evidence-based predictions"
+          ],
+          "exceptions": [],
+          "examples": [
+            "We are going to travel.",
+            "Look at the clouds! It is going to rain."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-11",
+          "name": "Future Continuous",
+          "rule": "Gələcəkdə müəyyən anda davam edəcək hərəkət üçün işlənir.",
+          "formula": "will be + V-ing",
+          "uses": [
+            "at this time tomorrow"
+          ],
+          "exceptions": [],
+          "examples": [
+            "At 8 tomorrow, I will be studying."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-12",
+          "name": "Future Perfect",
+          "rule": "Gələcəkdə müəyyən vaxta qədər tamamlanacaq hərəkət üçün işlənir.",
+          "formula": "will have + V3",
+          "uses": [
+            "by",
+            "by the time"
+          ],
+          "exceptions": [],
+          "examples": [
+            "By Friday, I will have finished."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-13",
+          "name": "Future Perfect Continuous",
+          "rule": "Gələcəkdə müəyyən nöqtəyə qədər davam etmiş olacaq hərəkətin müddətini vurğulayır.",
+          "formula": "will have been + V-ing",
+          "uses": [
+            "for",
+            "by"
+          ],
+          "exceptions": [],
+          "examples": [
+            "By June, I will have been working here for a year."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-14",
+          "name": "Present Continuous — future arrangement",
+          "rule": "Qəti razılaşdırılmış yaxın gələcək planları üçün Present Continuous işlənə bilər.",
+          "formula": "am/is/are + V-ing + future time",
+          "uses": [
+            "appointments",
+            "arrangements"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I am meeting my teacher tomorrow."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "T-15",
+          "name": "Present Simple — future timetable",
+          "rule": "Cədvəl və rəsmi proqram üzrə gələcək hadisələrdə Present Simple işlənə bilər.",
+          "formula": "Present Simple + future time",
+          "uses": [
+            "trains",
+            "lessons",
+            "official schedules"
+          ],
+          "exceptions": [],
+          "examples": [
+            "The train leaves at 8."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "06_future",
+      "name": "Future Forms — Gələcək zaman formaları",
+      "rules": [
+        {
+          "id": "FUT-01",
+          "name": "Will vs going to",
+          "rule": "Will ani qərar/proqnoz/vəd; going to əvvəlcədən plan və görünən əlamətə əsaslanan proqnozdur.",
+          "formula": "will + V1 / be going to + V1",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "I'll answer the phone.",
+            "We are going to buy a car."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FUT-02",
+          "name": "Shall",
+          "rule": "Əsasən I/we ilə təklif və ya birlikdə qərar vermə suallarında işlənə bilər.",
+          "formula": "Shall I/we + V1?",
+          "uses": [
+            "təklif",
+            "kömək təklifi"
+          ],
+          "exceptions": [
+            "Müasir danışıq dilində will və digər formalar daha çox işlənir."
+          ],
+          "examples": [
+            "Shall we start?",
+            "Shall I help you?"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "07_verbs",
+      "name": "Verbs — Fellər",
+      "rules": [
+        {
+          "id": "V-01",
+          "name": "Regular verbs",
+          "rule": "Müntəzəm fellər Past Simple və V3-də əsasən -ed qəbul edir.",
+          "formula": "V + ed",
+          "uses": [],
+          "exceptions": [
+            "yazılış dəyişiklikləri: study→studied, stop→stopped"
+          ],
+          "examples": [
+            "work/worked/worked"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "V-02",
+          "name": "Irregular verbs",
+          "rule": "Qaydasız fellərin V2 və V3 formaları ayrıca öyrənilir.",
+          "formula": "V1/V2/V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "go/went/gone",
+            "see/saw/seen"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "V-03",
+          "name": "Third person singular",
+          "rule": "Present Simple-da he/she/it ilə əsas fel -s/-es qəbul edir.",
+          "formula": "he/she/it + V-s/-es",
+          "uses": [
+            "-s",
+            "-es",
+            "-ies"
+          ],
+          "exceptions": [
+            "have → has; be → is"
+          ],
+          "examples": [
+            "He works.",
+            "She watches."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "V-04",
+          "name": "Stative verbs",
+          "rule": "Vəziyyət bildirən bəzi fellər continuous zamanda adətən işlənmir.",
+          "formula": "know, like, believe, understand və s.",
+          "uses": [
+            "state",
+            "possession",
+            "opinion"
+          ],
+          "exceptions": [
+            "Məna dəyişdikdə continuous mümkün ola bilər: think, have, see və s."
+          ],
+          "examples": [
+            "I know the answer.",
+            "I am thinking about it."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "V-05",
+          "name": "Imperative",
+          "rule": "Əmr, xahiş və təlimat üçün felin V1 forması işlənir.",
+          "formula": "V1 ... / Don't + V1",
+          "uses": [
+            "müsbət əmr",
+            "mənfi əmr"
+          ],
+          "exceptions": [],
+          "examples": [
+            "Open the door.",
+            "Don't touch it."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "V-06",
+          "name": "Let",
+          "rule": "Birinə icazə vermək və ya təklif etmək üçün let + object + V1 işlənir.",
+          "formula": "let + object + V1",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "Let me help you.",
+            "Let them go."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "08_modals",
+      "name": "Modal Verbs — Modal fellər",
+      "rules": [
+        {
+          "id": "MOD-01",
+          "name": "Can",
+          "rule": "Bacarıq, icazə və imkan bildirir.",
+          "formula": "can + V1",
+          "uses": [
+            "ability",
+            "permission",
+            "possibility"
+          ],
+          "exceptions": [
+            "can-dan sonra to gəlmir."
+          ],
+          "examples": [
+            "I can swim.",
+            "Can I come in?"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-02",
+          "name": "Could",
+          "rule": "Keçmiş bacarıq, nəzakətli xahiş və mümkünlük bildirə bilər.",
+          "formula": "could + V1",
+          "uses": [
+            "past ability",
+            "polite request",
+            "possibility"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I could swim at five.",
+            "Could you help me?"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-03",
+          "name": "May",
+          "rule": "Rəsmi icazə və mümkünlük bildirir.",
+          "formula": "may + V1",
+          "uses": [
+            "permission",
+            "possibility"
+          ],
+          "exceptions": [],
+          "examples": [
+            "May I come in?",
+            "It may rain."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-04",
+          "name": "Might",
+          "rule": "Zəif ehtimal bildirir.",
+          "formula": "might + V1",
+          "uses": [
+            "possibility"
+          ],
+          "exceptions": [],
+          "examples": [
+            "He might be late."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-05",
+          "name": "Must",
+          "rule": "Güclü zərurət və danışanın çıxardığı nəticəni bildirə bilər.",
+          "formula": "must + V1",
+          "uses": [
+            "obligation",
+            "strong deduction"
+          ],
+          "exceptions": [
+            "mustn't = qadağa; don't have to = məcburiyyətin olmaması"
+          ],
+          "examples": [
+            "You must study.",
+            "He must be tired."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-06",
+          "name": "Have to",
+          "rule": "Xarici qayda və zərurət bildirir.",
+          "formula": "have/has to + V1",
+          "uses": [
+            "rules",
+            "external obligation"
+          ],
+          "exceptions": [
+            "Past: had to; future: will have to"
+          ],
+          "examples": [
+            "I have to work.",
+            "She has to leave."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-07",
+          "name": "Should / Ought to",
+          "rule": "Məsləhət və gözlənti bildirir.",
+          "formula": "should + V1 / ought to + V1",
+          "uses": [
+            "advice",
+            "expectation"
+          ],
+          "exceptions": [],
+          "examples": [
+            "You should rest.",
+            "He ought to apologize."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-08",
+          "name": "Need",
+          "rule": "Zərurət bildirə bilər; need to adi feldir, need modal istifadəsində əsasən sual/mənfi formalarda rast gəlinir.",
+          "formula": "need to + V1 / needn't + V1",
+          "uses": [
+            "necessity",
+            "lack of necessity"
+          ],
+          "exceptions": [
+            "needn't və don't need to məna baxımından yaxındır."
+          ],
+          "examples": [
+            "You need to study.",
+            "You needn't worry."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-09",
+          "name": "Used to",
+          "rule": "Keçmişdə müntəzəm olan, indi olmayan vəziyyət və vərdiş üçün işlənir.",
+          "formula": "used to + V1",
+          "uses": [
+            "past habits",
+            "past states"
+          ],
+          "exceptions": [
+            "be used to + noun/V-ing tamam fərqli quruluşdur."
+          ],
+          "examples": [
+            "I used to play football."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "MOD-10",
+          "name": "Be used to / Get used to",
+          "rule": "Bir şeyə öyrəşmiş olmaq və öyrəşmək bildirir.",
+          "formula": "be/get used to + noun/V-ing",
+          "uses": [],
+          "exceptions": [
+            "to burada infinitive deyil, preposition-dır."
+          ],
+          "examples": [
+            "I am used to waking up early.",
+            "She is getting used to it."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "09_conditionals",
+      "name": "Conditionals — Şərt cümlələri",
+      "rules": [
+        {
+          "id": "C-01",
+          "name": "Zero Conditional",
+          "rule": "Ümumi həqiqət və təkrarlanan nəticələr üçün işlənir.",
+          "formula": "If + Present Simple, Present Simple",
+          "uses": [
+            "facts",
+            "rules"
+          ],
+          "exceptions": [],
+          "examples": [
+            "If you heat ice, it melts."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "C-02",
+          "name": "First Conditional",
+          "rule": "Real və mümkün gələcək şərt üçün işlənir.",
+          "formula": "If + Present Simple, will + V1",
+          "uses": [
+            "real possibility"
+          ],
+          "exceptions": [
+            "if-clause-da adətən will işlənmir."
+          ],
+          "examples": [
+            "If it rains, we will stay home."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "C-03",
+          "name": "Second Conditional",
+          "rule": "İndiki/gələcək qeyri-real və ya az ehtimallı vəziyyət üçün işlənir.",
+          "formula": "If + Past Simple, would + V1",
+          "uses": [
+            "hypothetical present/future"
+          ],
+          "exceptions": [
+            "be üçün rəsmi standartda I/he/she/it ilə were tez-tez işlənir."
+          ],
+          "examples": [
+            "If I were you, I would study."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "C-04",
+          "name": "Third Conditional",
+          "rule": "Keçmişdə baş verməmiş şərt və onun mümkün olmayan nəticəsi üçün işlənir.",
+          "formula": "If + Past Perfect, would have + V3",
+          "uses": [
+            "past unreal"
+          ],
+          "exceptions": [],
+          "examples": [
+            "If I had studied, I would have passed."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "C-05",
+          "name": "Mixed Conditionals",
+          "rule": "Şərtin zamanı ilə nəticənin zamanı fərqli olduqda qarışıq şərt formaları işlənir.",
+          "formula": "məs. If + Past Perfect, would + V1",
+          "uses": [
+            "past condition → present result"
+          ],
+          "exceptions": [],
+          "examples": [
+            "If I had studied medicine, I would be a doctor now."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "C-06",
+          "name": "Unless",
+          "rule": "If ... not mənasında şərt bildirir.",
+          "formula": "unless + affirmative clause",
+          "uses": [
+            "if not"
+          ],
+          "exceptions": [
+            "unless-dən sonra adətən əlavə not işlədilmir."
+          ],
+          "examples": [
+            "Unless you hurry, you'll be late."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "10_passive",
+      "name": "Passive Voice — Məchul növ",
+      "rules": [
+        {
+          "id": "PV-01",
+          "name": "Passive — əsas prinsip",
+          "rule": "Hərəkəti edən deyil, hərəkətin təsir etdiyi obyekt ön plana çıxarılır.",
+          "formula": "be + V3",
+          "uses": [
+            "agent unknown",
+            "agent unimportant",
+            "result-focused"
+          ],
+          "exceptions": [
+            "be felinin zamanı dəyişir, V3 qalır."
+          ],
+          "examples": [
+            "The letter was written by Ali."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PV-02",
+          "name": "Present Simple Passive",
+          "rule": "am/is/are + V3 işlənir.",
+          "formula": "am/is/are + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "English is spoken here."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PV-03",
+          "name": "Past Simple Passive",
+          "rule": "was/were + V3 işlənir.",
+          "formula": "was/were + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "The car was repaired."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PV-04",
+          "name": "Present Perfect Passive",
+          "rule": "have/has been + V3 işlənir.",
+          "formula": "have/has been + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "The work has been finished."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PV-05",
+          "name": "Future Passive",
+          "rule": "will be + V3 işlənir.",
+          "formula": "will be + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "The result will be announced tomorrow."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PV-06",
+          "name": "Modal Passive",
+          "rule": "Modal + be + V3 quruluşu işlənir.",
+          "formula": "modal + be + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "The work must be completed."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PV-07",
+          "name": "By-agent",
+          "rule": "Hərəkəti edən şəxs vacibdirsə by + agent əlavə edilir.",
+          "formula": "by + agent",
+          "uses": [],
+          "exceptions": [
+            "Agent məlum və əhəmiyyətsizdirsə çox vaxt yazılmır."
+          ],
+          "examples": [
+            "The book was written by Orwell."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "11_questions_negatives",
+      "name": "Questions & Negatives — Sual və inkar",
+      "rules": [
+        {
+          "id": "Q-01",
+          "name": "Yes/No questions",
+          "rule": "Köməkçi/modal fel mübtədadan əvvəl gəlir.",
+          "formula": "Auxiliary + subject + verb?",
+          "uses": [],
+          "exceptions": [
+            "Be özü köməkçi kimi inversiya yaradır."
+          ],
+          "examples": [
+            "Do you work?",
+            "Are you ready?"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "Q-02",
+          "name": "Wh-questions",
+          "rule": "What, where, when, why, who, which, whose, how ilə məlumat soruşulur.",
+          "formula": "Wh + auxiliary + subject + V1?",
+          "uses": [],
+          "exceptions": [
+            "Who mübtəda olduqda do/does/did tələb olunmaya bilər."
+          ],
+          "examples": [
+            "Where do you live?",
+            "Who called you?"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "Q-03",
+          "name": "Negative with do",
+          "rule": "Present/Past Simple-da not do/does/did-dən sonra gəlir.",
+          "formula": "do/does/did + not + V1",
+          "uses": [],
+          "exceptions": [
+            "doesn't/didn't-dən sonra V1"
+          ],
+          "examples": [
+            "She doesn't work.",
+            "They didn't go."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "Q-04",
+          "name": "Negative with be",
+          "rule": "Be felində not birbaşa be-dən sonra gəlir.",
+          "formula": "am/is/are/was/were + not",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "He isn't ready.",
+            "We weren't late."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "Q-05",
+          "name": "Question tags",
+          "rule": "Əsas cümlə müsbətdirsə adətən mənfi, mənfidirsə müsbət qısa sual artırılır.",
+          "formula": "statement, auxiliary + pronoun?",
+          "uses": [
+            "təsdiq almaq",
+            "söhbəti davam etdirmək"
+          ],
+          "exceptions": [
+            "I am → aren't I? xüsusi formadır."
+          ],
+          "examples": [
+            "You are ready, aren't you?"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "12_gerund_infinitive",
+      "name": "Gerund & Infinitive",
+      "rules": [
+        {
+          "id": "GI-01",
+          "name": "Gerund",
+          "rule": "Fel + ing isim kimi işlənə bilər.",
+          "formula": "V-ing",
+          "uses": [
+            "subject",
+            "object",
+            "preposition-dan sonra"
+          ],
+          "exceptions": [],
+          "examples": [
+            "Swimming is fun.",
+            "I enjoy reading."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "GI-02",
+          "name": "Infinitive with to",
+          "rule": "to + V1 bir çox fellərdən sonra məqsəd və tamamlıq kimi işlənir.",
+          "formula": "to + V1",
+          "uses": [
+            "purpose",
+            "verb complement"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I want to learn.",
+            "I went to study."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "GI-03",
+          "name": "Preposition + gerund",
+          "rule": "Ön qoşmadan sonra fel işlənirsə V-ing gəlir.",
+          "formula": "preposition + V-ing",
+          "uses": [
+            "after",
+            "before",
+            "without",
+            "by"
+          ],
+          "exceptions": [
+            "to preposition olduqda da V-ing mümkündür: look forward to doing"
+          ],
+          "examples": [
+            "before leaving",
+            "without saying"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "GI-04",
+          "name": "Verb + gerund",
+          "rule": "Enjoy, avoid, finish, mind və s. fellərdən sonra gerund işlənir.",
+          "formula": "verb + V-ing",
+          "uses": [],
+          "exceptions": [
+            "Bəzi fellər həm gerund, həm infinitive qəbul edir və məna dəyişə bilər."
+          ],
+          "examples": [
+            "enjoy reading",
+            "avoid making mistakes"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "GI-05",
+          "name": "Verb + infinitive",
+          "rule": "Want, decide, hope, plan, promise və s. fellərdən sonra to-infinitive işlənir.",
+          "formula": "verb + to + V1",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "want to go",
+            "decide to stay"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "GI-06",
+          "name": "Make/let + object + V1",
+          "rule": "Make və let-dən sonra obyekt + bare infinitive işlənə bilər.",
+          "formula": "make/let + object + V1",
+          "uses": [
+            "causative",
+            "permission"
+          ],
+          "exceptions": [
+            "Passive make → be made to + V1."
+          ],
+          "examples": [
+            "They made me laugh.",
+            "Let me go."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "13_comparison",
+      "name": "Adjectives — Sifət və dərəcələri",
+      "rules": [
+        {
+          "id": "ADJ-01",
+          "name": "Positive degree",
+          "rule": "Sifətin əsas formasıdır.",
+          "formula": "adjective",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "tall",
+            "beautiful"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADJ-02",
+          "name": "Comparative — short adjectives",
+          "rule": "Qısa sifətlərdə çox vaxt -er, müqayisədə than işlənir.",
+          "formula": "adj-er + than",
+          "uses": [
+            "iki şeyi müqayisə etmək"
+          ],
+          "exceptions": [
+            "hot→hotter, big→bigger kimi yazılış dəyişiklikləri"
+          ],
+          "examples": [
+            "Ali is taller than Murad."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADJ-03",
+          "name": "Comparative — long adjectives",
+          "rule": "Uzun sifətlərlə more + adjective + than işlənir.",
+          "formula": "more + adjective + than",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "more interesting than"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADJ-04",
+          "name": "Superlative — short adjectives",
+          "rule": "Qısa sifətlərdə the + -est işlənir.",
+          "formula": "the + adj-est",
+          "uses": [
+            "qrup daxilində ən yüksək dərəcə"
+          ],
+          "exceptions": [],
+          "examples": [
+            "the tallest"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADJ-05",
+          "name": "Superlative — long adjectives",
+          "rule": "Uzun sifətlərlə the most + adjective işlənir.",
+          "formula": "the most + adjective",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "the most beautiful"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADJ-06",
+          "name": "Irregular comparison",
+          "rule": "Bəzi sifətlər qaydasız müqayisə olunur.",
+          "formula": "good→better→best",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "bad→worse→worst",
+            "far→farther/further→farthest/furthest"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADJ-07",
+          "name": "As ... as",
+          "rule": "Bərabər müqayisə üçün as + adjective + as işlənir.",
+          "formula": "as + adj + as",
+          "uses": [],
+          "exceptions": [
+            "inkarda not as/so ... as mümkündür."
+          ],
+          "examples": [
+            "as tall as",
+            "not as expensive as"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADJ-08",
+          "name": "Too / Enough",
+          "rule": "Too həddindən artıq, enough kifayət qədər mənası verir.",
+          "formula": "too + adj; adj + enough; enough + noun",
+          "uses": [
+            "too + adjective",
+            "adjective + enough"
+          ],
+          "exceptions": [],
+          "examples": [
+            "too difficult",
+            "old enough",
+            "enough money"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADJ-09",
+          "name": "So / Such",
+          "rule": "So sifət/zərfi, such isə isim qrupunu vurğulayır.",
+          "formula": "so + adj/adv; such + (a/an) + adj + noun",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "so beautiful",
+            "such a nice day"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "14_adverbs",
+      "name": "Adverbs — Zərflər",
+      "rules": [
+        {
+          "id": "ADV-01",
+          "name": "Adverb formation",
+          "rule": "Bir çox zərf sifətə -ly əlavə etməklə yaranır.",
+          "formula": "adjective + ly",
+          "uses": [],
+          "exceptions": [
+            "good → well; fast → fast; hard → hard"
+          ],
+          "examples": [
+            "quick → quickly",
+            "careful → carefully"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADV-02",
+          "name": "Adverbs of frequency",
+          "rule": "Always, usually, often, sometimes, rarely, never hərəkətin tezliyini bildirir.",
+          "formula": "subject + frequency adverb + main verb",
+          "uses": [
+            "Present Simple"
+          ],
+          "exceptions": [
+            "be-dən sonra gəlir: He is always late."
+          ],
+          "examples": [
+            "I usually walk.",
+            "She is often late."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ADV-03",
+          "name": "Adverb position",
+          "rule": "Zərfin yeri onun növündən və cümlə quruluşundan asılıdır.",
+          "formula": "müxtəlif",
+          "uses": [
+            "manner",
+            "place",
+            "time",
+            "frequency"
+          ],
+          "exceptions": [
+            "Bəzi zərflərin bir neçə mümkün mövqeyi var."
+          ],
+          "examples": [
+            "She sings beautifully.",
+            "He arrived yesterday."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "15_prepositions",
+      "name": "Prepositions — Ön qoşmalar",
+      "rules": [
+        {
+          "id": "PREP-01",
+          "name": "Time: at",
+          "rule": "Saat və bəzi sabit vaxt ifadələri ilə at işlənir.",
+          "formula": "at + time",
+          "uses": [
+            "at 5 o'clock",
+            "at noon",
+            "at night"
+          ],
+          "exceptions": [],
+          "examples": [
+            "at 7",
+            "at midnight"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PREP-02",
+          "name": "Time: on",
+          "rule": "Həftə günləri və konkret tarixlərlə on işlənir.",
+          "formula": "on + day/date",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "on Monday",
+            "on 5 May"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PREP-03",
+          "name": "Time: in",
+          "rule": "Ay, il, fəsil, uzun dövr və günün hissələri ilə in işlənir.",
+          "formula": "in + month/year/period",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "in July",
+            "in 2026",
+            "in the morning"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PREP-04",
+          "name": "Place: at/on/in",
+          "rule": "At nöqtə/yer, on səth, in daxilində mənasında geniş işlənir.",
+          "formula": "at/on/in + place",
+          "uses": [],
+          "exceptions": [
+            "Kontekstə görə seçim dəyişə bilər."
+          ],
+          "examples": [
+            "at school",
+            "on the table",
+            "in the room"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PREP-05",
+          "name": "Since / For",
+          "rule": "Since başlanğıc nöqtəsini, for müddəti bildirir.",
+          "formula": "since + starting point; for + duration",
+          "uses": [
+            "Present Perfect ilə çox işlənir"
+          ],
+          "exceptions": [],
+          "examples": [
+            "since Monday",
+            "for two hours"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PREP-06",
+          "name": "By / Until",
+          "rule": "By son həddi/deadline, until isə davam edən müddətin sonunu bildirir.",
+          "formula": "by + deadline; until + endpoint",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "Finish it by Friday.",
+            "Stay until Friday."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PREP-07",
+          "name": "Between / Among",
+          "rule": "Between adətən iki və ya ayrı-ayrı elementlər arasında; among qrup daxilində işlənir.",
+          "formula": "between / among",
+          "uses": [],
+          "exceptions": [
+            "between çoxsaylı ayrı elementlərlə də mümkündür."
+          ],
+          "examples": [
+            "between Ali and Murad",
+            "among friends"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "16_quantifiers",
+      "name": "Quantifiers — Miqdar bildirən sözlər",
+      "rules": [
+        {
+          "id": "QTY-01",
+          "name": "Some / Any",
+          "rule": "Some əsasən təsdiq cümləsində, any sual və inkarda işlənir.",
+          "formula": "some/any + noun",
+          "uses": [
+            "sayılabilən cəm",
+            "sayılmayan isim"
+          ],
+          "exceptions": [
+            "Təklif/xahiş suallarında some işlənə bilər."
+          ],
+          "examples": [
+            "some water",
+            "Do you have any money?"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "QTY-02",
+          "name": "Much / Many",
+          "rule": "Much sayılmayan, many sayıla bilən cəm isimlərlə işlənir.",
+          "formula": "much + uncountable; many + plural countable",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "much time",
+            "many books"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "QTY-03",
+          "name": "Few / A few",
+          "rule": "Few demək olar ki, heç yoxdur mənası verən mənfi çalar; a few isə az da olsa var mənası verir.",
+          "formula": "few/a few + plural noun",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "few students",
+            "a few students"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "QTY-04",
+          "name": "Little / A little",
+          "rule": "Little demək olar ki, yoxdur; a little isə az miqdarda var mənasında işlənir.",
+          "formula": "little/a little + uncountable noun",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "little time",
+            "a little water"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "QTY-05",
+          "name": "All / Both",
+          "rule": "All üç və daha çox element/qrup, both iki element üçün işlənir.",
+          "formula": "all + plural/uncountable; both + plural",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "all students",
+            "both answers"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "QTY-06",
+          "name": "Either / Neither",
+          "rule": "Either iki variantdan biri, neither ikisinin heç biri mənasını verir.",
+          "formula": "either/neither + singular noun",
+          "uses": [],
+          "exceptions": [
+            "Either ... or; Neither ... nor"
+          ],
+          "examples": [
+            "Either answer is possible.",
+            "Neither answer is correct."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "QTY-07",
+          "name": "Each / Every",
+          "rule": "Each fərdləri ayrı-ayrılıqda, every qrupu ümumiləşdirərək bildirir; hər ikisindən sonra tək sayıla bilən isim gəlir.",
+          "formula": "each/every + singular countable noun",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "Each student has a book.",
+            "Every day is different."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "17_conjunctions",
+      "name": "Conjunctions — Bağlayıcılar",
+      "rules": [
+        {
+          "id": "CONJ-01",
+          "name": "And / But / Or",
+          "rule": "And əlavə, but ziddiyyət, or seçim bildirir.",
+          "formula": "clause + conjunction + clause",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "I came and I stayed.",
+            "Tea or coffee?"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "CONJ-02",
+          "name": "Because / So",
+          "rule": "Because səbəb, so nəticə bildirir.",
+          "formula": "because + cause; so + result",
+          "uses": [
+            "səbəb",
+            "nəticə"
+          ],
+          "exceptions": [
+            "Because və so eyni səbəb-nəticə cümləsində lazımsız təkrar kimi işlənməməlidir."
+          ],
+          "examples": [
+            "I stayed because it rained.",
+            "It rained, so I stayed."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "CONJ-03",
+          "name": "Although / Though",
+          "rule": "Ziddiyyət bildirən budaq cümlə bağlayıcılarıdır.",
+          "formula": "although/though + clause",
+          "uses": [],
+          "exceptions": [
+            "Although ... but quruluşu standart formal ingiliscədə istifadə edilmir."
+          ],
+          "examples": [
+            "Although it was cold, we went out."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "CONJ-04",
+          "name": "While / When",
+          "rule": "Vaxt münasibəti bildirir.",
+          "formula": "while/when + clause",
+          "uses": [
+            "eyni vaxtda davam edən hərəkət",
+            "bir hadisənin baş verdiyi an"
+          ],
+          "exceptions": [],
+          "examples": [
+            "While I was studying, he called."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "CONJ-05",
+          "name": "If / Unless",
+          "rule": "Şərt bildirir.",
+          "formula": "if/unless + clause",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "If you study, you will improve.",
+            "Unless you hurry, you'll be late."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "18_relative",
+      "name": "Relative Clauses — Təyin budaq cümlələri",
+      "rules": [
+        {
+          "id": "REL-01",
+          "name": "Defining relative clause",
+          "rule": "İsmi müəyyənləşdirən vacib məlumat verir; vergül işlənmir.",
+          "formula": "noun + who/which/that + clause",
+          "uses": [
+            "people → who/that",
+            "things → which/that"
+          ],
+          "exceptions": [
+            "that non-defining-də işlənmir."
+          ],
+          "examples": [
+            "The student who won is my friend."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "REL-02",
+          "name": "Non-defining relative clause",
+          "rule": "Əlavə, vacib olmayan məlumat verir və vergüllə ayrılır.",
+          "formula": "noun, who/which/whose + clause,",
+          "uses": [
+            "people/things"
+          ],
+          "exceptions": [
+            "that işlənmir; əvəzlik çox vaxt buraxılmır."
+          ],
+          "examples": [
+            "Ali, who lives here, is my friend."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "REL-03",
+          "name": "Whose",
+          "rule": "Sahiblik münasibəti bildirir.",
+          "formula": "whose + noun",
+          "uses": [
+            "people",
+            "animals",
+            "things"
+          ],
+          "exceptions": [],
+          "examples": [
+            "The girl whose bag was lost..."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "REL-04",
+          "name": "Relative pronoun omission",
+          "rule": "Defining clause-da obyekt mövqeyində olan who/which/that bəzən buraxıla bilər.",
+          "formula": "noun + (who/which/that) + subject + verb",
+          "uses": [
+            "object relative"
+          ],
+          "exceptions": [
+            "Mübtəda mövqeyində əvəzlik buraxılmır."
+          ],
+          "examples": [
+            "The book (that) I bought is new."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "19_reported",
+      "name": "Reported Speech — Dolayı nitq",
+      "rules": [
+        {
+          "id": "RS-01",
+          "name": "Reported statements",
+          "rule": "Birinin dediyi fikri dolayı şəkildə çatdırmaq üçün reporting verb + clause işlənir.",
+          "formula": "say/tell + reported clause",
+          "uses": [
+            "say + clause",
+            "tell + object + clause"
+          ],
+          "exceptions": [
+            "tell obyekt tələb edir: tell me; say to me mümkündür."
+          ],
+          "examples": [
+            "He said that he was tired.",
+            "She told me that she was busy."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RS-02",
+          "name": "Backshift",
+          "rule": "Reporting verb keçmişdədirsə, zamanlar çox vaxt bir pillə geriyə çəkilir.",
+          "formula": "present → past; will → would",
+          "uses": [
+            "is→was",
+            "have→had",
+            "will→would"
+          ],
+          "exceptions": [
+            "Ümumi həqiqətlərdə backshift məcburi deyil."
+          ],
+          "examples": [
+            "He said, “I am tired.” → He said that he was tired."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RS-03",
+          "name": "Reported questions",
+          "rule": "Dolayı sualda söz sırası düz cümlə kimi olur və do/does/did işlənmir.",
+          "formula": "asked + if/whether/wh + subject + verb",
+          "uses": [
+            "yes/no → if/whether",
+            "wh-question → wh-word"
+          ],
+          "exceptions": [
+            "Sonda sual işarəsi adətən olmur."
+          ],
+          "examples": [
+            "She asked where I lived.",
+            "He asked if I was ready."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RS-04",
+          "name": "Reported commands",
+          "rule": "Əmr və xahişlər tell/ask + object + to-infinitive ilə ötürülür.",
+          "formula": "tell/ask + object + to + V1",
+          "uses": [
+            "positive command",
+            "negative command → not to"
+          ],
+          "exceptions": [],
+          "examples": [
+            "He told me to wait.",
+            "She asked me not to leave."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "20_sentence",
+      "name": "Sentence Structure — Cümlə quruluşu",
+      "rules": [
+        {
+          "id": "S-01",
+          "name": "Basic word order",
+          "rule": "İngilis dilində əsas söz sırası çox vaxt Subject + Verb + Object-dir.",
+          "formula": "S + V + O",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "Ali reads books."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "S-02",
+          "name": "Adjective before noun",
+          "rule": "Sifət çox vaxt isimdən əvvəl gəlir.",
+          "formula": "adjective + noun",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "a beautiful house"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "S-03",
+          "name": "Adverb of manner",
+          "rule": "Tərz zərfi çox vaxt feldən sonra və ya obyektin arxasında işlənir.",
+          "formula": "verb + object + adverb",
+          "uses": [],
+          "exceptions": [
+            "Mövqedə dəyişiklik mümkündür."
+          ],
+          "examples": [
+            "She speaks English fluently."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "S-04",
+          "name": "There is / There are",
+          "rule": "Bir yerdə nəyinsə mövcud olduğunu bildirmək üçün işlənir.",
+          "formula": "There is + singular/uncountable; There are + plural",
+          "uses": [
+            "existence"
+          ],
+          "exceptions": [],
+          "examples": [
+            "There is a book.",
+            "There are two cars."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "S-05",
+          "name": "It as dummy subject",
+          "rule": "Hava, vaxt, məsafə və ümumi qiymətləndirmələrdə it formal mübtəda ola bilər.",
+          "formula": "It + be + ...",
+          "uses": [
+            "weather",
+            "time",
+            "distance"
+          ],
+          "exceptions": [],
+          "examples": [
+            "It is cold.",
+            "It is five o'clock."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "21_subject_verb",
+      "name": "Subject-Verb Agreement",
+      "rules": [
+        {
+          "id": "AGR-01",
+          "name": "Singular subject",
+          "rule": "Tək mübtəda ilə tək fel forması işlənir.",
+          "formula": "singular subject + singular verb",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "The boy works."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "AGR-02",
+          "name": "Plural subject",
+          "rule": "Cəm mübtəda ilə cəm fel forması işlənir.",
+          "formula": "plural subject + plural verb",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "The boys work."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "AGR-03",
+          "name": "Everyone / Each",
+          "rule": "Everyone, everybody, someone, nobody, each kimi sözlər qrammatik olaraq tək sayılır.",
+          "formula": "indefinite pronoun + singular verb",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "Everyone is ready.",
+            "Each student has a book."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "AGR-04",
+          "name": "Either/Neither",
+          "rule": "Either və neither + of quruluşunda standart formal istifadədə tək fel geniş qəbul edilir.",
+          "formula": "either/neither + singular verb",
+          "uses": [
+            "formal agreement"
+          ],
+          "exceptions": [
+            "Danışıq dilində və mürəkkəb konstruksiyalarda variasiya mümkündür."
+          ],
+          "examples": [
+            "Neither of them is ready."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "22_special",
+      "name": "Special Structures — Xüsusi konstruksiyalar",
+      "rules": [
+        {
+          "id": "SP-01",
+          "name": "Have something done",
+          "rule": "Bir işi başqasına gördürmə mənasında causative have işlənir.",
+          "formula": "have + object + V3",
+          "uses": [
+            "services",
+            "arrangements"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I had my hair cut."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "SP-02",
+          "name": "Get something done",
+          "rule": "Have something done kimi xidmət və ya nəticə bildirə bilər; daha qeyri-rəsmi çalardır.",
+          "formula": "get + object + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "I got my phone repaired."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "SP-03",
+          "name": "So do I / Neither do I",
+          "rule": "Razılaşma bildirən qısa cavablardır.",
+          "formula": "So + auxiliary + subject / Neither + auxiliary + subject",
+          "uses": [
+            "müsbət razılaşma",
+            "mənfi razılaşma"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I like tea. So do I.",
+            "I don't smoke. Neither do I."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "SP-04",
+          "name": "Too / Either at sentence end",
+          "rule": "Too müsbət, either mənfi cümləyə əlavə razılaşma bildirir.",
+          "formula": "..., too / ..., either",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "I like it too.",
+            "I don't like it either."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "SP-05",
+          "name": "Would rather",
+          "rule": "Üstünlük və seçim bildirir.",
+          "formula": "would rather + V1",
+          "uses": [
+            "choice",
+            "preference"
+          ],
+          "exceptions": [
+            "Başqa şəxsin etdiyi hərəkət üçün would rather + subject + Past Simple işlənə bilər."
+          ],
+          "examples": [
+            "I'd rather stay home."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "23_punctuation",
+      "name": "Punctuation — Durğu işarələri",
+      "rules": [
+        {
+          "id": "PUN-01",
+          "name": "Full stop",
+          "rule": "Tam fikir bildirən xəbər cümləsinin sonunda nöqtə qoyulur.",
+          "formula": ".",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "I live in Azerbaijan."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PUN-02",
+          "name": "Question mark",
+          "rule": "Birbaşa sualın sonunda sual işarəsi qoyulur.",
+          "formula": "?",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "Where are you?"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PUN-03",
+          "name": "Comma",
+          "rule": "Siyahılarda, giriş ifadələrində, non-defining relative clause-da və bir sıra mürəkkəb cümlələrdə vergül işlənir.",
+          "formula": " , ",
+          "uses": [
+            "lists",
+            "clauses",
+            "parenthetical information"
+          ],
+          "exceptions": [],
+          "examples": [
+            "Ali, who is my friend, lives here."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PUN-04",
+          "name": "Apostrophe",
+          "rule": "Sahiblik və bəzi qısaltmalarda apostrof işlənir.",
+          "formula": "'s / s' / don't",
+          "uses": [
+            "possession",
+            "contractions"
+          ],
+          "exceptions": [
+            "Its sahiblikdir, it's = it is/it has."
+          ],
+          "examples": [
+            "Ali's book",
+            "the students' room",
+            "it's"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PUN-05",
+          "name": "Quotation marks",
+          "rule": "Birbaşa nitqin sözlərini göstərmək üçün işlənir.",
+          "formula": "“...” / '...'",
+          "uses": [
+            "direct speech",
+            "quoted words"
+          ],
+          "exceptions": [],
+          "examples": [
+            "She said, “Come here.”"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "24_word_formation",
+      "name": "Word Formation — Söz düzəltmə",
+      "rules": [
+        {
+          "id": "WF-01",
+          "name": "Noun suffixes",
+          "rule": "-ness, -ment, -tion, -er və s. isim yarada bilər.",
+          "formula": "root + suffix",
+          "uses": [],
+          "exceptions": [
+            "Hər şəkilçi hər sözlə mexaniki işlənmir."
+          ],
+          "examples": [
+            "happy→happiness",
+            "develop→development"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "WF-02",
+          "name": "Adjective suffixes",
+          "rule": "-ful, -less, -ous, -able, -ive və s. sifət yarada bilər.",
+          "formula": "root + suffix",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "care→careful",
+            "hope→hopeless"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "WF-03",
+          "name": "Adverb suffix -ly",
+          "rule": "Bir çox sifətdən zərf -ly ilə yaranır.",
+          "formula": "adjective + ly",
+          "uses": [],
+          "exceptions": [
+            "good→well, fast→fast kimi istisnalar var."
+          ],
+          "examples": [
+            "slow→slowly",
+            "careful→carefully"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "WF-04",
+          "name": "Prefixes",
+          "rule": "un-, in-, im-, dis-, re-, mis- və s. sözün mənasını dəyişə bilər.",
+          "formula": "prefix + root",
+          "uses": [],
+          "exceptions": [
+            "Mənfi prefikslərin seçimi sözə görə dəyişir."
+          ],
+          "examples": [
+            "happy→unhappy",
+            "possible→impossible",
+            "write→rewrite"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "25_school_exam",
+      "name": "School & Exam Rules — Məktəb/imtahan üçün əsas qaydalar",
+      "rules": [
+        {
+          "id": "EX-01",
+          "name": "Subject + verb + object",
+          "rule": "Sadə cümlələrdə əsas söz sırasını qorumaq lazımdır.",
+          "formula": "S + V + O",
+          "uses": [
+            "test questions",
+            "sentence building"
+          ],
+          "exceptions": [],
+          "examples": [
+            "She reads books."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "EX-02",
+          "name": "After auxiliary, base verb",
+          "rule": "Do/does/did və modal fellərdən sonra əsas fel V1 olur.",
+          "formula": "auxiliary/modal + V1",
+          "uses": [
+            "doesn't go",
+            "didn't see",
+            "can swim"
+          ],
+          "exceptions": [
+            "be, have kimi köməkçi formalar ayrıca qaydalıdır."
+          ],
+          "examples": [
+            "He doesn't play.",
+            "Did you go?",
+            "She can swim."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "EX-03",
+          "name": "After have/has/had in perfect",
+          "rule": "Perfect zamanlarda have/has/had-dan sonra V3 işlənir.",
+          "formula": "have/has/had + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "has gone",
+            "had finished"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "EX-04",
+          "name": "After be in continuous",
+          "rule": "Continuous zamanlarda be + V-ing işlənir.",
+          "formula": "be + V-ing",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "is working",
+            "was reading"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "EX-05",
+          "name": "After be in passive",
+          "rule": "Passive konstruksiyada be + V3 işlənir.",
+          "formula": "be + V3",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "was written",
+            "is made"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "EX-06",
+          "name": "Common tense signal words",
+          "rule": "Zamanı seçərkən zaman göstəriciləri kömək edir, lakin təkbaşına mexaniki qayda deyil.",
+          "formula": "time marker + context",
+          "uses": [
+            "every day → Present Simple",
+            "now → Present Continuous",
+            "yesterday → Past Simple",
+            "since/for → Perfect"
+          ],
+          "exceptions": [
+            "Kontekst həmişə əsasdır."
+          ],
+          "examples": [
+            "I work every day.",
+            "I am working now."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "EX-07",
+          "name": "Capital letters",
+          "rule": "Cümlənin əvvəlində, xüsusi adlarda, dillərdə, ölkə və şəhər adlarında böyük hərf işlənir.",
+          "formula": "Capital letter",
+          "uses": [
+            "I",
+            "English",
+            "Azerbaijan",
+            "Baku"
+          ],
+          "exceptions": [],
+          "examples": [
+            "I speak English.",
+            "Baku is a city."
+          ],
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "id": "01_articles",
+      "name": "Articles — Artikllər",
+      "rule_count": 14
+    },
+    {
+      "id": "02_nouns",
+      "name": "Nouns — İsimlər",
+      "rule_count": 10
+    },
+    {
+      "id": "03_pronouns",
+      "name": "Pronouns — Əvəzliklər",
+      "rule_count": 8
+    },
+    {
+      "id": "04_be_do_have",
+      "name": "Be, Do, Have — Köməkçi fellər",
+      "rule_count": 6
+    },
+    {
+      "id": "05_tenses",
+      "name": "Tenses — Zamanlar",
+      "rule_count": 15
+    },
+    {
+      "id": "06_future",
+      "name": "Future Forms — Gələcək zaman formaları",
+      "rule_count": 2
+    },
+    {
+      "id": "07_verbs",
+      "name": "Verbs — Fellər",
+      "rule_count": 6
+    },
+    {
+      "id": "08_modals",
+      "name": "Modal Verbs — Modal fellər",
+      "rule_count": 10
+    },
+    {
+      "id": "09_conditionals",
+      "name": "Conditionals — Şərt cümlələri",
+      "rule_count": 6
+    },
+    {
+      "id": "10_passive",
+      "name": "Passive Voice — Məchul növ",
+      "rule_count": 7
+    },
+    {
+      "id": "11_questions_negatives",
+      "name": "Questions & Negatives — Sual və inkar",
+      "rule_count": 5
+    },
+    {
+      "id": "12_gerund_infinitive",
+      "name": "Gerund & Infinitive",
+      "rule_count": 6
+    },
+    {
+      "id": "13_comparison",
+      "name": "Adjectives — Sifət və dərəcələri",
+      "rule_count": 9
+    },
+    {
+      "id": "14_adverbs",
+      "name": "Adverbs — Zərflər",
+      "rule_count": 3
+    },
+    {
+      "id": "15_prepositions",
+      "name": "Prepositions — Ön qoşmalar",
+      "rule_count": 7
+    },
+    {
+      "id": "16_quantifiers",
+      "name": "Quantifiers — Miqdar bildirən sözlər",
+      "rule_count": 7
+    },
+    {
+      "id": "17_conjunctions",
+      "name": "Conjunctions — Bağlayıcılar",
+      "rule_count": 5
+    },
+    {
+      "id": "18_relative",
+      "name": "Relative Clauses — Təyin budaq cümlələri",
+      "rule_count": 4
+    },
+    {
+      "id": "19_reported",
+      "name": "Reported Speech — Dolayı nitq",
+      "rule_count": 4
+    },
+    {
+      "id": "20_sentence",
+      "name": "Sentence Structure — Cümlə quruluşu",
+      "rule_count": 5
+    },
+    {
+      "id": "21_subject_verb",
+      "name": "Subject-Verb Agreement",
+      "rule_count": 4
+    },
+    {
+      "id": "22_special",
+      "name": "Special Structures — Xüsusi konstruksiyalar",
+      "rule_count": 5
+    },
+    {
+      "id": "23_punctuation",
+      "name": "Punctuation — Durğu işarələri",
+      "rule_count": 5
+    },
+    {
+      "id": "24_word_formation",
+      "name": "Word Formation — Söz düzəltmə",
+      "rule_count": 4
+    },
+    {
+      "id": "25_school_exam",
+      "name": "School & Exam Rules — Məktəb/imtahan üçün əsas qaydalar",
+      "rule_count": 7
+    }
+  ],
+  "total_categories": 25,
+  "total_rules": 164
+}

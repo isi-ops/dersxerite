@@ -1,0 +1,314 @@
+{
+  "title": "11-ci sinif / I qrup Biologiya qaydaları",
+  "language": "azərbaycan dili",
+  "topics": [
+    {
+      "mövzu": "Hüceyrə",
+      "qaydalar": [
+        "Hüceyrə canlıların əsas struktur və funksional vahididir.",
+        "Prokaryotlarda membranlı nüvə yoxdur, eukaryotlarda vardır.",
+        "Nüvə irsi informasiyanı saxlayır.",
+        "Ribosom zülal sintez edir.",
+        "Mitoxondri ATP sintezində əsas rol oynayır.",
+        "Xloroplast fotosintezin əsas orqanoididir.",
+        "Lizosom hüceyrədaxili həzmdə iştirak edir.",
+        "Qolci aparatı maddələri modifikasiya edir, çeşidləyir və qablaşdırır."
+      ]
+    },
+    {
+      "mövzu": "Hüceyrə membranı və daşınma",
+      "qaydalar": [
+        "Membran fosfolipid ikiqatı və zülallardan təşkil olunur.",
+        "Diffuziya maddələrin yüksək konsentrasiyadan aşağı konsentrasiyaya passiv hərəkətidir.",
+        "Osmos suyun yarımkeçirici membrandan keçməsidir.",
+        "Passiv daşınmada ATP sərf olunmur.",
+        "Aktiv daşınmada maddələr konsentrasiya qradiyentinin əksinə daşınır və enerji tələb edir."
+      ]
+    },
+    {
+      "mövzu": "Biomolekullar",
+      "qaydalar": [
+        "Əsas üzvi maddələr zülallar, lipidlər, karbohidratlar və nuklein turşularıdır.",
+        "Zülalların monomerləri amin turşularıdır.",
+        "Nuklein turşularının monomerləri nukleotidlərdir.",
+        "Karbohidratların əsas elementləri C, H və O-dur.",
+        "Lipidlər enerji ehtiyatı və membran quruluşunda mühüm rol oynayır."
+      ]
+    },
+    {
+      "mövzu": "Karbohidratlar",
+      "qaydalar": [
+        "Monosaxaridlər ən sadə karbohidratlardır.",
+        "Disaxaridlər iki monosaxarid qalığından yarana bilər.",
+        "Polisaxaridlər çoxsaylı monosaxarid qalıqlarından ibarətdir.",
+        "Qlükozanın formulu C6H12O6-dır.",
+        "Nişasta bitkilərin ehtiyat polisaxarididir.",
+        "Glikogen heyvanların ehtiyat polisaxarididir.",
+        "Sellüloza bitki hüceyrə divarının mühüm komponentidir."
+      ]
+    },
+    {
+      "mövzu": "Zülallar",
+      "qaydalar": [
+        "Zülallar amin turşularından qurulur.",
+        "Amin turşuları peptid rabitəsi ilə birləşir.",
+        "Zülalın ilkin quruluşu amin turşularının ardıcıllığıdır.",
+        "Temperatur və pH dəyişməsi zülalın quruluşunu poza bilər.",
+        "Fermentlərin böyük hissəsi zülal təbiətlidir."
+      ]
+    },
+    {
+      "mövzu": "Nuklein turşuları",
+      "qaydalar": [
+        "DNT irsi informasiyanın əsas daşıyıcısıdır.",
+        "RNT zülal sintezində iştirak edir.",
+        "Nukleotid şəkər, fosfat qalığı və azotlu əsasdan ibarətdir.",
+        "DNT-də A adenin, T timin, G quanin, C sitozindir.",
+        "RNT-də timinin yerinə urasil olur.",
+        "DNT-də A=T və G=C komplementarlıq prinsipidir."
+      ]
+    },
+    {
+      "mövzu": "ATP və fermentlər",
+      "qaydalar": [
+        "ATP hüceyrənin əsas enerji daşıyıcılarından biridir.",
+        "Fermentlər bioloji katalizatorlardır.",
+        "Fermentlər aktivləşmə enerjisini azaldır.",
+        "Fermentlərin fəaliyyəti temperatur və pH-dan asılıdır.",
+        "Çox yüksək temperatur fermentlərin denaturasiyasına səbəb ola bilər."
+      ]
+    },
+    {
+      "mövzu": "Fotosintez",
+      "qaydalar": [
+        "Fotosintez əsasən xloroplastlarda gedir.",
+        "İşıq mərhələsi tilakoid membranlarında gedir.",
+        "Kalvin dövranı stromada gedir.",
+        "Ümumi tənlik: 6CO2+6H2O→C6H12O6+6O2.",
+        "Fotosintez üçün işıq, CO2, su və uyğun temperatur lazımdır."
+      ]
+    },
+    {
+      "mövzu": "Hüceyrə tənəffüsü",
+      "qaydalar": [
+        "Qlikoliz sitoplazmada baş verir.",
+        "Krebs dövranı mitoxondri matriksində gedir.",
+        "Elektron-daşıma zənciri mitoxondrinin daxili membranında yerləşir.",
+        "Aerob tənəffüsün əsas məhsulları CO2, H2O və ATP-dir.",
+        "Ümumi tənlik: C6H12O6+6O2→6CO2+6H2O+enerji."
+      ]
+    },
+    {
+      "mövzu": "Hüceyrə bölünməsi",
+      "qaydalar": [
+        "Mitoz nəticəsində adətən iki genetik baxımdan eyni qız hüceyrə yaranır.",
+        "Mitoz böyümə və toxumaların bərpasında iştirak edir.",
+        "Meyoz nəticəsində xromosom sayı yarıya enmiş hüceyrələr yaranır.",
+        "Meyoz cinsi çoxalmada gametlərin yaranmasında iştirak edir.",
+        "Krossinqover profaza I-də baş verir və genetik müxtəlifliyi artırır.",
+        "Mitozun əsas mərhələləri profaza, metafaza, anafaza və telofazadır."
+      ]
+    },
+    {
+      "mövzu": "Xromosomlar",
+      "qaydalar": [
+        "Somatik hüceyrələr adətən diploid 2n, gametlər haploid n olur.",
+        "İnsanın somatik hüceyrəsində 46, gametində 23 xromosom olur.",
+        "İnsanda 22 cüt autosom və 1 cüt cinsiyyət xromosomu vardır.",
+        "Homolog xromosomlar eyni genlərin müvafiq allellərini daşıya bilər."
+      ]
+    },
+    {
+      "mövzu": "Mendel və genetika",
+      "qaydalar": [
+        "Gen irsi informasiyanın funksional vahididir.",
+        "Allellər eyni genin alternativ formalarıdır.",
+        "Homozigotda iki eyni allel, heterozigotda iki fərqli allel olur.",
+        "Dominant allel heterozigotda fenotipdə özünü göstərə bilər.",
+        "Aa×Aa genotip nisbəti 1AA:2Aa:1aa verir.",
+        "Tam dominantlıqda Aa×Aa fenotip nisbəti 3:1-dir.",
+        "Aa×aa genotip nisbəti 1Aa:1aa-dır.",
+        "AaBb×AaBb, müstəqil irsən keçmə və tam dominantlıqda fenotip nisbəti 9:3:3:1-dir."
+      ]
+    },
+    {
+      "mövzu": "Cinsiyyət və cinsiyyətlə əlaqəli irsiyyət",
+      "qaydalar": [
+        "İnsanda qadın XX, kişi XY-dir.",
+        "X və Y spermatozoidlərin cinsiyyət xromosomları ola bilər.",
+        "X-xromosomunda yerləşən resessiv allellər kişilərdə daha asan fenotipdə üzə çıxa bilər."
+      ]
+    },
+    {
+      "mövzu": "Mutasiyalar",
+      "qaydalar": [
+        "Mutasiya irsi materialda baş verən dəyişiklikdir.",
+        "Gen mutasiyası nukleotid ardıcıllığının dəyişməsidir.",
+        "Xromosom mutasiyalarına delesiyа, duplikasiya, inversiya və translokasiya daxildir.",
+        "Mutasiyalar spontan və ya mutagenlərin təsiri ilə yarana bilər."
+      ]
+    },
+    {
+      "mövzu": "DNT replikasiyası",
+      "qaydalar": [
+        "DNT replikasiyası DNT-nin ikiqatlanması prosesidir.",
+        "Replikasiya yarımsaxlayıcıdır.",
+        "Yeni zəncir komplementarlıq prinsipinə əsasən sintez olunur.",
+        "DNT polimeraza yeni DNT zəncirinin sintezində iştirak edir."
+      ]
+    },
+    {
+      "mövzu": "Transkripsiya və translyasiya",
+      "qaydalar": [
+        "Transkripsiya zamanı DNT əsasında RNT sintez olunur.",
+        "Translyasiya mRNT-dəki məlumat əsasında zülal sintezidir.",
+        "Translyasiya ribosomlarda gedir.",
+        "tRNT amin turşularını ribosoma gətirir.",
+        "Kodon mRNT-də üç nukleotiddən ibarətdir.",
+        "AUG başlanğıc kodonudur.",
+        "UAA, UAG və UGA stop kodonlarıdır."
+      ]
+    },
+    {
+      "mövzu": "Bitkilər",
+      "qaydalar": [
+        "Ksilem su və mineral maddələri əsasən kökdən yuxarı daşıyır.",
+        "Floem üzvi maddələri bitkidə daşıyır.",
+        "Transpirasiya yarpaqlardan suyun buxarlanmasıdır.",
+        "Tozlanma tozcuğun dişiciyin ağızcığına çatmasıdır.",
+        "Mayalanma erkək və dişi gametlərin birləşməsidir.",
+        "Vegetativ çoxalma toxum və mayalanma olmadan vegetativ orqanlardan yeni bitkinin yaranmasıdır."
+      ]
+    },
+    {
+      "mövzu": "İnsan həzm sistemi",
+      "qaydalar": [
+        "Ağızda mexaniki həzm və tüpürcək amilazasının təsiri başlayır.",
+        "Mədədə zülalların həzmi pepsinin təsiri ilə başlayır.",
+        "Nazik bağırsaqda həzmin əsas hissəsi və qida maddələrinin sorulması gedir.",
+        "Öd yağların emulsiyalaşmasına kömək edir və ferment deyil.",
+        "Mədəaltı vəzi həzm fermentləri ifraz edir.",
+        "Yoğun bağırsaqda əsasən suyun sorulması baş verir."
+      ]
+    },
+    {
+      "mövzu": "Tənəffüs sistemi",
+      "qaydalar": [
+        "Qaz mübadiləsi ağciyər alveollarında baş verir.",
+        "Oksigen alveollardan qana, CO2 qandan alveollara diffuziya edir.",
+        "Alveollar nazik divarlı və kapilyarlarla zəngindir."
+      ]
+    },
+    {
+      "mövzu": "Qan dövranı",
+      "qaydalar": [
+        "İnsan qan dövranı böyük və kiçik qan dövranından ibarətdir.",
+        "Arteriyalar qanı ürəkdən uzaqlaşdırır.",
+        "Venalar qanı ürəyə gətirir.",
+        "Kapilyarlarda maddələr mübadiləsi baş verir.",
+        "Ürək dörd kameradan: iki qulaqcıq və iki mədəcikdən ibarətdir.",
+        "Qapaqlar qanın geri qayıtmasının qarşısını alır."
+      ]
+    },
+    {
+      "mövzu": "Qan hüceyrələri",
+      "qaydalar": [
+        "Eritrositlər oksigenin daşınmasında iştirak edir.",
+        "Hemoglobin eritrositlərdə yerləşir və oksigenlə birləşə bilir.",
+        "Leykositlər immun müdafiədə iştirak edir.",
+        "Trombositlər qanın laxtalanmasında iştirak edir."
+      ]
+    },
+    {
+      "mövzu": "İfrazat sistemi",
+      "qaydalar": [
+        "Böyrəyin struktur-funksional vahidi nefrondur.",
+        "Sidik yaranmasının əsas prosesləri filtrasiya, geri sorulma və sekresiyadır.",
+        "Böyrəklər su-duz balansının tənzimlənməsində iştirak edir.",
+        "Urea zülal mübadiləsinin əsas azotlu son məhsullarındandır."
+      ]
+    },
+    {
+      "mövzu": "Sinir sistemi",
+      "qaydalar": [
+        "Sinir sisteminin əsas struktur-funksional vahidi neyrondur.",
+        "Dendritlər əsasən impulsları qəbul edir.",
+        "Akson impulsları hüceyrə cismindən uzağa ötürür.",
+        "Sinaps neyronlararası və ya neyron-effektor əlaqə sahəsidir.",
+        "Refleks qıcıqa sinir sistemi vasitəsilə yaranan cavab reaksiyasıdır.",
+        "Şərtsiz reflekslər anadangəlmə, şərti reflekslər təcrübə ilə formalaşır."
+      ]
+    },
+    {
+      "mövzu": "Endokrin sistem",
+      "qaydalar": [
+        "Endokrin vəzilər hormonları qana ifraz edir.",
+        "İnsulin qanda qlükozanın səviyyəsinin azalmasına kömək edir.",
+        "Qlükaqon qanda qlükozanın səviyyəsinin artmasına kömək edir.",
+        "Hipofiz bir çox endokrin vəzinin fəaliyyətinin tənzimlənməsində iştirak edir."
+      ]
+    },
+    {
+      "mövzu": "İmmunitet",
+      "qaydalar": [
+        "İmmunitet orqanizmin yad antigenlərə qarşı müdafiə qabiliyyətidir.",
+        "Anadangəlmə immunitet spesifik olmayan müdafiədir.",
+        "Qazanılmış immunitet spesifikdir və immun yaddaş yarada bilər.",
+        "B-limfositlər anticisimlərin yaranmasında iştirak edir.",
+        "T-limfositlər hüceyrəvi immun cavabda iştirak edir.",
+        "Vaksinlər immun yaddaşın formalaşmasına kömək edir."
+      ]
+    },
+    {
+      "mövzu": "Homeostaz",
+      "qaydalar": [
+        "Homeostaz daxili mühitin nisbətən sabit saxlanılmasıdır.",
+        "Mənfi əks əlaqə homeostazın əsas tənzimləmə mexanizmlərindəndir.",
+        "Temperatur, qan qlükozası və su-duz balansı homeostatik tənzimlənir."
+      ]
+    },
+    {
+      "mövzu": "Təkamül",
+      "qaydalar": [
+        "Təkamül populyasiyalarda nəsillər boyu irsi dəyişikliklərin toplanması prosesidir.",
+        "Təbii seçmə uyğun xüsusiyyətli fərdlərin nəsilvermə uğurunu artıra bilər.",
+        "Mutasiya və rekombinasiya irsi müxtəlifliyin mənbələrindəndir.",
+        "Adaptasiya müəyyən mühitdə yaşama və çoxalma üstünlüyü verən irsi xüsusiyyətdir."
+      ]
+    },
+    {
+      "mövzu": "Ekologiya",
+      "qaydalar": [
+        "Ekosistem canlı orqanizmlər və cansız mühitin qarşılıqlı əlaqəsidir.",
+        "Biotik amillər canlıların bir-birinə təsirləridir.",
+        "Abiotik amillər temperatur, işıq, su, torpaq və s.-dir.",
+        "İstehsalçılar üzvi maddələri əsasən fotosintez və ya kimyosintezlə yaradır.",
+        "İstehlakçılar hazır üzvi maddələrlə qidalanır.",
+        "Redusentlər üzvi qalıqları parçalayır.",
+        "Qida zənciri adətən istehsalçı ilə başlayır.",
+        "Trofiк səviyyələr arasında enerji itkisi baş verir."
+      ]
+    },
+    {
+      "mövzu": "Maddələr dövranı və biosfer",
+      "qaydalar": [
+        "Karbon dövranında fotosintez CO2-ni üzvi maddəyə çevirir, tənəffüs və parçalanma CO2-ni mühitə qaytarır.",
+        "Azot dövranında bakteriyalar mühüm rol oynayır.",
+        "Su dövranına buxarlanma, kondensasiya, yağıntı və axın daxildir.",
+        "Biosfer canlıların yaşadığı qlobal ekoloji sistemdir."
+      ]
+    },
+    {
+      "mövzu": "Bioloji hesablamalar",
+      "qaydalar": [
+        "DNT-də A=T və G=C.",
+        "DNT-də A+G=T+C.",
+        "DNT-nin iki zəncirində ümumi nukleotid sayı bir zəncirin sayının iki qatıdır.",
+        "Bir kodon 3 nukleotiddən ibarətdir.",
+        "DNT-də bir qonşu nukleotid cütü arasındakı məsafə məktəb məsələlərində adətən 0,34 nm götürülür.",
+        "Mitozda xromosom sayı əsasən qorunur.",
+        "Meyozda xromosom sayı yarıya enir."
+      ]
+    }
+  ]
+}

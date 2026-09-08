@@ -1,0 +1,1477 @@
+{
+  "title": "Geniş Coğrafiya Qaydaları",
+  "language": "az",
+  "description": "Məktəb və imtahan hazırlığı üçün orijinal, seçilə bilən coğrafiya qaydaları toplusu.",
+  "version": "1.0",
+  "category_count": 15,
+  "rule_count": 139,
+  "categories": [
+    {
+      "id": "01_geography_basics",
+      "name": "Coğrafiyanın əsasları",
+      "rule_count": 5
+    },
+    {
+      "id": "02_map_cartography",
+      "name": "Xəritə və kartoqrafiya",
+      "rule_count": 11
+    },
+    {
+      "id": "03_earth_motions",
+      "name": "Yerin hərəkətləri",
+      "rule_count": 5
+    },
+    {
+      "id": "04_lithosphere",
+      "name": "Litosfer və relyef",
+      "rule_count": 13
+    },
+    {
+      "id": "05_atmosphere",
+      "name": "Atmosfer və iqlim",
+      "rule_count": 15
+    },
+    {
+      "id": "06_hydrosphere",
+      "name": "Hidrosfer",
+      "rule_count": 15
+    },
+    {
+      "id": "07_biosphere_soils",
+      "name": "Biosfer və torpaqlar",
+      "rule_count": 8
+    },
+    {
+      "id": "08_population",
+      "name": "Əhali coğrafiyası",
+      "rule_count": 9
+    },
+    {
+      "id": "09_economic_geography",
+      "name": "Təsərrüfat və iqtisadi coğrafiya",
+      "rule_count": 12
+    },
+    {
+      "id": "10_world_regions",
+      "name": "Dünya regionları və siyasi coğrafiya",
+      "rule_count": 8
+    },
+    {
+      "id": "11_azerbaijan_geography",
+      "name": "Azərbaycanın coğrafiyası",
+      "rule_count": 9
+    },
+    {
+      "id": "12_physical_geography_calculations",
+      "name": "Coğrafi hesablamalar",
+      "rule_count": 8
+    },
+    {
+      "id": "13_natural_hazards",
+      "name": "Təbii təhlükələr",
+      "rule_count": 8
+    },
+    {
+      "id": "14_environment",
+      "name": "Ətraf mühit və davamlı inkişaf",
+      "rule_count": 7
+    },
+    {
+      "id": "15_geographic_general_rules",
+      "name": "Ümumi imtahan qaydaları",
+      "rule_count": 6
+    }
+  ],
+  "rules": [
+    {
+      "id": "01_01",
+      "name": "Coğrafiyanın tədqiqat sahəsi",
+      "rule": "Coğrafiya Yer səthində təbiət, əhali və təsərrüfatın yerləşməsini, qarşılıqlı əlaqəsini və məkan üzrə dəyişməsini öyrənir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "01_02",
+      "name": "Fiziki və iqtisadi coğrafiya",
+      "rule": "Fiziki coğrafiya təbii komponent və prosesləri, iqtisadi-sosial coğrafiya isə əhali, təsərrüfat və məskunlaşmanı öyrənir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "01_03",
+      "name": "Coğrafi təbəqə",
+      "rule": "Atmosfer, hidrosfer, litosfer və biosferin qarşılıqlı əlaqədə olduğu Yer səthi coğrafi təbəqəni əmələ gətirir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "01_04",
+      "name": "Coğrafi enlik",
+      "rule": "Ekvatorla verilmiş nöqtə arasındakı bucaq məsafəsidir və 0°–90° arasında şimal və ya cənub istiqamətində ölçülür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "01_05",
+      "name": "Coğrafi uzunluq",
+      "rule": "Baş meridianla verilmiş meridian arasındakı bucaq məsafəsidir və 0°–180° arasında şərq və ya qərb istiqamətində ölçülür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_01",
+      "name": "Xəritə",
+      "rule": "Yer səthinin və ya onun bir hissəsinin müəyyən miqyas, proyeksiya və şərti işarələrlə kiçildilmiş təsviridir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_02",
+      "name": "Miqyas",
+      "rule": "Xəritədəki məsafənin həqiqi məsafəyə nisbətidir.",
+      "formula": "M = xəritə məsafəsi / həqiqi məsafə",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_03",
+      "name": "Adlandırılmış miqyas",
+      "rule": "Məsafənin sözlə göstərilməsidir; məsələn, 1 sm xəritədə 1 km-ə uyğundursa.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_04",
+      "name": "Ədədi miqyas",
+      "rule": "Miqyas 1:n şəklində göstərilir. 1 sm xəritədə n sm həqiqi məsafəyə uyğundur.",
+      "formula": "M=1:n",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_05",
+      "name": "Xəritə məsafəsindən həqiqi məsafə",
+      "rule": "Həqiqi məsafəni tapmaq üçün xəritə məsafəsi miqyasın məxrəcinə vurulur və vahid çevrilir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_06",
+      "name": "Azimut",
+      "rule": "Şimal istiqamətindən saat əqrəbi istiqamətində ölçülən bucaqdır; 0°–360° aralığındadır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_07",
+      "name": "İzohips",
+      "rule": "Dəniz səviyyəsindən eyni mütləq hündürlüyə malik nöqtələri birləşdirən xətdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_08",
+      "name": "İzobar",
+      "rule": "Atmosfer təzyiqi eyni olan nöqtələri birləşdirən xətdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_09",
+      "name": "İzoterm",
+      "rule": "Temperaturu eyni olan nöqtələri birləşdirən xətdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_10",
+      "name": "İzohyet",
+      "rule": "Yağıntının miqdarı eyni olan nöqtələri birləşdirən xətdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_11",
+      "name": "Coğrafi koordinatlar",
+      "rule": "Nöqtənin Yer üzərindəki mövqeyi coğrafi enlik və coğrafi uzunluqla müəyyən edilir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_01",
+      "name": "Yerin öz oxu ətrafında fırlanması",
+      "rule": "Yer qərbdən şərqə doğru təxminən 24 saata bir tam dövr edir. Bu hərəkət gecə-gündüzün yaranmasına səbəb olur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_02",
+      "name": "Yerin Günəş ətrafında hərəkəti",
+      "rule": "Yer Günəş ətrafında təxminən 365 gün 6 saata bir dövr edir. Bu hərəkət və oxun meyilliliyi fəsillərin yaranmasının əsas səbəbidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_03",
+      "name": "Yerin oxunun meyilliliyi",
+      "rule": "Yer oxu orbit müstəvisinə perpendikulyardan təxminən 23,5° meyillidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_04",
+      "name": "Saat qurşaqları",
+      "rule": "Yer 24 saat qurşağına bölünür; qonşu qurşaqlar arasında nəzəri vaxt fərqi 1 saatdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_05",
+      "name": "Tarix dəyişmə xətti",
+      "rule": "Təxminən 180° meridianı boyunca yerləşir və keçərkən təqvim tarixi dəyişir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_01",
+      "name": "Litosfer",
+      "rule": "Yer qabığı və üst mantiyanın bərk hissəsini əhatə edən Yer qatıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_02",
+      "name": "Yer qabığının tipləri",
+      "rule": "Materik və okean yer qabığı fərqlənir; materik qabığı ümumən daha qalın, okean qabığı isə daha nazikdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_03",
+      "name": "Litosfer tavaları",
+      "rule": "Litosfer böyük və kiçik tavalar şəklində parçalanmışdır; tavaların hərəkəti zəlzələ, vulkanizm və dağəmələgəlmə ilə əlaqəlidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_04",
+      "name": "Divergent sərhəd",
+      "rule": "Tavalar bir-birindən uzaqlaşır və yeni okean qabığının yaranması mümkündür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_05",
+      "name": "Konvergent sərhəd",
+      "rule": "Tavalar bir-birinə yaxınlaşır; toqquşma və ya subduksiya nəticəsində dağlar, zəlzələlər və vulkanlar yarana bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_06",
+      "name": "Transform sərhəd",
+      "rule": "Tavalar əsasən bir-birinə nisbətən üfüqi istiqamətdə sürüşür və güclü zəlzələlər yarada bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_07",
+      "name": "Endogen qüvvələr",
+      "rule": "Yerin daxili enerjisi ilə bağlı tektonik hərəkət, vulkanizm və zəlzələ kimi proseslərdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_08",
+      "name": "Ekzogen qüvvələr",
+      "rule": "Günəş enerjisi və cazibə ilə əlaqəli aşınma, eroziya, denudasiya və akkumulyasiya prosesləridir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_09",
+      "name": "Aşınma",
+      "rule": "Süxurların temperatur, su, hava və canlıların təsiri ilə yerində parçalanması və dəyişməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_10",
+      "name": "Eroziya",
+      "rule": "Torpaq və süxur materialının su, külək və buzlaq kimi agentlərlə aşındırılıb daşınmasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_11",
+      "name": "Relyef",
+      "rule": "Yer səthinin yüksəklik və çökəkliklərinin məcmusudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_12",
+      "name": "Dağ",
+      "rule": "Ətraf əraziyə nisbətən əhəmiyyətli yüksəklik və yamaclara malik relyef formasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_13",
+      "name": "Düzənlik",
+      "rule": "Nisbətən hamar və az parçalanmış relyef sahəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_01",
+      "name": "Atmosfer",
+      "rule": "Yeri əhatə edən qaz örtüyüdür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_02",
+      "name": "Atmosfer təzyiqi",
+      "rule": "Havanın Yer səthinin vahid sahəsinə göstərdiyi təzyiqdir.",
+      "formula": "p = F/S",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_03",
+      "name": "Temperaturun hündürlüklə dəyişməsi",
+      "rule": "Troposferdə temperatur orta hesabla hər 100 m yüksəklikdə təxminən 0,6°C azalır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_04",
+      "name": "Troposfer",
+      "rule": "Atmosferin Yer səthinə ən yaxın təbəqəsidir; hava hadisələrinin əsas hissəsi burada baş verir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_05",
+      "name": "Stratosfer",
+      "rule": "Troposferin üstündə yerləşir və ozon qatının əsas hissəsi bu təbəqədədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_06",
+      "name": "Külək",
+      "rule": "Atmosfer təzyiqi fərqinə görə havanın üfüqi hərəkətidir; ümumən yüksək təzyiqdən aşağı təzyiqə doğru yönəlir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_07",
+      "name": "Rütubət",
+      "rule": "Havada su buxarının miqdarını xarakterizə edir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_08",
+      "name": "Mütləq rütubət",
+      "rule": "Müəyyən həcmdə havada olan su buxarının kütləsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_09",
+      "name": "Nisbi rütubət",
+      "rule": "Havadakı faktiki su buxarının həmin temperaturda mümkün maksimum su buxarına nisbətinin faizlə ifadəsidir.",
+      "formula": "RH = faktiki / maksimum × 100%",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_10",
+      "name": "Yağıntı",
+      "rule": "Atmosferdən yağış, qar, dolu və digər formalarda Yer səthinə düşən sudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_11",
+      "name": "İqlim",
+      "rule": "Müəyyən ərazidə uzun illər ərzində formalaşan hava şəraitinin qanunauyğunluqlarıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_12",
+      "name": "Hava kütlələri",
+      "rule": "Temperatur və rütubət xüsusiyyətləri geniş ərazi üzərində oxşar olan böyük hava həcmləridir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_13",
+      "name": "Siklon",
+      "rule": "Adətən aşağı təzyiq sahəsidir; Şimal yarımkürəsində hava hərəkəti saat əqrəbinin əksinə yönəlir və hava çox vaxt buludlu olur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_14",
+      "name": "Antisiklon",
+      "rule": "Yüksək təzyiq sahəsidir; Şimal yarımkürəsində hava hərəkəti saat əqrəbi istiqamətində olur və hava çox vaxt açıqdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_15",
+      "name": "İqlim qurşaqları",
+      "rule": "Yer kürəsində əsas və keçid iqlim qurşaqları ayrılır və onların sərhədləri əsasən Günəş radiasiyası və atmosfer dövranı ilə bağlıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_01",
+      "name": "Hidrosfer",
+      "rule": "Yer kürəsinin bütün sularının məcmusudur: okeanlar, dənizlər, çaylar, göllər, buzlaqlar, yeraltı sular və atmosferdəki su.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_02",
+      "name": "Dünya okeanı",
+      "rule": "Yer səthinin böyük hissəsini əhatə edən vahid su hövzəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_03",
+      "name": "Okean",
+      "rule": "Dünya okeanının ən böyük hissəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_04",
+      "name": "Dəniz",
+      "rule": "Okeanın quru ilə qismən ayrılmış hissəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_05",
+      "name": "Körfəz",
+      "rule": "Dəniz və ya okean sularının qurunun içərilərinə doğru daxil olan hissəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_06",
+      "name": "Boğaz",
+      "rule": "İki su hövzəsini birləşdirən və quru sahələri ayıran dar su keçididir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_07",
+      "name": "Çay",
+      "rule": "Təbii məcrada müəyyən istiqamətdə axan su axınıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_08",
+      "name": "Çayın mənbəyi",
+      "rule": "Çayın başladığı yerdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_09",
+      "name": "Çayın mənsəbi",
+      "rule": "Çayın dənizə, gölə, başqa çaya və ya su hövzəsinə töküldüyü yerdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_10",
+      "name": "Çay hövzəsi",
+      "rule": "Çaya və onun qollarına su gətirən ərazidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_11",
+      "name": "Suayrıcı",
+      "rule": "Qonşu çay hövzələrini ayıran relyef xəttidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_12",
+      "name": "Çayın meyli",
+      "rule": "Çayın düşməsinin uzunluğa nisbətidir.",
+      "formula": "I = H/L",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_13",
+      "name": "Göl",
+      "rule": "Quru ilə əhatələnmiş təbii su hövzəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_14",
+      "name": "Buzlaq",
+      "rule": "Quruda uzun müddət saxlanılan və öz ağırlığı altında hərəkət edən buz kütləsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_15",
+      "name": "Su dövranı",
+      "rule": "Suyun buxarlanma, kondensasiya, yağıntı, səth və yeraltı axın vasitəsilə davamlı dövranıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_01",
+      "name": "Biosfer",
+      "rule": "Canlı orqanizmlərin yayıldığı və onların fəaliyyəti ilə dəyişən Yer təbəqəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_02",
+      "name": "Ekosistem",
+      "rule": "Canlı orqanizmlər və onların yaşadığı cansız mühitin qarşılıqlı əlaqədə olduğu sistemdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_03",
+      "name": "Təbii zona",
+      "rule": "İqlim, torpaq, bitki və heyvanlar aləminin müəyyən qanunauyğunluqla dəyişdiyi geniş təbii ərazidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_04",
+      "name": "Enlik zonallığı",
+      "rule": "Təbii komponentlərin ekvatordan qütblərə doğru qanunauyğun dəyişməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_05",
+      "name": "Hündürlük qurşaqlığı",
+      "rule": "Dağlarda təbii şəraitin yüksəklik artdıqca dəyişməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_06",
+      "name": "Torpaq",
+      "rule": "Bitkilərin böyüməsini təmin edən, mineral və üzvi maddələrdən ibarət münbit üst qatdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_07",
+      "name": "Torpaq münbitliyi",
+      "rule": "Torpağın bitkiləri su, hava və qida maddələri ilə təmin etmək qabiliyyətidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_08",
+      "name": "Humus",
+      "rule": "Torpaqda canlı qalıqlarının parçalanması nəticəsində yaranan üzvi maddələr kompleksidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_01",
+      "name": "Əhalinin sıxlığı",
+      "rule": "Əhalinin müəyyən ərazi sahəsinə nisbətidir.",
+      "formula": "Sıxlıq = əhali / sahə",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_02",
+      "name": "Təbii artım",
+      "rule": "Doğum səviyyəsi ilə ölüm səviyyəsi arasındakı fərqdir.",
+      "formula": "Təbii artım = doğum − ölüm",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_03",
+      "name": "Miqrasiya",
+      "rule": "Əhalinin yaşayış yerini müvəqqəti və ya daimi dəyişərək bir yerdən başqa yerə köçməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_04",
+      "name": "İmmiqrasiya",
+      "rule": "İnsanların başqa ölkədən və ya ərazidən verilmiş ölkə və ya əraziyə gəlməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_05",
+      "name": "Emiqrasiya",
+      "rule": "İnsanların yaşadığı ölkədən və ya ərazidən başqa yerə köçməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_06",
+      "name": "Urbanizasiya",
+      "rule": "Şəhər əhalisinin və şəhər həyat tərzinin rolunun artması prosesidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_07",
+      "name": "Şəhər aqlomerasiyası",
+      "rule": "Bir böyük şəhər və onunla sıx iqtisadi-məkan əlaqəsi olan yaxın yaşayış məntəqələrinin birliyi.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_08",
+      "name": "Əhali sıxlığının hesablanması",
+      "rule": "Əhali sayı km²-lə ifadə olunan sahəyə bölünür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_09",
+      "name": "Demoqrafik keçid",
+      "rule": "Ənənəvi yüksək doğum və ölüm səviyyələrindən aşağı doğum və ölüm səviyyələrinə keçidi izah edən modeldir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_01",
+      "name": "Təsərrüfat",
+      "rule": "Cəmiyyətin maddi və qeyri-maddi tələbatlarını ödəyən iqtisadi fəaliyyətlərin məcmusudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_02",
+      "name": "İqtisadi-coğrafi mövqe",
+      "rule": "Ölkə və ya regionun digər ərazilərə, nəqliyyat yollarına, bazarlara və resurslara münasibətdə yerləşməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_03",
+      "name": "Təbii resurslar",
+      "rule": "İnsanların təsərrüfat fəaliyyətində istifadə etdiyi təbii sərvətlərdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_04",
+      "name": "Bərpa olunan resurslar",
+      "rule": "Təbii proseslərlə nisbətən qısa müddətdə yenilənə bilən resurslardır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_05",
+      "name": "Bərpa olunmayan resurslar",
+      "rule": "İstifadə olunduqca ehtiyatı tükənən və geoloji zaman miqyasında formalaşan resurslardır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_06",
+      "name": "Sənaye",
+      "rule": "Xammalın çıxarılması və emalı, enerji istehsalı və məhsul istehsalı ilə bağlı təsərrüfat sahələrinin məcmusudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_07",
+      "name": "Kənd təsərrüfatı",
+      "rule": "Bitkiçilik və heyvandarlıq vasitəsilə ərzaq və xammal istehsal edən təsərrüfat sahəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_08",
+      "name": "Əkinçilik",
+      "rule": "Kənd təsərrüfatının bitki məhsullarının becərilməsi ilə məşğul olan sahəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_09",
+      "name": "Heyvandarlıq",
+      "rule": "Ev heyvanlarının yetişdirilməsi və heyvandarlıq məhsullarının alınması ilə məşğul olan sahədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_10",
+      "name": "Nəqliyyat",
+      "rule": "Yük və sərnişinlərin məkan üzrə daşınmasını təmin edən təsərrüfat sahəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_11",
+      "name": "Beynəlxalq əmək bölgüsü",
+      "rule": "Ölkələrin müəyyən məhsul və xidmətlərin istehsalında ixtisaslaşması və mübadilə etməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_12",
+      "name": "İxtisaslaşma",
+      "rule": "Ərazi və ya müəssisənin müəyyən məhsul və ya fəaliyyət növündə üstünlük qazanmasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_01",
+      "name": "Materik",
+      "rule": "Okean və dənizlərlə əhatə olunan iri quru sahəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_02",
+      "name": "Dünya ölkələrinin təsnifatı",
+      "rule": "Ölkələr ərazi, əhali, iqtisadi inkişaf, siyasi quruluş və coğrafi mövqeyə görə qruplaşdırıla bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_03",
+      "name": "Dövlət sərhədi",
+      "rule": "Dövlət ərazisinin hüdudlarını müəyyən edən xətt və onun üzərindəki şaquli səthdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_04",
+      "name": "Paytaxt",
+      "rule": "Dövlətin əsas siyasi-inzibati mərkəzidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_05",
+      "name": "Federasiya",
+      "rule": "Səlahiyyətlərin mərkəzi hakimiyyət və federasiya subyektləri arasında bölündüyü dövlət quruluşudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_06",
+      "name": "Unitar dövlət",
+      "rule": "Əsas dövlət hakimiyyətinin vahid mərkəzi sistemdə cəmləndiyi dövlət quruluşudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_07",
+      "name": "Eksklav",
+      "rule": "Əsas ərazidən başqa dövlət ərazisi ilə ayrılmış dövlət ərazisi hissəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_08",
+      "name": "Enklav",
+      "rule": "Başqa dövlətin ərazisi ilə tam əhatə olunmuş ərazidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_01",
+      "name": "Azərbaycanın coğrafi mövqeyi",
+      "rule": "Azərbaycan Cənubi Qafqazda, Avropa ilə Asiyanın qovşağında yerləşir və Xəzər dənizinin qərb sahilinə çıxışı vardır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_02",
+      "name": "Azərbaycanın relyefi",
+      "rule": "Ölkə ərazisinin relyefi əsasən Böyük Qafqaz, Kiçik Qafqaz, Talış dağları və Kür-Araz ovalığı kimi əsas fiziki-coğrafi vahidlərlə xarakterizə olunur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_03",
+      "name": "Azərbaycanın ən yüksək zirvəsi",
+      "rule": "Bazardüzü zirvəsi Azərbaycan ərazisinin ən yüksək nöqtəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_04",
+      "name": "Kür-Araz ovalığı",
+      "rule": "Azərbaycanın əsas düzənliklərindən biridir və ölkənin mərkəzi və şərq hissələrində geniş sahə tutur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_05",
+      "name": "Xəzər dənizi",
+      "rule": "Azərbaycanın şərqində yerləşən qapalı su hövzəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_06",
+      "name": "Azərbaycanın iqlimi",
+      "rule": "Azərbaycan ərazisində relyef və coğrafi mövqenin təsiri ilə müxtəlif iqlim tipləri yayılmışdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_07",
+      "name": "Azərbaycan çayları",
+      "rule": "Azərbaycan çaylarının böyük hissəsi Kür və Araz hövzələrinə daxildir; çayların qidalanması və rejimi relyef və iqlimdən asılıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_08",
+      "name": "Azərbaycanın təbii sərvətləri",
+      "rule": "Neft, qaz, müxtəlif filizlər, tikinti materialları və digər mineral resurslar ölkənin təbii sərvətlərinə daxildir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_09",
+      "name": "Azərbaycanın iqtisadi-coğrafi mövqeyi",
+      "rule": "Xəzər hövzəsi, Cənubi Qafqaz və beynəlxalq nəqliyyat dəhlizləri ilə əlaqəsi ölkənin iqtisadi-coğrafi əhəmiyyətini artırır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_01",
+      "name": "Hündürlük fərqi",
+      "rule": "İki nöqtənin mütləq hündürlüklərinin fərqi nisbi hündürlüyü verir.",
+      "formula": "H = H₁ − H₂",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_02",
+      "name": "Nisbi hündürlük",
+      "rule": "Bir nöqtənin digərinə görə nə qədər yuxarı və ya aşağıda olduğunu göstərir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_03",
+      "name": "Mütləq hündürlük",
+      "rule": "Nöqtənin orta dəniz səviyyəsinə görə şaquli hündürlüyüdür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_04",
+      "name": "Temperaturun hündürlüklə hesablanması",
+      "rule": "Yüksəklik artdıqca temperaturun orta azalması əsasında temperatur fərqi hesablanır.",
+      "formula": "ΔT ≈ 0,6°C × h/100",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_05",
+      "name": "Təzyiqin hündürlüklə dəyişməsi",
+      "rule": "Atmosfer təzyiqi hündürlük artdıqca azalır; məktəb məsələlərində verilmiş orta qiymətdən istifadə edilir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_06",
+      "name": "Əhali artım tempi",
+      "rule": "Əhali artımının ilkin əhaliyə nisbətinin faizlə ifadəsidir.",
+      "formula": "Artım % = (son əhali − ilkin əhali)/ilkin əhali × 100",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_07",
+      "name": "Miqrasiya saldosu",
+      "rule": "Gələnlərlə gedənlərin fərqidir.",
+      "formula": "Miqrasiya saldosu = immiqrantlar − emiqrantlar",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_08",
+      "name": "Əhalinin orta sıxlığı",
+      "rule": "Əhali sayının ərazi sahəsinə bölünməsi ilə tapılır.",
+      "formula": "D = P/S",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_01",
+      "name": "Zəlzələ",
+      "rule": "Yer qabığında enerji boşalması nəticəsində yaranan yeraltı təkanlardır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_02",
+      "name": "Zəlzələnin ocağı",
+      "rule": "Zəlzələnin Yer daxilində başladığı nöqtə və ya sahədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_03",
+      "name": "Zəlzələnin episentri",
+      "rule": "Ocağın Yer səthindəki proyeksiyasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_04",
+      "name": "Vulkanizm",
+      "rule": "Maqmanın Yer daxilindən səthə çıxması və ya səthə yaxın hərəkəti ilə bağlı proseslərdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_05",
+      "name": "Sunami",
+      "rule": "Əsasən dəniz dibində baş verən zəlzələ və digər iri sualtı proseslər nəticəsində yaranan uzun dalğalı su hərəkətidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_06",
+      "name": "Sürüşmə",
+      "rule": "Torpaq və süxur kütləsinin yamac boyunca aşağı hərəkətidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_07",
+      "name": "Sel",
+      "rule": "Çoxlu su və dağıntı materialının sürətli şəkildə axmasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_08",
+      "name": "Quraqlıq",
+      "rule": "Uzun müddət yağıntının az olması və su çatışmazlığı ilə xarakterizə olunan hadisədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_01",
+      "name": "Ətraf mühit",
+      "rule": "İnsanları və digər canlıları əhatə edən təbii və antropogen şəraitin məcmusudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_02",
+      "name": "Antropogen təsir",
+      "rule": "İnsan fəaliyyətinin təbii mühitə göstərdiyi təsirdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_03",
+      "name": "Çirklənmə",
+      "rule": "Mühitə zərərli maddə və ya enerji daxil olması nəticəsində onun keyfiyyətinin pisləşməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_04",
+      "name": "Tullantıların idarə olunması",
+      "rule": "Tullantıların azaldılması, təkrar istifadəsi, çeşidlənməsi, emalı və təhlükəsiz zərərsizləşdirilməsini əhatə edir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_05",
+      "name": "Davamlı inkişaf",
+      "rule": "Gələcək nəsillərin imkanlarını məhdudlaşdırmadan indiki ehtiyacların ödənilməsinə yönələn inkişaf prinsipidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_06",
+      "name": "İqlim dəyişikliyi",
+      "rule": "Uzun müddət ərzində iqlim göstəricilərində davamlı dəyişikliklərdir; müasir dövrdə insan fəaliyyəti əsas amillərdən biridir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_07",
+      "name": "Meşələrin qırılması",
+      "rule": "Meşə örtüyünün insan fəaliyyəti və ya digər səbəblərlə azalmasıdır və torpaq, su və biomüxtəlifliyə təsir edə bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_01",
+      "name": "Xəritədə istiqamət",
+      "rule": "Standart xəritələrdə yuxarı tərəf adətən şimalı, aşağı cənubu, sağ şərqi, sol qərbi göstərir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_02",
+      "name": "Şərti işarələr",
+      "rule": "Xəritədə obyektləri və hadisələri göstərmək üçün standartlaşdırılmış qrafik işarələrdən istifadə olunur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_03",
+      "name": "Mənbə ilə iş",
+      "rule": "Coğrafi məlumatın təhlilində xəritə, cədvəl, qrafik, diaqram və mətn birlikdə müqayisə edilə bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_04",
+      "name": "Qrafikdə meyl",
+      "rule": "Qrafikdə göstəricinin zaman və ya məkan üzrə artması, azalması və sabit qalması müəyyən edilir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_05",
+      "name": "Xəritədə məsafə",
+      "rule": "Əvvəlcə verilmiş məsafə vahidi müəyyənləşdirilir, sonra miqyas tətbiq olunur və cavab uyğun vahidə çevrilir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_06",
+      "name": "Faizlə dəyişmə",
+      "rule": "Göstəricinin dəyişməsi ilkin qiymətə bölünüb 100-ə vurularaq faizlə ifadə edilə bilər.",
+      "formula": "% dəyişmə = (yeni − ilkin)/ilkin × 100",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    }
+  ]
+}

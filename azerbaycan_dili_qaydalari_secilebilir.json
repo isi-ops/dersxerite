@@ -1,0 +1,698 @@
+{
+  "ad": "Azərbaycan dili qaydaları",
+  "dil": "az",
+  "versiya": "1.0",
+  "qeyd": "Yalnız qaydalar və təriflər. Misal və çalışmalar daxil edilmir.",
+  "seçim_üçün": {
+    "qayda_seçmək": true,
+    "unikal_id": "Hər qaydanın unikal ID-si var",
+    "struktur": "mövzu → qayda"
+  },
+  "mövzular": [
+    {
+      "id": "fonetika",
+      "ad": "Fonetika",
+      "qaydalar": [
+        {
+          "id": "fonetika_001",
+          "ad": "Saitlər",
+          "qayda": "Azərbaycan dilində 9 sait var: a, ı, o, u, e, ə, i, ö, ü."
+        },
+        {
+          "id": "fonetika_002",
+          "ad": "Samitlər",
+          "qayda": "Azərbaycan əlifbasında 23 samit səs vardır."
+        },
+        {
+          "id": "fonetika_003",
+          "ad": "Qalın və incə saitlər",
+          "qayda": "Qalın saitlər: a, ı, o, u. İncə saitlər: e, ə, i, ö, ü."
+        },
+        {
+          "id": "fonetika_004",
+          "ad": "Dodaqlanan və dodaqlanmayan saitlər",
+          "qayda": "Dodaqlanan saitlər: o, ö, u, ü. Dodaqlanmayan saitlər: a, ı, e, ə, i."
+        },
+        {
+          "id": "fonetika_005",
+          "ad": "Ahəng qanunu",
+          "qayda": "Sözdə saitlər, əsasən, qalınlıq-incəlik baxımından bir-birinə uyğunlaşır."
+        },
+        {
+          "id": "fonetika_006",
+          "ad": "Saitlərin uzanması",
+          "qayda": "Bəzi alınma sözlərdə saitlər uzun tələffüz oluna bilər."
+        },
+        {
+          "id": "fonetika_007",
+          "ad": "Kar samitlər",
+          "qayda": "Kar samitlər: p, f, t, k, s, ş, ç, x, h."
+        },
+        {
+          "id": "fonetika_008",
+          "ad": "Cingiltili samitlər",
+          "qayda": "Cingiltili samitlər: b, v, d, g, ğ, z, j, c, q, l, m, n, r, y."
+        },
+        {
+          "id": "fonetika_009",
+          "ad": "Sonor samitlər",
+          "qayda": "Sonor samitlər: l, m, n, r, y."
+        },
+        {
+          "id": "fonetika_010",
+          "ad": "Sözün hecalara bölünməsi",
+          "qayda": "Sözdə neçə sait varsa, adətən, o qədər heca olur."
+        },
+        {
+          "id": "fonetika_011",
+          "ad": "Sözün sətirdən-sətrə keçirilməsi",
+          "qayda": "Sözlər hecalara uyğun şəkildə sətirdən-sətrə keçirilir; bir hərf təkbaşına sətirdə saxlanmır."
+        }
+      ]
+    },
+    {
+      "id": "leksika",
+      "ad": "Leksikologiya",
+      "qaydalar": [
+        {
+          "id": "leksika_012",
+          "ad": "Sözün leksik mənası",
+          "qayda": "Sözün ifadə etdiyi əsas məna onun leksik mənasıdır."
+        },
+        {
+          "id": "leksika_013",
+          "ad": "Həqiqi və məcazi məna",
+          "qayda": "Sözün birbaşa ifadə etdiyi məna həqiqi, başqa anlayışa bənzətmə yolu ilə qazandığı məna məcazi mənadır."
+        },
+        {
+          "id": "leksika_014",
+          "ad": "Çoxmənalı söz",
+          "qayda": "Bir sözün bir-biri ilə məna əlaqəsi olan bir neçə leksik mənası ola bilər."
+        },
+        {
+          "id": "leksika_015",
+          "ad": "Omonim",
+          "qayda": "Yazılışı və səslənməsi eyni, mənaları müxtəlif olan sözlər omonimdir."
+        },
+        {
+          "id": "leksika_016",
+          "ad": "Sinonim",
+          "qayda": "Mənaca yaxın və ya eyni olan sözlər sinonimdir."
+        },
+        {
+          "id": "leksika_017",
+          "ad": "Antonim",
+          "qayda": "Mənaca bir-birinin əksi olan sözlər antonimdir."
+        },
+        {
+          "id": "leksika_018",
+          "ad": "Termin",
+          "qayda": "Müəyyən elm, texnika, sənət və peşə sahəsinə aid xüsusi anlayışı bildirən söz termin adlanır."
+        },
+        {
+          "id": "leksika_019",
+          "ad": "Dialekt sözləri",
+          "qayda": "Müəyyən ərazidə işlənən və ədəbi dil üçün ümumi olmayan sözlər dialekt sözləridir."
+        },
+        {
+          "id": "leksika_020",
+          "ad": "Arxaizm",
+          "qayda": "Əvvəllər işlənən, müasir dildə istifadəsi məhdudlaşmış və ya aradan çıxmış söz arxaizmdir."
+        },
+        {
+          "id": "leksika_021",
+          "ad": "Neologizm",
+          "qayda": "Dil üçün yeni yaranmış və ya yeni məna qazanmış söz neologizmdir."
+        },
+        {
+          "id": "leksika_022",
+          "ad": "Frazeoloji birləşmə",
+          "qayda": "Məcazi və sabit məna daşıyan, tərkibi və quruluşu sabit olan söz birləşməsi frazeoloji birləşmədir."
+        }
+      ]
+    },
+    {
+      "id": "soz_yaradiciligi",
+      "ad": "Söz yaradıcılığı",
+      "qaydalar": [
+        {
+          "id": "soz_yaradiciligi_023",
+          "ad": "Kök",
+          "qayda": "Sözün əsas leksik mənasını daşıyan və sözdə təkrarlanan əsas hissə kök adlanır."
+        },
+        {
+          "id": "soz_yaradiciligi_024",
+          "ad": "Şəkilçi",
+          "qayda": "Kökə artırılan, sözə yeni məna və ya qrammatik forma verən hissə şəkilçidir."
+        },
+        {
+          "id": "soz_yaradiciligi_025",
+          "ad": "Leksik şəkilçi",
+          "qayda": "Yeni söz yaradan şəkilçi leksik şəkilçidir."
+        },
+        {
+          "id": "soz_yaradiciligi_026",
+          "ad": "Qrammatik şəkilçi",
+          "qayda": "Sözün formasını dəyişən, yeni söz yaratmayan şəkilçi qrammatik şəkilçidir."
+        },
+        {
+          "id": "soz_yaradiciligi_027",
+          "ad": "Sözün quruluşu",
+          "qayda": "Sözlər quruluşuna görə sadə, düzəltmə və mürəkkəb olur."
+        },
+        {
+          "id": "soz_yaradiciligi_028",
+          "ad": "Sadə söz",
+          "qayda": "Yalnız bir kökdən ibarət olan və ya tərkibində söz yaradan şəkilçi olmayan söz sadə sözdür."
+        },
+        {
+          "id": "soz_yaradiciligi_029",
+          "ad": "Düzəltmə söz",
+          "qayda": "Kökə leksik şəkilçi artırılması ilə yaranan söz düzəltmə sözdür."
+        },
+        {
+          "id": "soz_yaradiciligi_030",
+          "ad": "Mürəkkəb söz",
+          "qayda": "İki və ya daha çox sözün və ya kökün birləşməsi ilə yaranan söz mürəkkəb sözdür."
+        }
+      ]
+    },
+    {
+      "id": "morfologiya",
+      "ad": "Morfologiya",
+      "qaydalar": [
+        {
+          "id": "morfologiya_031",
+          "ad": "Nitq hissələri",
+          "qayda": "Nitq hissələri əsas və köməkçi nitq hissələrinə bölünür."
+        },
+        {
+          "id": "morfologiya_032",
+          "ad": "Əsas nitq hissələri",
+          "qayda": "İsim, sifət, say, əvəzlik, fel və zərf əsas nitq hissələridir."
+        },
+        {
+          "id": "morfologiya_033",
+          "ad": "Köməkçi nitq hissələri",
+          "qayda": "Qoşma, bağlayıcı, ədat və modal sözlər köməkçi nitq hissələridir; nida ayrıca nitq hissəsidir."
+        },
+        {
+          "id": "morfologiya_034",
+          "ad": "İsim",
+          "qayda": "İsim əşyanın, şəxsin və anlayışın adını bildirir və kim? nə? hara? suallarına cavab verir."
+        },
+        {
+          "id": "morfologiya_035",
+          "ad": "İsmin halları",
+          "qayda": "İsmin 6 halı var: adlıq, yiyəlik, yönlük, təsirlik, yerlik, çıxışlıq."
+        },
+        {
+          "id": "morfologiya_036",
+          "ad": "Yiyəlik hal",
+          "qayda": "Yiyəlik halın şəkilçiləri: -ın, -in, -un, -ün."
+        },
+        {
+          "id": "morfologiya_037",
+          "ad": "Yönlük hal",
+          "qayda": "Yönlük halın şəkilçiləri: -a, -ə."
+        },
+        {
+          "id": "morfologiya_038",
+          "ad": "Təsirlik hal",
+          "qayda": "Təsirlik halın şəkilçiləri: -ı, -i, -u, -ü."
+        },
+        {
+          "id": "morfologiya_039",
+          "ad": "Yerlik hal",
+          "qayda": "Yerlik halın şəkilçiləri: -da, -də."
+        },
+        {
+          "id": "morfologiya_040",
+          "ad": "Çıxışlıq hal",
+          "qayda": "Çıxışlıq halın şəkilçiləri: -dan, -dən."
+        },
+        {
+          "id": "morfologiya_041",
+          "ad": "Müəyyən və qeyri-müəyyən təsirlik hal",
+          "qayda": "Müəyyən təsirlik hal şəkilçi qəbul edir; qeyri-müəyyən təsirlik hal şəkilçisiz işlənir."
+        },
+        {
+          "id": "morfologiya_042",
+          "ad": "İsmin mənsubiyyət şəkilçiləri",
+          "qayda": "Mənsubiyyət şəkilçiləri əşyanın kimə və ya nəyə mənsubluğunu bildirir."
+        },
+        {
+          "id": "morfologiya_043",
+          "ad": "Cəm şəkilçisi",
+          "qayda": "İsimlərin cəmi -lar, -lər şəkilçiləri ilə düzəlir."
+        },
+        {
+          "id": "morfologiya_044",
+          "ad": "Xüsusi və ümumi isim",
+          "qayda": "Xüsusi isim konkret varlığın xüsusi adını, ümumi isim eyni növdən olan varlıqların ümumi adını bildirir."
+        },
+        {
+          "id": "morfologiya_045",
+          "ad": "Sifət",
+          "qayda": "Sifət əşyanın əlamət və keyfiyyətini bildirir və necə? nə cür? hansı? suallarına cavab verir."
+        },
+        {
+          "id": "morfologiya_046",
+          "ad": "Sifətin dərəcələri",
+          "qayda": "Sifətin adi, azaltma və çoxaltma dərəcələri var."
+        },
+        {
+          "id": "morfologiya_047",
+          "ad": "Azaltma dərəcəsi",
+          "qayda": "Azaltma dərəcəsi əlamətin adi dərəcədən az olduğunu bildirir."
+        },
+        {
+          "id": "morfologiya_048",
+          "ad": "Çoxaltma dərəcəsi",
+          "qayda": "Çoxaltma dərəcəsi əlamətin adi dərəcədən çox olduğunu bildirir."
+        },
+        {
+          "id": "morfologiya_049",
+          "ad": "Say",
+          "qayda": "Say əşyanın miqdarını və sırasını bildirir."
+        },
+        {
+          "id": "morfologiya_050",
+          "ad": "Miqdar sayları",
+          "qayda": "Miqdar sayları əşyanın miqdarını bildirir."
+        },
+        {
+          "id": "morfologiya_051",
+          "ad": "Sıra sayları",
+          "qayda": "Sıra sayları əşyanın sırasını bildirir və -ıncı, -inci, -uncu, -üncü şəkilçiləri ilə düzəlir."
+        },
+        {
+          "id": "morfologiya_052",
+          "ad": "Kəsr sayları",
+          "qayda": "Kəsr sayları tamın müəyyən hissəsini bildirir."
+        },
+        {
+          "id": "morfologiya_053",
+          "ad": "Əvəzlik",
+          "qayda": "Əvəzlik isim, sifət, say və digər nitq hissələrinin yerində işlənə bilən sözlərdir."
+        },
+        {
+          "id": "morfologiya_054",
+          "ad": "Şəxs əvəzlikləri",
+          "qayda": "Şəxs əvəzlikləri: mən, sən, o, biz, siz, onlar."
+        },
+        {
+          "id": "morfologiya_055",
+          "ad": "Fel",
+          "qayda": "Fel iş, hərəkət və hal-vəziyyət bildirir."
+        },
+        {
+          "id": "morfologiya_056",
+          "ad": "Felin zamanları",
+          "qayda": "Felin üç əsas zamanı var: keçmiş, indiki və gələcək."
+        },
+        {
+          "id": "morfologiya_057",
+          "ad": "Keçmiş zaman",
+          "qayda": "Keçmiş zaman hərəkətin danışıq anından əvvəl baş verdiyini bildirir."
+        },
+        {
+          "id": "morfologiya_058",
+          "ad": "İndiki zaman",
+          "qayda": "İndiki zaman hərəkətin danışıq anında baş verdiyini bildirir."
+        },
+        {
+          "id": "morfologiya_059",
+          "ad": "Gələcək zaman",
+          "qayda": "Gələcək zaman hərəkətin danışıq anından sonra baş verəcəyini bildirir."
+        },
+        {
+          "id": "morfologiya_060",
+          "ad": "Felin şəxs şəkilçiləri",
+          "qayda": "Fel hərəkətin kim tərəfindən icra edildiyini şəxs şəkilçiləri ilə bildirir."
+        },
+        {
+          "id": "morfologiya_061",
+          "ad": "Felin təsdiq və inkarı",
+          "qayda": "Felin inkarı əsasən -ma, -mə şəkilçiləri ilə düzəlir."
+        },
+        {
+          "id": "morfologiya_062",
+          "ad": "Felin növləri",
+          "qayda": "Felin məlum, məchul, qayıdış, qarşılıq-birgəlik, icbar və şəxssiz növləri vardır."
+        },
+        {
+          "id": "morfologiya_063",
+          "ad": "Məsdər",
+          "qayda": "Felin adlaşmış forması məsdərdir və -maq, -mək şəkilçiləri ilə düzəlir."
+        },
+        {
+          "id": "morfologiya_064",
+          "ad": "Feli sifət",
+          "qayda": "Feldən yaranıb əşyanın hərəkətlə bağlı əlamətini bildirən forma feli sifətdir."
+        },
+        {
+          "id": "morfologiya_065",
+          "ad": "Feli bağlama",
+          "qayda": "Əsas hərəkətin necə, nə vaxt və hansı şəraitdə icra olunduğunu bildirən fel forması feli bağlamadır."
+        },
+        {
+          "id": "morfologiya_066",
+          "ad": "Zərf",
+          "qayda": "Zərf hərəkətin tərzini, zamanını, yerini və miqdarını bildirir."
+        },
+        {
+          "id": "morfologiya_067",
+          "ad": "Zərfin məna növləri",
+          "qayda": "Zərfin əsas məna növləri tərzi-hərəkət, zaman, yer və miqdar zərfləridir."
+        },
+        {
+          "id": "morfologiya_068",
+          "ad": "Qoşma",
+          "qayda": "Qoşma sözlər arasında müxtəlif məna əlaqələri yaradan köməkçi nitq hissəsidir."
+        },
+        {
+          "id": "morfologiya_069",
+          "ad": "Bağlayıcı",
+          "qayda": "Bağlayıcı sözləri, söz birləşmələrini və cümlələri əlaqələndirir."
+        },
+        {
+          "id": "morfologiya_070",
+          "ad": "Ədat",
+          "qayda": "Ədat sözə və ya cümləyə əlavə məna çaları verir."
+        },
+        {
+          "id": "morfologiya_071",
+          "ad": "Nida",
+          "qayda": "Nida hiss, həyəcan, çağırış və müraciət bildirir."
+        },
+        {
+          "id": "morfologiya_072",
+          "ad": "Modal söz",
+          "qayda": "Modal söz danışanın fikrə münasibətini bildirir."
+        }
+      ]
+    },
+    {
+      "id": "sintaksis",
+      "ad": "Sintaksis",
+      "qaydalar": [
+        {
+          "id": "sintaksis_073",
+          "ad": "Söz birləşməsi",
+          "qayda": "Məna və qrammatik cəhətdən bir-biri ilə bağlı iki və ya daha çox müstəqil söz söz birləşməsi yaradır."
+        },
+        {
+          "id": "sintaksis_074",
+          "ad": "Əsas və asılı tərəf",
+          "qayda": "Söz birləşməsində bir söz əsas, digər söz ona tabe olan asılı tərəfdir."
+        },
+        {
+          "id": "sintaksis_075",
+          "ad": "Cümlə",
+          "qayda": "Cümlə bitmiş fikir bildirən, qrammatik cəhətdən formalaşmış nitq vahididir."
+        },
+        {
+          "id": "sintaksis_076",
+          "ad": "Cümlənin baş üzvləri",
+          "qayda": "Cümlənin baş üzvləri mübtəda və xəbərdir."
+        },
+        {
+          "id": "sintaksis_077",
+          "ad": "Mübtəda",
+          "qayda": "Mübtəda cümlədə haqqında danışılan şəxsi və ya əşyanı bildirir və əsasən kim? nə? hara? suallarına cavab verir."
+        },
+        {
+          "id": "sintaksis_078",
+          "ad": "Xəbər",
+          "qayda": "Xəbər mübtəda haqqında məlumat verir və onun hərəkətini, əlamətini və ya vəziyyətini bildirir."
+        },
+        {
+          "id": "sintaksis_079",
+          "ad": "İkinci dərəcəli üzvlər",
+          "qayda": "Tamamlıq, təyin və zərflik cümlənin ikinci dərəcəli üzvləridir."
+        },
+        {
+          "id": "sintaksis_080",
+          "ad": "Tamamlıq",
+          "qayda": "Tamamlıq hərəkətin obyektini bildirir və ismin halları ilə bağlı suallara cavab verir."
+        },
+        {
+          "id": "sintaksis_081",
+          "ad": "Təyin",
+          "qayda": "Təyin əşyanın əlamətini bildirir və əsasən necə? nə cür? hansı? suallarına cavab verir."
+        },
+        {
+          "id": "sintaksis_082",
+          "ad": "Zərflik",
+          "qayda": "Zərflik hərəkətin yerini, zamanını, tərzini, səbəbini, məqsədini və digər xüsusiyyətlərini bildirir."
+        },
+        {
+          "id": "sintaksis_083",
+          "ad": "Həmcins üzvlər",
+          "qayda": "Eyni suala cavab verən və eyni üzvlə əlaqəli olan cümlə üzvləri həmcins üzvlərdir."
+        },
+        {
+          "id": "sintaksis_084",
+          "ad": "Müraciət",
+          "qayda": "Cümlədə müraciət olunan şəxsi və ya varlığı bildirən söz müraciətdir."
+        },
+        {
+          "id": "sintaksis_085",
+          "ad": "Ara söz",
+          "qayda": "Danışanın fikrə münasibətini bildirən, cümlə üzvləri ilə sintaktik əlaqəyə girməyən söz və birləşmələr ara sözlərdir."
+        },
+        {
+          "id": "sintaksis_086",
+          "ad": "Sadə cümlə",
+          "qayda": "Bir qrammatik əsaslı cümlə sadə cümlədir."
+        },
+        {
+          "id": "sintaksis_087",
+          "ad": "Mürəkkəb cümlə",
+          "qayda": "İki və ya daha çox qrammatik əsaslı cümlə mürəkkəb cümlədir."
+        },
+        {
+          "id": "sintaksis_088",
+          "ad": "Tabesiz mürəkkəb cümlə",
+          "qayda": "Tərkib hissələri bərabərhüquqlu olan mürəkkəb cümlə tabesiz mürəkkəb cümlədir."
+        },
+        {
+          "id": "sintaksis_089",
+          "ad": "Tabeli mürəkkəb cümlə",
+          "qayda": "Bir hissəsi digərinə tabe olan mürəkkəb cümlə tabeli mürəkkəb cümlədir."
+        },
+        {
+          "id": "sintaksis_090",
+          "ad": "Bağlayıcısız mürəkkəb cümlə",
+          "qayda": "Tərkib hissələri bağlayıcı olmadan əlaqələnən mürəkkəb cümlə bağlayıcısız mürəkkəb cümlədir."
+        }
+      ]
+    },
+    {
+      "id": "durğu",
+      "ad": "Durğu işarələri",
+      "qaydalar": [
+        {
+          "id": "durğu_091",
+          "ad": "Nöqtə",
+          "qayda": "Bitmiş nəqli cümlənin sonunda nöqtə qoyulur."
+        },
+        {
+          "id": "durğu_092",
+          "ad": "Sual işarəsi",
+          "qayda": "Sual cümləsinin sonunda sual işarəsi qoyulur."
+        },
+        {
+          "id": "durğu_093",
+          "ad": "Nida işarəsi",
+          "qayda": "Güclü hiss, həyəcan, əmr və çağırış bildirən cümlələrin sonunda nida işarəsi işlənə bilər."
+        },
+        {
+          "id": "durğu_094",
+          "ad": "Vergül və həmcins üzvlər",
+          "qayda": "Bağlayıcısız həmcins üzvlər arasında vergül qoyulur."
+        },
+        {
+          "id": "durğu_095",
+          "ad": "Vergül və müraciət",
+          "qayda": "Müraciət cümlənin əvvəlində, ortasında və sonunda işlənə bilər və vergüllə ayrılır."
+        },
+        {
+          "id": "durğu_096",
+          "ad": "Vergül və ara söz",
+          "qayda": "Ara sözlər cümlə daxilində vergüllə ayrılır."
+        },
+        {
+          "id": "durğu_097",
+          "ad": "İki nöqtə",
+          "qayda": "Ümumiləşdirici söz və ya izahdan əvvəl müəyyən hallarda iki nöqtə qoyulur."
+        },
+        {
+          "id": "durğu_098",
+          "ad": "Tire",
+          "qayda": "Mübtəda və xəbər müəyyən hallarda hər ikisi isim, məsdər və ya say olduqda aralarında tire qoyula bilər."
+        },
+        {
+          "id": "durğu_099",
+          "ad": "Dırnaq işarəsi",
+          "qayda": "Sitatlar, bəzi xüsusi adlar və şərti adlar müəyyən hallarda dırnaq içərisində yazılır."
+        },
+        {
+          "id": "durğu_100",
+          "ad": "Mötərizə",
+          "qayda": "Əlavə izah və əsas fikrə daxil olmayan məlumatı göstərmək üçün mötərizədən istifadə olunur."
+        }
+      ]
+    },
+    {
+      "id": "orfoqrafiya",
+      "ad": "Orfoqrafiya",
+      "qaydalar": [
+        {
+          "id": "orfoqrafiya_101",
+          "ad": "Böyük hərf",
+          "qayda": "Cümlənin ilk sözü böyük hərflə yazılır."
+        },
+        {
+          "id": "orfoqrafiya_102",
+          "ad": "Xüsusi adlar",
+          "qayda": "Şəxs, şəhər, ölkə, dövlət, coğrafi obyekt və digər xüsusi adlar müəyyən edilmiş yazılış qaydasına uyğun böyük hərflə yazılır."
+        },
+        {
+          "id": "orfoqrafiya_103",
+          "ad": "Şəkilçilərin yazılışı",
+          "qayda": "Şəkilçilər sözün fonetik tərkibinə və ahəng qanununa uyğun variantda yazılır."
+        },
+        {
+          "id": "orfoqrafiya_104",
+          "ad": "Bitişik yazılan sözlər",
+          "qayda": "Məna və quruluş xüsusiyyətlərinə görə müəyyən mürəkkəb sözlər bitişik yazılır."
+        },
+        {
+          "id": "orfoqrafiya_105",
+          "ad": "Defislə yazılan sözlər",
+          "qayda": "Bəzi mürəkkəb sözlər və təkrar sözlər defislə yazılır."
+        },
+        {
+          "id": "orfoqrafiya_106",
+          "ad": "Ayrı yazılan sözlər",
+          "qayda": "Söz birləşmələri və müəyyən mürəkkəb quruluşlar ayrı yazılır."
+        },
+        {
+          "id": "orfoqrafiya_107",
+          "ad": "Söz sonunda q və k",
+          "qayda": "Sözlərin yazılışında q və k hərflərinin işlənməsi sözün ədəbi norma üzrə formasına əsaslanır."
+        },
+        {
+          "id": "orfoqrafiya_108",
+          "ad": "Söz sonunda b və d",
+          "qayda": "Söz sonunda b və d ilə yazılan bəzi sözlər tələffüzdə fərqli səslənə bilər; yazılış ədəbi normaya əsaslanır."
+        }
+      ]
+    },
+    {
+      "id": "orfoepiya",
+      "ad": "Orfoepiya",
+      "qaydalar": [
+        {
+          "id": "orfoepiya_109",
+          "ad": "Ədəbi tələffüz",
+          "qayda": "Sözlərin ədəbi dilin müəyyən etdiyi düzgün tələffüz qaydalarına uyğun deyilməsi orfoepik normadır."
+        },
+        {
+          "id": "orfoepiya_110",
+          "ad": "Vurğu",
+          "qayda": "Sözün bir hecasının digərlərindən daha qüvvətli tələffüz edilməsinə vurğu deyilir."
+        },
+        {
+          "id": "orfoepiya_111",
+          "ad": "Məntiqi vurğu",
+          "qayda": "Cümlədə xüsusi olaraq nəzərə çatdırılan söz məntiqi vurğu qəbul edir."
+        },
+        {
+          "id": "orfoepiya_112",
+          "ad": "İntonasiya",
+          "qayda": "Nitqdə səs tonunun, tempin və fasilələrin dəyişməsi intonasiyanı yaradır."
+        }
+      ]
+    },
+    {
+      "id": "üslubiyyat",
+      "ad": "Üslubiyyat",
+      "qaydalar": [
+        {
+          "id": "üslubiyyat_113",
+          "ad": "Üslub",
+          "qayda": "Dil vasitələrinin müəyyən məqsəd və şəraitə uyğun seçilməsi üslub yaradır."
+        },
+        {
+          "id": "üslubiyyat_114",
+          "ad": "Bədii üslub",
+          "qayda": "Obrazlılıq və emosional ifadəlilik bədii üslub üçün səciyyəvidir."
+        },
+        {
+          "id": "üslubiyyat_115",
+          "ad": "Elmi üslub",
+          "qayda": "Dəqiqlik, məntiqilik və terminlərdən istifadə elmi üslub üçün səciyyəvidir."
+        },
+        {
+          "id": "üslubiyyat_116",
+          "ad": "Publisistik üslub",
+          "qayda": "İctimai-siyasi mövzuların kütləvi auditoriyaya çatdırılması publisistik üslubun əsas xüsusiyyətlərindəndir."
+        },
+        {
+          "id": "üslubiyyat_117",
+          "ad": "Rəsmi-işgüzar üslub",
+          "qayda": "Sənədlərdə standartlıq, dəqiqlik və rəsmi ifadələrdən istifadə olunur."
+        },
+        {
+          "id": "üslubiyyat_118",
+          "ad": "Məişət üslubu",
+          "qayda": "Gündəlik ünsiyyətdə işlənən sadə və danışıq xarakterli dil vasitələri məişət üslubuna aiddir."
+        }
+      ]
+    },
+    {
+      "id": "nitq",
+      "ad": "Nitq və mətn",
+      "qaydalar": [
+        {
+          "id": "nitq_119",
+          "ad": "Mətn",
+          "qayda": "Məna və mövzu baxımından bir-biri ilə əlaqəli cümlələr toplusu mətndir."
+        },
+        {
+          "id": "nitq_120",
+          "ad": "Mövzu",
+          "qayda": "Mətnin nədən bəhs etdiyini göstərən əsas anlayış mövzudur."
+        },
+        {
+          "id": "nitq_121",
+          "ad": "Əsas fikir",
+          "qayda": "Müəllifin oxucuya çatdırmaq istədiyi əsas məzmun əsas fikirdir."
+        },
+        {
+          "id": "nitq_122",
+          "ad": "Abzas",
+          "qayda": "Mətnin müəyyən fikir vahidini təşkil edən hissəsidir."
+        },
+        {
+          "id": "nitq_123",
+          "ad": "Müəllif nitqi",
+          "qayda": "Müəllifin hadisə və fikirləri öz dilindən təqdim etdiyi nitq müəllif nitqidir."
+        },
+        {
+          "id": "nitq_124",
+          "ad": "Vasitəsiz nitq",
+          "qayda": "Danışanın sözlərinin dəyişdirilmədən verildiyi nitq vasitəsiz nitqdir."
+        },
+        {
+          "id": "nitq_125",
+          "ad": "Vasitəli nitq",
+          "qayda": "Başqasının fikrinin məzmununun danışanın sözləri ilə çatdırılması vasitəli nitqdir."
+        }
+      ]
+    }
+  ]
+}

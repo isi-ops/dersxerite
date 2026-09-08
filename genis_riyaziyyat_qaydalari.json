@@ -1,0 +1,2178 @@
+{
+  "title": "Geniş Riyaziyyat Qaydaları",
+  "language": "az",
+  "level": "Məktəb və imtahan hazırlığı",
+  "format_version": "2.0",
+  "note": "Qaydalar sistemləşdirilmiş tədris toplusudur; konkret dərsliyin sözbəsöz surəti deyil.",
+  "categories": [
+    {
+      "id": "01_numbers",
+      "name": "Ədədlər və say sistemləri",
+      "rules": [
+        {
+          "id": "NUM-01",
+          "name": "Natural ədədlər",
+          "rule": "Natural ədədlər saymaq üçün istifadə olunan müsbət tam ədədlərdir.",
+          "formula": "1,2,3,...",
+          "uses": [
+            "sayma"
+          ],
+          "exceptions": [
+            "0-ın natural ədəd olub-olmaması qəbul edilmiş tərifdən asılıdır."
+          ],
+          "examples": [
+            "1, 5, 100"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "NUM-02",
+          "name": "Tam ədədlər",
+          "rule": "Mənfi tam ədədlər, 0 və müsbət tam ədədlər tam ədədlər çoxluğunu təşkil edir.",
+          "formula": "Z = {...,-2,-1,0,1,2,...}",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "-3, 0, 7"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "NUM-03",
+          "name": "Rasional ədədlər",
+          "rule": "İki tam ədədin nisbəti şəklində yazıla bilən ədədlər rasionaldır.",
+          "formula": "a/b, b≠0",
+          "uses": [
+            "kəsrlər",
+            "sonlu və dövri onluqlar"
+          ],
+          "exceptions": [],
+          "examples": [
+            "1/2",
+            "-3",
+            "0.75"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "NUM-04",
+          "name": "İrrasional ədədlər",
+          "rule": "İki tam ədədin nisbəti şəklində yazılmayan və sonsuz qeyri-dövri onluq yazılışa malik ədədlər irrasionaldır.",
+          "formula": "x ≠ a/b",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "√2",
+            "π"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "NUM-05",
+          "name": "Real ədədlər",
+          "rule": "Rasional və irrasional ədədlərin birləşməsi real ədədlər çoxluğudur.",
+          "formula": "R = Q ∪ I",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "-2, 0.5, √3"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "NUM-06",
+          "name": "Ədəd oxu",
+          "rule": "Ədəd oxunda sağda yerləşən ədəd soldakından böyükdür.",
+          "formula": "a < b ⇔ a soldadır",
+          "uses": [
+            "müqayisə",
+            "interval"
+          ],
+          "exceptions": [],
+          "examples": [
+            "-2 < 1"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "02_divisibility",
+      "name": "Bölünmə əlamətləri, sadə vuruqlar, ƏBOB və ƏKOB",
+      "rules": [
+        {
+          "id": "DIV-01",
+          "name": "2-yə bölünmə",
+          "rule": "Ədədin son rəqəmi cüt olduqda 2-yə bölünür.",
+          "formula": "son rəqəm 0,2,4,6,8",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "248"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-02",
+          "name": "3-ə bölünmə",
+          "rule": "Rəqəmlərin cəmi 3-ə bölünürsə, ədəd 3-ə bölünür.",
+          "formula": "rəqəmlər cəmi ≡ 0 (mod 3)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "123 → 1+2+3=6"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-03",
+          "name": "4-ə bölünmə",
+          "rule": "Son iki rəqəmdən yaranan ədəd 4-ə bölünürsə, bütün ədəd 4-ə bölünür.",
+          "formula": "son 2 rəqəm ÷4",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "316"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-04",
+          "name": "5-ə bölünmə",
+          "rule": "Son rəqəm 0 və ya 5 olmalıdır.",
+          "formula": "son rəqəm 0 və ya 5",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "125"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-05",
+          "name": "6-ya bölünmə",
+          "rule": "Ədəd həm 2-yə, həm də 3-ə bölünürsə, 6-ya bölünür.",
+          "formula": "2 və 3-ə bölünmə",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "126"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-06",
+          "name": "8-ə bölünmə",
+          "rule": "Son üç rəqəmdən yaranan ədəd 8-ə bölünürsə, ədəd 8-ə bölünür.",
+          "formula": "son 3 rəqəm ÷8",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "1016"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-07",
+          "name": "9-a bölünmə",
+          "rule": "Rəqəmlərin cəmi 9-a bölünürsə, ədəd 9-a bölünür.",
+          "formula": "rəqəmlər cəmi ≡ 0 (mod 9)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "729"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-08",
+          "name": "10-a bölünmə",
+          "rule": "Son rəqəm 0 olmalıdır.",
+          "formula": "son rəqəm 0",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "340"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-09",
+          "name": "11-ə bölünmə",
+          "rule": "Tək və cüt mövqelərdəki rəqəmlərin cəmlərinin fərqi 11-ə bölünürsə, ədəd 11-ə bölünür.",
+          "formula": "|S1-S2| ≡ 0 (mod 11)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "121"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-10",
+          "name": "Sadə ədəd",
+          "rule": "1-dən böyük və yalnız 1-ə və özünə bölünən natural ədədə sadə ədəd deyilir.",
+          "formula": "n > 1",
+          "uses": [
+            "sadə vuruqlara ayırma"
+          ],
+          "exceptions": [
+            "1 sadə deyil."
+          ],
+          "examples": [
+            "2,3,5,7"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-11",
+          "name": "Mürəkkəb ədəd",
+          "rule": "1-dən böyük və ikidən çox natural böləni olan natural ədəd mürəkkəbdir.",
+          "formula": "n > 1",
+          "uses": [],
+          "exceptions": [
+            "1 nə sadə, nə mürəkkəbdir."
+          ],
+          "examples": [
+            "4,6,12"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-12",
+          "name": "ƏBOB",
+          "rule": "İki və ya daha çox ədədin bütün ortaq bölənləri içində ən böyüyünə ƏBOB deyilir.",
+          "formula": "ƏBOB(a,b)",
+          "uses": [
+            "ortaq bölən",
+            "ixtisar"
+          ],
+          "exceptions": [],
+          "examples": [
+            "ƏBOB(12,18)=6"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-13",
+          "name": "ƏKOB",
+          "rule": "İki və ya daha çox ədədin bütün ortaq qatları içində ən kiçiyinə ƏKOB deyilir.",
+          "formula": "ƏKOB(a,b)",
+          "uses": [
+            "ortaq qat",
+            "periodik hadisələr"
+          ],
+          "exceptions": [],
+          "examples": [
+            "ƏKOB(6,8)=24"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-14",
+          "name": "ƏBOB-ƏKOB əlaqəsi",
+          "rule": "İki natural ədəd üçün ƏBOB ilə ƏKOB-un hasili həmin ədədlərin hasilinə bərabərdir.",
+          "formula": "ƏBOB(a,b)·ƏKOB(a,b)=ab",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "a=12,b=18"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "DIV-15",
+          "name": "Sadə vuruqlara ayırma",
+          "rule": "Ədəd sadə vuruqların hasili şəklində göstərilir.",
+          "formula": "n=p1^a1·p2^a2...",
+          "uses": [
+            "ƏBOB/ƏKOB"
+          ],
+          "exceptions": [],
+          "examples": [
+            "60=2²·3·5"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "03_fractions",
+      "name": "Kəsrlər və onluq kəsrlər",
+      "rules": [
+        {
+          "id": "FR-01",
+          "name": "Adi kəsr",
+          "rule": "Surətin məxrəcə nisbəti adi kəsrdir; məxrəc sıfır ola bilməz.",
+          "formula": "a/b, b≠0",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "3/5"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-02",
+          "name": "Düzgün kəsr",
+          "rule": "Surəti məxrəcindən kiçik olan kəsr düzgün kəsrdir.",
+          "formula": "a<b",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "3/7"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-03",
+          "name": "Düzgün olmayan kəsr",
+          "rule": "Surəti məxrəcindən böyük və ya ona bərabər olan kəsr düzgün olmayan kəsrdir.",
+          "formula": "a≥b",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "7/5",
+            "5/5"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-04",
+          "name": "Qarışıq ədəd",
+          "rule": "Tam hissə və düzgün kəsrdən ibarət yazılışdır.",
+          "formula": "m a/b",
+          "uses": [
+            "düzgün olmayan kəsrə çevirmə"
+          ],
+          "exceptions": [],
+          "examples": [
+            "2 1/3"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-05",
+          "name": "Kəsrin ixtisarı",
+          "rule": "Surət və məxrəc eyni natural ədədə bölünməklə kəsr sadələşdirilir.",
+          "formula": "a/b=(a:d)/(b:d)",
+          "uses": [
+            "d | a və d | b"
+          ],
+          "exceptions": [],
+          "examples": [
+            "12/18=2/3"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-06",
+          "name": "Kəsrlərin toplanması",
+          "rule": "Eyni məxrəc olduqda surətlər toplanır; müxtəlif məxrəclər əvvəl ümumi məxrəcə gətirilir.",
+          "formula": "a/c+b/c=(a+b)/c",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "1/3+1/6=1/2"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-07",
+          "name": "Kəsrlərin çıxılması",
+          "rule": "Eyni məxrəc olduqda surətlər çıxılır.",
+          "formula": "a/c-b/c=(a-b)/c",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "5/6-1/6=2/3"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-08",
+          "name": "Kəsrlərin vurulması",
+          "rule": "Surətlər bir-birinə, məxrəclər bir-birinə vurulur.",
+          "formula": "a/b·c/d=ac/bd",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "2/3·3/5=2/5"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-09",
+          "name": "Kəsrlərin bölünməsi",
+          "rule": "Birinci kəsr ikinci kəsrin tərsinə vurulur.",
+          "formula": "a/b:c/d=a/b·d/c",
+          "uses": [
+            "c≠0"
+          ],
+          "exceptions": [
+            "Sıfıra bölmə olmaz."
+          ],
+          "examples": [
+            "2/3:4/5=5/6"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-10",
+          "name": "Sonlu onluq kəsr",
+          "rule": "Məxrəci ixtisar edilmiş formada yalnız 2 və 5 sadə vuruqlarından ibarət olan kəsr sonlu onluq kəsrə çevrilir.",
+          "formula": "m=2^a·5^b",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "1/8=0.125",
+            "3/20=0.15"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FR-11",
+          "name": "Dövri onluq kəsr",
+          "rule": "Məxrəcdə 2 və 5-dən başqa sadə vuruq olduqda ixtisar olunmuş kəsr çox vaxt sonsuz dövri onluğa çevrilir.",
+          "formula": "m contains p≠2,5",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "1/3=0.333..."
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "04_ratios_percent",
+      "name": "Nisbət, tənasüb və faiz",
+      "rules": [
+        {
+          "id": "RP-01",
+          "name": "Nisbət",
+          "rule": "İki kəmiyyətin eyni ölçü vahidində müqayisəsi onların nisbətidir.",
+          "formula": "a:b=a/b",
+          "uses": [],
+          "exceptions": [
+            "Vahidlər uyğunlaşdırılmalıdır."
+          ],
+          "examples": [
+            "6:3=2:1"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RP-02",
+          "name": "Tənasüb",
+          "rule": "İki nisbətin bərabərliyinə tənasüb deyilir.",
+          "formula": "a/b=c/d",
+          "uses": [
+            "a·d=b·c"
+          ],
+          "exceptions": [],
+          "examples": [
+            "2/3=4/6"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RP-03",
+          "name": "Faiz",
+          "rule": "Faiz yüzdə bir hissədir.",
+          "formula": "p%=p/100",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "25%=1/4"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RP-04",
+          "name": "Ədədin faizini tapmaq",
+          "rule": "Ədədin p faizini tapmaq üçün ədədi p/100-ə vurmaq lazımdır.",
+          "formula": "A·p/100",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "200-ün 15%-i=30"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RP-05",
+          "name": "Faizə görə tamı tapmaq",
+          "rule": "Ədədin p faizi B-dirsə, tam A=B·100/p olur.",
+          "formula": "A=B·100/p",
+          "uses": [
+            "p≠0"
+          ],
+          "exceptions": [],
+          "examples": [
+            "20%-i 30 olan ədəd 150-dir."
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RP-06",
+          "name": "Faiz artımı",
+          "rule": "Kəmiyyət p% artdıqda yeni qiymət əvvəlkinin 1+p/100 misli olur.",
+          "formula": "A_new=A(1+p/100)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "100→110, 10% artım"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "RP-07",
+          "name": "Faiz azalması",
+          "rule": "Kəmiyyət p% azaldıqda yeni qiymət əvvəlkinin 1-p/100 misli olur.",
+          "formula": "A_new=A(1-p/100)",
+          "uses": [],
+          "exceptions": [
+            "p=100 olduqda nəticə 0."
+          ],
+          "examples": [
+            "200→150, 25% azalma"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "05_powers_roots",
+      "name": "Qüvvətlər və köklər",
+      "rules": [
+        {
+          "id": "PR-01",
+          "name": "Natural üstlü qüvvət",
+          "rule": "Eyni vuruğun n dəfə hasilinə həmin vuruğun n-ci dərəcədən qüvvəti deyilir.",
+          "formula": "a^n=a·a·...·a",
+          "uses": [
+            "n natural"
+          ],
+          "exceptions": [],
+          "examples": [
+            "2^3=8"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-02",
+          "name": "Eyni əsaslı qüvvətlərin hasili",
+          "rule": "Əsaslar eyni olduqda üstlər toplanır.",
+          "formula": "a^m·a^n=a^(m+n)",
+          "uses": [
+            "a≠0"
+          ],
+          "exceptions": [],
+          "examples": [
+            "2²·2³=2⁵"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-03",
+          "name": "Eyni əsaslı qüvvətlərin nisbəti",
+          "rule": "Əsaslar eyni olduqda üstlər çıxılır.",
+          "formula": "a^m/a^n=a^(m-n)",
+          "uses": [
+            "a≠0"
+          ],
+          "exceptions": [],
+          "examples": [
+            "5⁴/5²=5²"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-04",
+          "name": "Qüvvətin qüvvəti",
+          "rule": "Qüvvətə qüvvət verildikdə üstlər vurulur.",
+          "formula": "(a^m)^n=a^(mn)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "(2²)^3=2⁶"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-05",
+          "name": "Hasilin qüvvəti",
+          "rule": "Hasilin qüvvəti hər vuruğun qüvvətlərinin hasilinə bərabərdir.",
+          "formula": "(ab)^n=a^n b^n",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "(2·3)²=2²·3²"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-06",
+          "name": "Sıfırıncı üst",
+          "rule": "Sıfırdan fərqli ədədin sıfırıncı dərəcəsi 1-dir.",
+          "formula": "a^0=1, a≠0",
+          "uses": [],
+          "exceptions": [
+            "0^0 məktəb səviyyəsində müəyyən edilmir."
+          ],
+          "examples": [
+            "7^0=1"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-07",
+          "name": "Mənfi üst",
+          "rule": "Sıfırdan fərqli ədədin mənfi üstü tərs qüvvədir.",
+          "formula": "a^-n=1/a^n",
+          "uses": [
+            "a≠0"
+          ],
+          "exceptions": [],
+          "examples": [
+            "2^-3=1/8"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-08",
+          "name": "Kvadrat kök",
+          "rule": "Müsbət və ya sıfır a üçün √a, kvadratı a olan mənfi olmayan ədəddir.",
+          "formula": "(√a)^2=a; √a≥0",
+          "uses": [
+            "a≥0"
+          ],
+          "exceptions": [
+            "√(a²)=|a|"
+          ],
+          "examples": [
+            "√25=5"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-09",
+          "name": "Kök hasil qaydası",
+          "rule": "Uyğun şərtlərdə √a·√b=√(ab).",
+          "formula": "√a√b=√ab",
+          "uses": [
+            "a,b≥0"
+          ],
+          "exceptions": [],
+          "examples": [
+            "√2·√8=4"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "PR-10",
+          "name": "Kök nisbəti",
+          "rule": "Uyğun şərtlərdə √a/√b=√(a/b).",
+          "formula": "√a/√b=√(a/b)",
+          "uses": [
+            "a≥0,b>0"
+          ],
+          "exceptions": [],
+          "examples": [
+            "√18/√2=3"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "06_algebraic_expressions",
+      "name": "Cəbri ifadələr və eyniliklər",
+      "rules": [
+        {
+          "id": "ALG-01",
+          "name": "Birhədli",
+          "rule": "Ədədi əmsal və dəyişənlərin natural üstlü hasili birhədli təşkil edir.",
+          "formula": "a·x^m·y^n",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "3x²y"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ALG-02",
+          "name": "Çoxhədli",
+          "rule": "Bir neçə birhədlinin cəmi çoxhədlidir.",
+          "formula": "P=a1+a2+...",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "x²+3x+2"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ALG-03",
+          "name": "Oxşar hədlər",
+          "rule": "Eyni dəyişən hissəyə malik hədlər oxşar hədlərdir və əmsalları toplanıb/çıxılır.",
+          "formula": "ax+bx=(a+b)x",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "3x+5x=8x"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ALG-04",
+          "name": "Paylama qanunu",
+          "rule": "Vuruq mötərizənin bütün hədlərinə vurulur.",
+          "formula": "a(b+c)=ab+ac",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "2(x+3)=2x+6"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ALG-05",
+          "name": "Kvadratların fərqi",
+          "rule": "İki kvadratın fərqi iki ifadənin cəmi ilə fərqinin hasilinə ayrılır.",
+          "formula": "a²-b²=(a-b)(a+b)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "x²-9=(x-3)(x+3)"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ALG-06",
+          "name": "Cəmin kvadratı",
+          "rule": "İki ifadənin cəmi kvadratı birinci kvadrat + ikiqat hasil + ikinci kvadratdır.",
+          "formula": "(a+b)²=a²+2ab+b²",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "(x+2)²=x²+4x+4"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ALG-07",
+          "name": "Fərqin kvadratı",
+          "rule": "İki ifadənin fərqinin kvadratı birinci kvadrat - ikiqat hasil + ikinci kvadratdır.",
+          "formula": "(a-b)²=a²-2ab+b²",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "(x-3)²=x²-6x+9"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ALG-08",
+          "name": "Kubların cəmi",
+          "rule": "İki kubun cəmi uyğun vurğa ayrılır.",
+          "formula": "a³+b³=(a+b)(a²-ab+b²)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "x³+8=(x+2)(x²-2x+4)"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "ALG-09",
+          "name": "Kubların fərqi",
+          "rule": "İki kubun fərqi uyğun vurğa ayrılır.",
+          "formula": "a³-b³=(a-b)(a²+ab+b²)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "x³-8=(x-2)(x²+2x+4)"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "07_linear_equations",
+      "name": "Xətti tənliklər",
+      "rules": [
+        {
+          "id": "LE-01",
+          "name": "Xətti tənlik",
+          "rule": "Dəyişənin ən böyük üstü 1 olan tənliyə xətti tənlik deyilir.",
+          "formula": "ax+b=0, a≠0",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "2x+3=7"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "LE-02",
+          "name": "Tənliyin əsas xassəsi",
+          "rule": "Tənliyin hər iki tərəfinə eyni ədədi əlavə/çıxmaq və ya eyni sıfırdan fərqli ədədə vurmaq/bölmək kökləri dəyişmir.",
+          "formula": "a=b ⇒ a+c=b+c",
+          "uses": [],
+          "exceptions": [
+            "Bölmə zamanı bölən 0 ola bilməz."
+          ],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "LE-03",
+          "name": "Mötərizəli tənlik",
+          "rule": "Əvvəl mötərizə açılır, oxşar hədlər birləşdirilir, dəyişən bir tərəfdə saxlanılır.",
+          "formula": "ax+b=cx+d",
+          "uses": [
+            "mərhələli həll"
+          ],
+          "exceptions": [],
+          "examples": [
+            "2(x+1)=8"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "LE-04",
+          "name": "Kəsrli tənlik",
+          "rule": "Məxrəclərin ƏKOB-u ilə vuraraq kəsrlərdən azad etmək mümkündür.",
+          "formula": "LCM(denominators)·equation",
+          "uses": [
+            "məxrəc ≠0"
+          ],
+          "exceptions": [
+            "Tapılan kök ilkin məxrəcləri sıfırlamamalıdır."
+          ],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "08_systems",
+      "name": "Tənliklər sistemi",
+      "rules": [
+        {
+          "id": "SYS-01",
+          "name": "İki xətti tənlik sistemi",
+          "rule": "İki dəyişənli xətti sistem iki tənliyin eyni vaxtda ödənməsini tələb edir.",
+          "formula": "a1x+b1y=c1; a2x+b2y=c2",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SYS-02",
+          "name": "Əvəz etmə üsulu",
+          "rule": "Bir tənlikdən bir dəyişən ifadə edilir və digər tənlikdə yerinə qoyulur.",
+          "formula": "x=f(y) → substitute",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SYS-03",
+          "name": "Toplama/çıxma üsulu",
+          "rule": "Dəyişənlərdən birinin əmsalları əks ədədlərə gətirilərək tənliklər toplanır və ya çıxılır.",
+          "formula": "Eq1 ± Eq2",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SYS-04",
+          "name": "Sistemin həll sayı",
+          "rule": "Uyğun xətlər bir kəsişmə nöqtəsi, üst-üstə düşmə və ya paralellik halına görə bir, sonsuz sayda və ya həllsiz ola bilər.",
+          "formula": "determinant D",
+          "uses": [],
+          "exceptions": [
+            "D=0 olduqda ayrıca yoxlama lazımdır."
+          ],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "09_inequalities",
+      "name": "Bərabərsizliklər",
+      "rules": [
+        {
+          "id": "INQ-01",
+          "name": "Bərabərsizliyin xassələri",
+          "rule": "Hər iki tərəfə eyni ədəd əlavə etmək/çıxmaq işarəni dəyişmir.",
+          "formula": "a<b ⇒ a+c<b+c",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "INQ-02",
+          "name": "Müsbət ədədə vurma/bölmə",
+          "rule": "Müsbət ədədə vurduqda və ya böldükdə işarə dəyişmir.",
+          "formula": "a<b,c>0 ⇒ ac<bc",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "INQ-03",
+          "name": "Mənfi ədədə vurma/bölmə",
+          "rule": "Mənfi ədədə vurduqda və ya böldükdə bərabərsizlik işarəsi əksinə çevrilir.",
+          "formula": "a<b,c<0 ⇒ ac>bc",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "INQ-04",
+          "name": "Interval yazılışı",
+          "rule": "Bərabərsizlik həlli ədəd oxunda və interval şəklində göstərilə bilər.",
+          "formula": "x>a → (a,∞)",
+          "uses": [
+            "a daxil deyil → dairəvi mötərizə",
+            "a daxildir → kvadrat mötərizə"
+          ],
+          "exceptions": [],
+          "examples": [
+            "x≥2 → [2,∞)"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "10_functions",
+      "name": "Funksiyalar",
+      "rules": [
+        {
+          "id": "FUN-01",
+          "name": "Funksiya anlayışı",
+          "rule": "Təyin oblastının hər elementinə qiymətlər oblastından yalnız bir qiymət uyğunlaşdıran uyğunluq funksiyadır.",
+          "formula": "y=f(x)",
+          "uses": [
+            "x — arqument",
+            "f(x) — funksiya qiyməti"
+          ],
+          "exceptions": [],
+          "examples": [
+            "f(x)=2x+1"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FUN-02",
+          "name": "Təyin oblastı",
+          "rule": "Funksiyanın məna kəsb etdiyi x qiymətlərinin çoxluğudur.",
+          "formula": "D(f)",
+          "uses": [
+            "məxrəc ≠0",
+            "cüt dərəcəli kökaltı ≥0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "FUN-03",
+          "name": "Qiymətlər oblastı",
+          "rule": "Funksiyanın qəbul etdiyi y qiymətlərinin çoxluğudur.",
+          "formula": "E(f)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "FUN-04",
+          "name": "Xətti funksiya",
+          "rule": "y=kx+b qrafiki düz xətdir.",
+          "formula": "y=kx+b",
+          "uses": [
+            "k — meyl əmsalı",
+            "b — y oxunu kəsdiyi qiymət"
+          ],
+          "exceptions": [],
+          "examples": [
+            "y=2x+1"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "FUN-05",
+          "name": "Tərs mütənasiblik",
+          "rule": "y=k/x, x≠0 funksiyasına tərs mütənasiblik deyilir.",
+          "formula": "y=k/x",
+          "uses": [
+            "k≠0"
+          ],
+          "exceptions": [
+            "x=0 olmaz."
+          ],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "11_polynomials",
+      "name": "Çoxhədlilər və vurğa ayırma",
+      "rules": [
+        {
+          "id": "POL-01",
+          "name": "Ümumi vuruğun mötərizədən çıxarılması",
+          "rule": "Bütün hədlərdə ortaq olan vuruq mötərizədən kənara çıxarılır.",
+          "formula": "ab+ac=a(b+c)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "6x+9=3(2x+3)"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "POL-02",
+          "name": "Qruplaşdırma",
+          "rule": "Hədlər qruplaşdırılaraq ortaq vuruq əldə edilir.",
+          "formula": "ax+ay+bx+by=(a+b)(x+y)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "POL-03",
+          "name": "Tam kvadrat üçhədli",
+          "rule": "a²±2ab+b² ifadələri uyğun olaraq (a±b)² formasına gətirilir.",
+          "formula": "a²+2ab+b²=(a+b)²",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "POL-04",
+          "name": "Rasional ifadənin ixtisarı",
+          "rule": "Surət və məxrəcdə ortaq sıfırdan fərqli vuruqlar ixtisar edilə bilər.",
+          "formula": "A·C/B·C=A/B",
+          "uses": [
+            "C≠0"
+          ],
+          "exceptions": [
+            "İxtisar ilkin ifadənin təyin oblastını dəyişmir; məhdudiyyət saxlanmalıdır."
+          ],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "12_quadratic",
+      "name": "Kvadrat tənliklər",
+      "rules": [
+        {
+          "id": "QUAD-01",
+          "name": "Kvadrat tənlik",
+          "rule": "Ən böyük dərəcəsi 2 olan tənlik kvadrat tənlikdir.",
+          "formula": "ax²+bx+c=0, a≠0",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "x²-5x+6=0"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "QUAD-02",
+          "name": "Diskriminant",
+          "rule": "Kvadrat tənliyin köklərinin sayını müəyyənləşdirmək üçün D=b²-4ac hesablanır.",
+          "formula": "D=b²-4ac",
+          "uses": [
+            "D>0 → 2 müxtəlif həqiqi kök",
+            "D=0 → 1 ikiqat kök",
+            "D<0 → həqiqi kök yoxdur"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "QUAD-03",
+          "name": "Kvadrat tənliyin kökləri",
+          "rule": "D≥0 olduqda köklər düsturla tapılır.",
+          "formula": "x1,2=(-b±√D)/(2a)",
+          "uses": [
+            "D≥0"
+          ],
+          "exceptions": [
+            "a≠0"
+          ],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "QUAD-04",
+          "name": "Vieta teoremi",
+          "rule": "ax²+bx+c=0 üçün köklərin cəmi -b/a, hasili c/a-dır.",
+          "formula": "x1+x2=-b/a; x1x2=c/a",
+          "uses": [
+            "a≠0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "QUAD-05",
+          "name": "Natamam kvadrat tənlik",
+          "rule": "b və ya c sıfır olduqda uyğun sadələşdirilmiş üsullardan istifadə edilir.",
+          "formula": "ax²+bx=0; ax²+c=0; ax²=0",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "13_sequences",
+      "name": "Arifmetik və həndəsi silsilə",
+      "rules": [
+        {
+          "id": "SEQ-01",
+          "name": "Arifmetik silsilə",
+          "rule": "Ardıcıl hədlərinin fərqi sabit olan ardıcıllıq arifmetik silsilədir.",
+          "formula": "a_n=a_1+(n-1)d",
+          "uses": [
+            "d — fərq"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SEQ-02",
+          "name": "Arifmetik silsilənin n-ci həddi",
+          "rule": "n-ci hədd birinci həddə (n-1) dəfə fərqin əlavə edilməsidir.",
+          "formula": "a_n=a_1+(n-1)d",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SEQ-03",
+          "name": "Arifmetik silsilənin cəmi",
+          "rule": "İlk n həddin cəmi ilk və son həddin cəminin n/2-yə hasilidir.",
+          "formula": "S_n=n(a_1+a_n)/2",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SEQ-04",
+          "name": "Həndəsi silsilə",
+          "rule": "Ardıcıl hədlərinin nisbəti sabit olan ardıcıllıq həndəsi silsilədir.",
+          "formula": "b_n=b_1·q^(n-1)",
+          "uses": [
+            "q — məxrəc"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SEQ-05",
+          "name": "Həndəsi silsilənin cəmi",
+          "rule": "q≠1 olduqda ilk n həddin cəmi düsturla hesablanır.",
+          "formula": "S_n=b_1(q^n-1)/(q-1)",
+          "uses": [
+            "q≠1"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "14_geometry_basic",
+      "name": "Həndəsənin əsasları",
+      "rules": [
+        {
+          "id": "GEO-01",
+          "name": "Bucaq növləri",
+          "rule": "0°-dən böyük və 90°-dən kiçik iti, 90° düz, 90°-dən böyük və 180°-dən kiçik kor bucaqdır.",
+          "formula": "iti<90°; düz=90°; kor<180°",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "GEO-02",
+          "name": "Tam bucaq",
+          "rule": "Bir tam dövr 360°-dir.",
+          "formula": "360°",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "GEO-03",
+          "name": "Qonşu bucaqlar",
+          "rule": "Ortaq təpə və bir tərəfi olan, daxili hissələri kəsişməyən bucaqlar qonşudur.",
+          "formula": "",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "GEO-04",
+          "name": "Şaquli bucaqlar",
+          "rule": "İki düz xəttin kəsişməsindən yaranan qarşı-qarşıya bucaqlar bərabərdir.",
+          "formula": "∠1=∠3; ∠2=∠4",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "GEO-05",
+          "name": "Paralel xətlər",
+          "rule": "Eyni müstəvidə kəsişməyən düz xətlər paraleldir.",
+          "formula": "a∥b",
+          "uses": [
+            "uyğun bucaqlar bərabərliyi",
+            "daxili çarpaz bucaqlar"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "15_triangles",
+      "name": "Üçbucaqlar",
+      "rules": [
+        {
+          "id": "TRI-01",
+          "name": "Üçbucağın daxili bucaqları",
+          "rule": "Üçbucağın daxili bucaqlarının cəmi 180°-dir.",
+          "formula": "A+B+C=180°",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRI-02",
+          "name": "Xarici bucaq",
+          "rule": "Üçbucağın xarici bucağı ona qonşu olmayan iki daxili bucağın cəminə bərabərdir.",
+          "formula": "∠ext=A+B",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRI-03",
+          "name": "Üçbucağın sahəsi",
+          "rule": "Əsas və həmin əsasa çəkilmiş hündürlüyün hasilinin yarısı sahəni verir.",
+          "formula": "S=ah/2",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRI-04",
+          "name": "Pifaqor teoremi",
+          "rule": "Düzbucaqlı üçbucaqda hipotenuzanın kvadratı katetlərin kvadratları cəminə bərabərdir.",
+          "formula": "c²=a²+b²",
+          "uses": [
+            "c — hipotenuza"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRI-05",
+          "name": "Bərabəryanlı üçbucaq",
+          "rule": "İki tərəfi bərabər olan üçbucaqda həmin tərəflərin qarşısındakı bucaqlar bərabərdir.",
+          "formula": "AB=AC ⇒ ∠B=∠C",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRI-06",
+          "name": "Bərabərtərəfli üçbucaq",
+          "rule": "Üç tərəfi bərabərdir və bütün daxili bucaqları 60°-dir.",
+          "formula": "a=b=c; A=B=C=60°",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRI-07",
+          "name": "Üçbucağın mövcudluq şərti",
+          "rule": "İstənilən iki tərəfin cəmi üçüncü tərəfdən böyük olmalıdır.",
+          "formula": "a+b>c; a+c>b; b+c>a",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "16_quadrilaterals",
+      "name": "Dördbucaqlılar",
+      "rules": [
+        {
+          "id": "QUADG-01",
+          "name": "Dördbucaqlının daxili bucaqları",
+          "rule": "İstənilən dördbucaqlının daxili bucaqlarının cəmi 360°-dir.",
+          "formula": "A+B+C+D=360°",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "QUADG-02",
+          "name": "Paraleloqram",
+          "rule": "Qarşı tərəfləri paralel və bərabərdir; qarşı bucaqları bərabər, diaqonalları bir-birini yarıya bölür.",
+          "formula": "a∥c; b∥d",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "QUADG-03",
+          "name": "Düzbucaqlı",
+          "rule": "Bütün bucaqları 90° olan paraleloqramdır; diaqonalları bərabərdir.",
+          "formula": "A=B=C=D=90°",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "QUADG-04",
+          "name": "Romb",
+          "rule": "Bütün tərəfləri bərabər olan paraleloqramdır; diaqonalları perpendikulyardır və bucaqları yarıya bölür.",
+          "formula": "a=b=c=d",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "QUADG-05",
+          "name": "Kvadrat",
+          "rule": "Həm düzbucaqlı, həm də rombun xüsusiyyətlərinə malikdir.",
+          "formula": "a=b=c=d; bütün bucaqlar 90°",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "QUADG-06",
+          "name": "Trapesiya",
+          "rule": "Yalnız bir cüt qarşı tərəfi paralel olan dördbucaqlıdır.",
+          "formula": "a∥c",
+          "uses": [
+            "orta xətt m=(a+b)/2"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "17_circle",
+      "name": "Çevrə və dairə",
+      "rules": [
+        {
+          "id": "CIR-01",
+          "name": "Çevrənin uzunluğu",
+          "rule": "Radiusu r olan çevrənin uzunluğu 2πr-dir.",
+          "formula": "C=2πr",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "CIR-02",
+          "name": "Dairənin sahəsi",
+          "rule": "Radiusu r olan dairənin sahəsi πr²-dir.",
+          "formula": "S=πr²",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "CIR-03",
+          "name": "Diametr-radius əlaqəsi",
+          "rule": "Diametr radiusun iki mislidir.",
+          "formula": "d=2r",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "CIR-04",
+          "name": "Mərkəzi bucaq və qövs",
+          "rule": "Mərkəzi bucağın ölçüsü uyğun qövsün dərəcə ölçüsünə bərabərdir.",
+          "formula": "m(qövs)=m(mərkəzi bucaq)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "18_similarity",
+      "name": "Oxşarlıq və miqyas",
+      "rules": [
+        {
+          "id": "SIM-01",
+          "name": "Oxşar üçbucaqlar",
+          "rule": "Uyğun bucaqları bərabər, uyğun tərəfləri mütənasib olan üçbucaqlar oxşardır.",
+          "formula": "a1/a2=b1/b2=c1/c2",
+          "uses": [
+            "AAA",
+            "SAS",
+            "SSS meyarları"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SIM-02",
+          "name": "Miqyas",
+          "rule": "Miqyas xəritə/model ölçüsünün həqiqi ölçüyə nisbətidir.",
+          "formula": "miqyas=model/həqiqi",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "1:100"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "SIM-03",
+          "name": "Oxşar fiqurların sahələri",
+          "rule": "Oxşarlıq əmsalı k-dırsa, uyğun sahələr k² nisbətindədir.",
+          "formula": "S1/S2=k²",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "19_coordinate",
+      "name": "Koordinat həndəsəsi",
+      "rules": [
+        {
+          "id": "COORD-01",
+          "name": "Koordinat müstəvisi",
+          "rule": "Nöqtə (x,y) şəklində göstərilir; x absis, y ordinatdır.",
+          "formula": "A(x,y)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "A(2,-3)"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "COORD-02",
+          "name": "İki nöqtə arasındakı məsafə",
+          "rule": "A(x1,y1), B(x2,y2) üçün məsafə düsturu Pifaqor teoremindən alınır.",
+          "formula": "d=√((x2-x1)²+(y2-y1)²)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "COORD-03",
+          "name": "Orta nöqtə",
+          "rule": "İki nöqtəni birləşdirən parçanın orta nöqtəsinin koordinatları uyğun koordinatların ədədi ortasıdır.",
+          "formula": "M((x1+x2)/2,(y1+y2)/2)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "COORD-04",
+          "name": "Düz xəttin meyli",
+          "rule": "İki nöqtədən keçən düz xəttin meyl əmsalı y fərqinin x fərqinə nisbətidir.",
+          "formula": "k=(y2-y1)/(x2-x1)",
+          "uses": [
+            "x1≠x2"
+          ],
+          "exceptions": [
+            "Şaquli xəttin meyl əmsalı müəyyən edilmir."
+          ],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "20_vectors",
+      "name": "Vektorlar",
+      "rules": [
+        {
+          "id": "VEC-01",
+          "name": "Vektor",
+          "rule": "İstiqaməti və uzunluğu olan yönlü parçaya vektor deyilir.",
+          "formula": "→AB",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "VEC-02",
+          "name": "Vektorların toplanması",
+          "rule": "Vektorlar koordinatla toplanarkən uyğun koordinatlar toplanır.",
+          "formula": "(a,b)+(c,d)=(a+c,b+d)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "VEC-03",
+          "name": "Vektorun ədədə vurulması",
+          "rule": "Vektor ədədə vurulduqda bütün koordinatlar həmin ədədə vurulur.",
+          "formula": "k(a,b)=(ka,kb)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "VEC-04",
+          "name": "Skalyar hasil",
+          "rule": "İki vektorun skalyar hasili koordinat hasilərinin cəmidir.",
+          "formula": "a·b=x1x2+y1y2",
+          "uses": [
+            "perpendikulyar olduqda hasil 0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "21_trigonometry",
+      "name": "Triqonometriya",
+      "rules": [
+        {
+          "id": "TRIG-01",
+          "name": "Sinus",
+          "rule": "Düzbucaqlı üçbucaqda iti bucağın sinusu qarşı katetin hipotenuzaya nisbətidir.",
+          "formula": "sin α=qarşı katet/hipotenuza",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRIG-02",
+          "name": "Kosinus",
+          "rule": "İti bucağın kosinusu qonşu katetin hipotenuzaya nisbətidir.",
+          "formula": "cos α=qonşu katet/hipotenuza",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRIG-03",
+          "name": "Tangens",
+          "rule": "Tangens qarşı katetin qonşu katetə nisbətidir.",
+          "formula": "tan α=qarşı/qonşu",
+          "uses": [
+            "cos α≠0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRIG-04",
+          "name": "Kotangens",
+          "rule": "Kotangens qonşu katetin qarşı katetə nisbətidir.",
+          "formula": "cot α=qonşu/qarşı",
+          "uses": [
+            "sin α≠0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRIG-05",
+          "name": "Əsas triqonometrik eynilik",
+          "rule": "Sinus və kosinusun kvadratları cəmi 1-dir.",
+          "formula": "sin²x+cos²x=1",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "TRIG-06",
+          "name": "Tangens-sinus-kosinus",
+          "rule": "Tangens sinusun kosinusa nisbətidir.",
+          "formula": "tan x=sin x/cos x",
+          "uses": [
+            "cos x≠0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "22_exponents_logarithms",
+      "name": "Göstərici və loqarifm",
+      "rules": [
+        {
+          "id": "LOG-01",
+          "name": "Loqarifmin tərifi",
+          "rule": "a əsasından b-nin loqarifmi a-nın hansı üstə yüksəldikdə b verdiyini göstərir.",
+          "formula": "log_a b=c ⇔ a^c=b",
+          "uses": [
+            "a>0",
+            "a≠1",
+            "b>0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "LOG-02",
+          "name": "Hasilin loqarifmi",
+          "rule": "Eyni əsaslı loqarifmlərin hasil qaydası cəmə çevrilir.",
+          "formula": "log_a(xy)=log_a x+log_a y",
+          "uses": [
+            "x,y>0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "LOG-03",
+          "name": "Nisbətin loqarifmi",
+          "rule": "Nisbətin loqarifmi fərqə çevrilir.",
+          "formula": "log_a(x/y)=log_a x-log_a y",
+          "uses": [
+            "x,y>0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "LOG-04",
+          "name": "Qüvvətin loqarifmi",
+          "rule": "Qüvvətin üstü loqarifmin qarşısına vurğu kimi çıxır.",
+          "formula": "log_a(x^n)=n log_a x",
+          "uses": [
+            "x>0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "LOG-05",
+          "name": "Əsasın dəyişdirilməsi",
+          "rule": "Loqarifmin əsasını dəyişmək üçün istənilən uyğun əsasdan istifadə etmək olar.",
+          "formula": "log_a b=log_c b/log_c a",
+          "uses": [
+            "a,c>0",
+            "a,c≠1",
+            "b>0"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "23_combinatorics",
+      "name": "Kombinatorika və ehtimal",
+      "rules": [
+        {
+          "id": "COMB-01",
+          "name": "Faktorial",
+          "rule": "n natural ədədinin faktorialı 1-dən n-ə qədər natural ədədlərin hasilidir.",
+          "formula": "n!=1·2·...·n; 0!=1",
+          "uses": [],
+          "exceptions": [],
+          "examples": [
+            "5!=120"
+          ],
+          "notes": ""
+        },
+        {
+          "id": "COMB-02",
+          "name": "Permutasiya",
+          "rule": "n müxtəlif elementin hamısının düzülüşlərinin sayı n!-dir.",
+          "formula": "P_n=n!",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "COMB-03",
+          "name": "Yerləşdirmə",
+          "rule": "n elementdən k-sının sıra nəzərə alınmaqla seçilməsi yerləşdirmədir.",
+          "formula": "A_n^k=n!/(n-k)!",
+          "uses": [
+            "0≤k≤n"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "COMB-04",
+          "name": "Kombinasiya",
+          "rule": "n elementdən k-sının sıra nəzərə alınmadan seçilməsi kombinasiyadır.",
+          "formula": "C_n^k=n!/(k!(n-k)!)",
+          "uses": [
+            "0≤k≤n"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "COMB-05",
+          "name": "Sadə ehtimal",
+          "rule": "Bərabərmümkün nəticələrdə hadisənin ehtimalı əlverişli nəticələrin sayının bütün nəticələrin sayına nisbətidir.",
+          "formula": "P(A)=m/n",
+          "uses": [
+            "0≤P(A)≤1"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "24_statistics",
+      "name": "Statistika",
+      "rules": [
+        {
+          "id": "STAT-01",
+          "name": "Ədədi orta",
+          "rule": "Ədədlərin cəmi onların sayına bölünür.",
+          "formula": "x̄=(x1+...+xn)/n",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "STAT-02",
+          "name": "Median",
+          "rule": "Sıralanmış verilənlərdə ortada qalan qiymət median adlanır; say cütdürsə ortadakı iki qiymətin ortası götürülür.",
+          "formula": "",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "STAT-03",
+          "name": "Moda",
+          "rule": "Verilənlərdə ən çox təkrarlanan qiymət modadır.",
+          "formula": "",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "STAT-04",
+          "name": "Mənzilə/range",
+          "rule": "Ən böyük və ən kiçik qiymətlərin fərqidir.",
+          "formula": "R=max-min",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "25_sets",
+      "name": "Çoxluqlar",
+      "rules": [
+        {
+          "id": "SET-01",
+          "name": "Çoxluq",
+          "rule": "Müəyyən əlamətə görə birləşdirilmiş obyektlər toplusudur.",
+          "formula": "A={...}",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SET-02",
+          "name": "Birləşmə",
+          "rule": "İki çoxluğun elementlərindən ən azı birində olan bütün elementlərin çoxluğudur.",
+          "formula": "A∪B",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SET-03",
+          "name": "Kəsişmə",
+          "rule": "Hər iki çoxluqda olan ortaq elementlərin çoxluğudur.",
+          "formula": "A∩B",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SET-04",
+          "name": "Fərq",
+          "rule": "A\\B A-da olub B-də olmayan elementlərdən ibarətdir.",
+          "formula": "A\\B",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "SET-05",
+          "name": "Alt çoxluq",
+          "rule": "A-nın hər elementi B-dədirsə, A B-nin alt çoxluğudur.",
+          "formula": "A⊆B",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "26_sequences_patterns",
+      "name": "Ardıcıllıqlar və silsilələr",
+      "rules": [
+        {
+          "id": "AR-01",
+          "name": "Ardıcıllıq",
+          "rule": "Natural ədədlərin hər birinə müəyyən ədəd uyğunlaşdırılması ardıcıllıq yaradır.",
+          "formula": "a1,a2,...,an,...",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "AR-02",
+          "name": "Artan ardıcıllıq",
+          "rule": "Sonrakı hədlər əvvəlkilərdən böyük və ya uyğun müqayisədə artandır.",
+          "formula": "a_n<a_(n+1)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "AR-03",
+          "name": "Azalan ardıcıllıq",
+          "rule": "Sonrakı hədlər əvvəlkilərdən kiçikdir.",
+          "formula": "a_n>a_(n+1)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "27_mixed_exam",
+      "name": "İmtahan üçün ümumi qaydalar",
+      "rules": [
+        {
+          "id": "EX-01",
+          "name": "Məxrəcin sıfır olmaması",
+          "rule": "Kəsr, rasional ifadə və bölmə məsələlərində məxrəc sıfır ola bilməz.",
+          "formula": "denominator ≠ 0",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "EX-02",
+          "name": "Kökaltı ifadə",
+          "rule": "Cüt dərəcəli kök real ədədlərdə yalnız mənfi olmayan radikand üçün müəyyən edilir.",
+          "formula": "√a: a≥0",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "EX-03",
+          "name": "Kvadratlaşdırmada işarə",
+          "rule": "Tənliyin hər iki tərəfini kvadrata yüksəltmək əlavə köklər yarada bilər; nəticə yoxlanmalıdır.",
+          "formula": "a=b ⇒ a²=b², converse requires sign care",
+          "uses": [
+            "kök yoxlaması"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "EX-04",
+          "name": "Bərabərsizlikdə mənfi vuruq",
+          "rule": "Mənfi ədədə vurma və bölmədə işarə dəyişir.",
+          "formula": "c<0 ⇒ a<c? işarə çevrilir",
+          "uses": [
+            "ən çox səhv edilən qaydalardan biri"
+          ],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "EX-05",
+          "name": "Vahidlərin uyğunluğu",
+          "rule": "Həndəsə və nisbət məsələlərində eyni ölçü vahidinə çevirmək lazımdır.",
+          "formula": "1 m=100 cm; 1 km=1000 m",
+          "uses": [
+            "uzunluq",
+            "sahə",
+            "həcm"
+          ],
+          "exceptions": [
+            "Sahə vahidlərində kvadrat, həcmdə kub çevirməsi nəzərə alınır."
+          ],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "EX-06",
+          "name": "Faiz dəyişmələrinin ardıcıllığı",
+          "rule": "Ardıcıl faiz artım/azalmaları sadəcə faizləri toplamaqla deyil, ardıcıl vurma əmsalları ilə hesablanır.",
+          "formula": "A·(1±p/100)·(1±q/100)",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "id": "EX-07",
+          "name": "Cavabın yoxlanması",
+          "rule": "Tənlik, bərabərsizlik və kök məsələlərində tapılmış nəticə ilkin şərtlərdə yoxlanmalıdır.",
+          "formula": "substitute answer into original",
+          "uses": [],
+          "exceptions": [],
+          "examples": [],
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "id": "01_numbers",
+      "name": "Ədədlər və say sistemləri",
+      "rule_count": 6
+    },
+    {
+      "id": "02_divisibility",
+      "name": "Bölünmə əlamətləri, sadə vuruqlar, ƏBOB və ƏKOB",
+      "rule_count": 15
+    },
+    {
+      "id": "03_fractions",
+      "name": "Kəsrlər və onluq kəsrlər",
+      "rule_count": 11
+    },
+    {
+      "id": "04_ratios_percent",
+      "name": "Nisbət, tənasüb və faiz",
+      "rule_count": 7
+    },
+    {
+      "id": "05_powers_roots",
+      "name": "Qüvvətlər və köklər",
+      "rule_count": 10
+    },
+    {
+      "id": "06_algebraic_expressions",
+      "name": "Cəbri ifadələr və eyniliklər",
+      "rule_count": 9
+    },
+    {
+      "id": "07_linear_equations",
+      "name": "Xətti tənliklər",
+      "rule_count": 4
+    },
+    {
+      "id": "08_systems",
+      "name": "Tənliklər sistemi",
+      "rule_count": 4
+    },
+    {
+      "id": "09_inequalities",
+      "name": "Bərabərsizliklər",
+      "rule_count": 4
+    },
+    {
+      "id": "10_functions",
+      "name": "Funksiyalar",
+      "rule_count": 5
+    },
+    {
+      "id": "11_polynomials",
+      "name": "Çoxhədlilər və vurğa ayırma",
+      "rule_count": 4
+    },
+    {
+      "id": "12_quadratic",
+      "name": "Kvadrat tənliklər",
+      "rule_count": 5
+    },
+    {
+      "id": "13_sequences",
+      "name": "Arifmetik və həndəsi silsilə",
+      "rule_count": 5
+    },
+    {
+      "id": "14_geometry_basic",
+      "name": "Həndəsənin əsasları",
+      "rule_count": 5
+    },
+    {
+      "id": "15_triangles",
+      "name": "Üçbucaqlar",
+      "rule_count": 7
+    },
+    {
+      "id": "16_quadrilaterals",
+      "name": "Dördbucaqlılar",
+      "rule_count": 6
+    },
+    {
+      "id": "17_circle",
+      "name": "Çevrə və dairə",
+      "rule_count": 4
+    },
+    {
+      "id": "18_similarity",
+      "name": "Oxşarlıq və miqyas",
+      "rule_count": 3
+    },
+    {
+      "id": "19_coordinate",
+      "name": "Koordinat həndəsəsi",
+      "rule_count": 4
+    },
+    {
+      "id": "20_vectors",
+      "name": "Vektorlar",
+      "rule_count": 4
+    },
+    {
+      "id": "21_trigonometry",
+      "name": "Triqonometriya",
+      "rule_count": 6
+    },
+    {
+      "id": "22_exponents_logarithms",
+      "name": "Göstərici və loqarifm",
+      "rule_count": 5
+    },
+    {
+      "id": "23_combinatorics",
+      "name": "Kombinatorika və ehtimal",
+      "rule_count": 5
+    },
+    {
+      "id": "24_statistics",
+      "name": "Statistika",
+      "rule_count": 4
+    },
+    {
+      "id": "25_sets",
+      "name": "Çoxluqlar",
+      "rule_count": 5
+    },
+    {
+      "id": "26_sequences_patterns",
+      "name": "Ardıcıllıqlar və silsilələr",
+      "rule_count": 3
+    },
+    {
+      "id": "27_mixed_exam",
+      "name": "İmtahan üçün ümumi qaydalar",
+      "rule_count": 7
+    }
+  ],
+  "total_categories": 27,
+  "total_rules": 157
+}

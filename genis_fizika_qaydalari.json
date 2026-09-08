@@ -1,0 +1,1522 @@
+{
+  "title": "Geniş Fizika Qaydaları",
+  "language": "az",
+  "description": "Məktəb və imtahan hazırlığı üçün orijinal, seçilə bilən fizika qaydaları və əsas düsturlar toplusu.",
+  "version": "1.0",
+  "category_count": 18,
+  "rule_count": 142,
+  "categories": [
+    {
+      "id": "01_measurement_units",
+      "name": "Ölçmələr və vahidlər",
+      "rule_count": 5
+    },
+    {
+      "id": "02_kinematics",
+      "name": "Mexanika və kinematika",
+      "rule_count": 13
+    },
+    {
+      "id": "03_dynamics",
+      "name": "Dinamika və qüvvələr",
+      "rule_count": 12
+    },
+    {
+      "id": "04_work_energy_power",
+      "name": "İş, enerji və güc",
+      "rule_count": 9
+    },
+    {
+      "id": "05_momentum",
+      "name": "İmpuls",
+      "rule_count": 4
+    },
+    {
+      "id": "06_gravitation",
+      "name": "Ümumdünya cazibəsi",
+      "rule_count": 4
+    },
+    {
+      "id": "07_pressure_fluids",
+      "name": "Təzyiq və mayelər",
+      "rule_count": 7
+    },
+    {
+      "id": "08_molecular_physics",
+      "name": "Molekulyar fizika",
+      "rule_count": 7
+    },
+    {
+      "id": "09_thermodynamics",
+      "name": "Termodinamika",
+      "rule_count": 10
+    },
+    {
+      "id": "10_electricity",
+      "name": "Elektrik cərəyanı",
+      "rule_count": 16
+    },
+    {
+      "id": "11_electrostatics",
+      "name": "Elektrostatika",
+      "rule_count": 7
+    },
+    {
+      "id": "12_magnetism",
+      "name": "Maqnetizm",
+      "rule_count": 6
+    },
+    {
+      "id": "13_oscillations_waves",
+      "name": "Rəqslər və dalğalar",
+      "rule_count": 7
+    },
+    {
+      "id": "14_optics",
+      "name": "Optika",
+      "rule_count": 10
+    },
+    {
+      "id": "15_atomic_nuclear",
+      "name": "Atom və nüvə fizikası",
+      "rule_count": 10
+    },
+    {
+      "id": "16_semiconductor",
+      "name": "Yarımkeçiricilər və elektronika",
+      "rule_count": 4
+    },
+    {
+      "id": "17_modern_physics",
+      "name": "Müasir fizikanın əsasları",
+      "rule_count": 4
+    },
+    {
+      "id": "18_general_exam",
+      "name": "Ümumi məsələ həll etmə qaydaları",
+      "rule_count": 7
+    }
+  ],
+  "rules": [
+    {
+      "id": "01_01",
+      "name": "Fiziki kəmiyyət",
+      "rule": "Fiziki hadisə və cisimlərin ölçülə bilən xüsusiyyətidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "01_02",
+      "name": "SI əsas vahidləri",
+      "rule": "Uzunluq metr (m), kütlə kiloqram (kg), zaman saniyə (s), elektrik cərəyanı amper (A), temperatur kelvin (K), maddə miqdarı mol (mol), işıq şiddəti kandela (cd) ilə ölçülür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "01_03",
+      "name": "Sürət vahidinin çevrilməsi",
+      "rule": "km/saat-dan m/s-ə keçmək üçün 3,6-ya bölmək, m/s-dən km/saat-a keçmək üçün 3,6-ya vurmaq lazımdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "01_04",
+      "name": "Sıxlıq vahidi",
+      "rule": "Sıxlığın SI vahidi kg/m³-dür; 1 g/cm³ = 1000 kg/m³.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "01_05",
+      "name": "Ölçü vahidlərinin çevrilməsi",
+      "rule": "Hesablamadan əvvəl bütün verilənlər uyğun vahidlər sisteminə gətirilməlidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_01",
+      "name": "Mexaniki hərəkət",
+      "rule": "Cismin başqa cisimlərə nəzərən zaman keçdikcə mövqeyini dəyişməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_02",
+      "name": "Trayektoriya",
+      "rule": "Cismin hərəkət zamanı keçdiyi nöqtələrin yaratdığı xətdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_03",
+      "name": "Yol",
+      "rule": "Cismin trayektoriya boyunca qət etdiyi məsafənin uzunluğudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_04",
+      "name": "Yerdəyişmə",
+      "rule": "Cismin ilkin vəziyyətindən son vəziyyətinə yönəlmiş vektordur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_05",
+      "name": "Orta sürət",
+      "rule": "Gedilən ümumi yolun ümumi zamana nisbətidir.",
+      "formula": "v_orta = s/t",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_06",
+      "name": "Bərabərsürətli hərəkət",
+      "rule": "Sürətin qiyməti dəyişmədikdə bərabərsürətli hərəkət adlanır.",
+      "formula": "s = vt",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_07",
+      "name": "Təcil",
+      "rule": "Sürətin dəyişməsinin zamana nisbətidir.",
+      "formula": "a = Δv/Δt",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_08",
+      "name": "Bərabərtəcilli hərəkət",
+      "rule": "Təcil sabit olduqda sürət zamanla bərabər dəyişir.",
+      "formula": "v = v₀ + at",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_09",
+      "name": "Bərabərtəcilli yerdəyişmə",
+      "rule": "Başlanğıc sürəti və sabit təcili olan hərəkətdə yerdəyişmə belə tapılır.",
+      "formula": "s = v₀t + at²/2",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_10",
+      "name": "Sürət-yol əlaqəsi",
+      "rule": "Zaman verilmədikdə bərabərtəcilli hərəkət üçün sürət və yerdəyişmə əlaqələndirilə bilər.",
+      "formula": "v² = v₀² + 2as",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_11",
+      "name": "Sərbəst düşmə",
+      "rule": "Yalnız cazibə qüvvəsinin təsiri ilə baş verən hərəkətdir; hava müqaviməti nəzərə alınmadıqda təcil g-dir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_12",
+      "name": "Sərbəst düşmədə sürət",
+      "rule": "Sıfır başlanğıc sürəti ilə düşən cisim üçün sürət zamanla artır.",
+      "formula": "v = gt",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "02_13",
+      "name": "Sərbəst düşmədə yol",
+      "rule": "Cisim sakitlikdən düşürsə, müəyyən vaxtda qət etdiyi yol belə hesablanır.",
+      "formula": "h = gt²/2",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_01",
+      "name": "Nyutonun I qanunu",
+      "rule": "Cismə təsir edən qüvvələrin əvəzləyicisi sıfırdırsa, cisim sakitliyini və ya düzxətli bərabərsürətli hərəkətini saxlayır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_02",
+      "name": "Nyutonun II qanunu",
+      "rule": "Cismin təcili nəticə qüvvəsi ilə düz, kütləsi ilə tərs mütənasibdir.",
+      "formula": "F = ma",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_03",
+      "name": "Nyutonun III qanunu",
+      "rule": "Qarşılıqlı təsirdə olan iki cisim bir-birinə qiymətcə bərabər, istiqamətcə əks qüvvələr göstərir.",
+      "formula": "F₁₂ = −F₂₁",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_04",
+      "name": "Qüvvələrin əvəzləyicisi",
+      "rule": "Bir neçə qüvvənin ümumi təsirini onların vektor cəmi müəyyən edir.",
+      "formula": "F_nəticə = ΣF",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_05",
+      "name": "Ağırlıq qüvvəsi",
+      "rule": "Yerin cismə cazibə təsiridir.",
+      "formula": "F = mg",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_06",
+      "name": "Kütlə və ağırlıq",
+      "rule": "Kütlə cismin ətalət və maddə miqdarı ilə bağlı kəmiyyət, ağırlıq isə cazibə ilə əlaqəli qüvvədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_07",
+      "name": "Elastiklik qüvvəsi",
+      "rule": "Deformasiya olunmuş cismin əvvəlki vəziyyətinə qayıtmasına yönələn qüvvədir.",
+      "formula": "F = kx",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_08",
+      "name": "Hooke qanunu",
+      "rule": "Kiçik elastik deformasiyalarda elastiklik qüvvəsinin modulu uzanma ilə düz mütənasibdir.",
+      "formula": "F_el = k|x|",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_09",
+      "name": "Sürtünmə qüvvəsi",
+      "rule": "Təmasda olan səthlərdə hərəkətə və ya hərəkət meylinə əks istiqamətdə yaranan qüvvədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_10",
+      "name": "Sürüşmə sürtünməsi",
+      "rule": "Sürüşən cisim üçün sadə modeldə sürtünmə qüvvəsi normal reaksiyaya mütənasibdir.",
+      "formula": "F_sürt = μN",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_11",
+      "name": "Normal reaksiya",
+      "rule": "Səthin cismə səthə perpendikulyar istiqamətdə göstərdiyi qüvvədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "03_12",
+      "name": "Tarazlıq şərti",
+      "rule": "Cismin translasiya tarazlığında nəticə qüvvə sıfırdır.",
+      "formula": "ΣF = 0",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_01",
+      "name": "Mexaniki iş",
+      "rule": "Qüvvə cismin yerdəyişməsi istiqamətində komponentə malik olduqda iş görülür.",
+      "formula": "A = Fs cosα",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_02",
+      "name": "Qüvvənin işi",
+      "rule": "Qüvvə və yerdəyişmə eyni istiqamətdədirsə iş müsbət, əks istiqamətdədirsə mənfi ola bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_03",
+      "name": "Güc",
+      "rule": "Görülən işin zamana nisbətidir.",
+      "formula": "P = A/t",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_04",
+      "name": "Kinetik enerji",
+      "rule": "Hərəkət edən cismin kinetik enerjisi kütlə və sürətin kvadratı ilə müəyyən olunur.",
+      "formula": "E_k = mv²/2",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_05",
+      "name": "Potensial enerji",
+      "rule": "Cismin seçilmiş sıfır səviyyəsinə görə mövqeyi ilə bağlı enerjisidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_06",
+      "name": "Cazibə potensial enerjisi",
+      "rule": "Yer səthinə yaxın sahədə cismin potensial enerjisi hündürlüklə düz mütənasibdir.",
+      "formula": "E_p = mgh",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_07",
+      "name": "Mexaniki enerjinin saxlanması",
+      "rule": "Yalnız konservativ qüvvələr təsir etdikdə mexaniki enerji sabit qalır.",
+      "formula": "E_k + E_p = const",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_08",
+      "name": "Faydalı iş əmsalı",
+      "rule": "Faydalı işin sərf olunan ümumi işə nisbətidir.",
+      "formula": "η = A_faydalı/A_tam × 100%",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "04_09",
+      "name": "Enerjinin saxlanması qanunu",
+      "rule": "Enerji yoxdan yaranmır və yox olmur; bir formadan digərinə çevrilir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_01",
+      "name": "Cismin impulsu",
+      "rule": "Kütlənin sürətə vektor hasilidir.",
+      "formula": "p = mv",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_02",
+      "name": "Qüvvə impulsu",
+      "rule": "Qüvvənin təsir müddəti ilə qüvvənin hasilidir.",
+      "formula": "J = FΔt",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_03",
+      "name": "İmpulsun dəyişməsi",
+      "rule": "Qüvvə impulsu cismin impulsunun dəyişməsinə bərabərdir.",
+      "formula": "J = Δp",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "05_04",
+      "name": "İmpulsun saxlanması",
+      "rule": "Xarici nəticə qüvvə sıfır olan qapalı sistemdə ümumi impuls sabit qalır.",
+      "formula": "Σp_əvvəl = Σp_son",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_01",
+      "name": "Ümumdünya cazibə qanunu",
+      "rule": "İki cismin qarşılıqlı cazibə qüvvəsi kütlələrin hasilinə düz, aralarındakı məsafənin kvadratına tərs mütənasibdir.",
+      "formula": "F = Gm₁m₂/r²",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_02",
+      "name": "Cazibə sabiti",
+      "rule": "Ümumdünya cazibə sabiti G fiziki sabitdir.",
+      "formula": "G ≈ 6,67×10⁻¹¹ N·m²/kg²",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_03",
+      "name": "Ağırlıqsızlıq",
+      "rule": "Cisim dayaqla qarşılıqlı təsir qüvvəsi göstərmədiyi sərbəst düşmə şəraitində ağırlıqsızlıq hiss edə bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "06_04",
+      "name": "Orbital hərəkət",
+      "rule": "Peyklərin orbitdə qalması Yer cazibəsi ilə onların ətalətli hərəkətinin birlikdə təsiri ilə izah olunur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_01",
+      "name": "Təzyiq",
+      "rule": "Səthə perpendikulyar qüvvənin səth sahəsinə nisbətidir.",
+      "formula": "p = F/S",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_02",
+      "name": "Maye təzyiqi",
+      "rule": "Mayenin daxilində dərinlik artdıqca hidrostatik təzyiq artır.",
+      "formula": "p = ρgh",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_03",
+      "name": "Tam təzyiq",
+      "rule": "Açıq qabda mayenin müəyyən dərinliyində tam təzyiq atmosfer və hidrostatik təzyiqlərin cəmi ola bilər.",
+      "formula": "p_tam = p_atm + ρgh",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_04",
+      "name": "Paskal qanunu",
+      "rule": "Qapalı mayeyə verilən xarici təzyiq mayenin hər nöqtəsinə dəyişmədən ötürülür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_05",
+      "name": "Arximed qüvvəsi",
+      "rule": "Mayeyə və ya qaza batırılmış cismə yuxarı istiqamətdə təsir edən qaldırıcı qüvvə sıxışdırılmış maye və ya qazın çəkisinə bərabərdir.",
+      "formula": "F_A = ρgV",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_06",
+      "name": "Üzmə şərti",
+      "rule": "Cisim mayedə tarazlıqda üzürsə, Arximed qüvvəsi cismin ağırlığına bərabərdir.",
+      "formula": "F_A = mg",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "07_07",
+      "name": "Hidravlik pres",
+      "rule": "Paskal qanununa əsasən qüvvə müxtəlif sahəli porşenlər arasında sahələr nisbətinə uyğun dəyişir.",
+      "formula": "F₁/S₁ = F₂/S₂",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_01",
+      "name": "Maddənin molekulyar quruluşu",
+      "rule": "Maddələr atom və molekullardan təşkil olunur; hissəciklər fasiləsiz hərəkətdədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_02",
+      "name": "Diffuziya",
+      "rule": "Maddə hissəciklərinin istilik hərəkəti nəticəsində özbaşına qarışmasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_03",
+      "name": "Braun hərəkəti",
+      "rule": "Maye və ya qazdakı kiçik hissəciklərin molekullarla toqquşması nəticəsində nizamsız hərəkətidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_04",
+      "name": "Temperatur",
+      "rule": "Maddənin istilik vəziyyətini xarakterizə edən fiziki kəmiyyətdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_05",
+      "name": "Kelvin şkalası",
+      "rule": "Mütləq temperatur şkalasında sıfır mütləq sıfıra uyğun gəlir.",
+      "formula": "T(K)=t(°C)+273,15",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_06",
+      "name": "Maddə miqdarı",
+      "rule": "Maddə miqdarı mol ilə ölçülür və hissəciklərin sayını xarakterizə edir.",
+      "formula": "n = N/N_A",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "08_07",
+      "name": "Avoqadro sabiti",
+      "rule": "Bir mol maddədəki elementar hissəciklərin sayıdır.",
+      "formula": "N_A ≈ 6,02×10²³ mol⁻¹",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_01",
+      "name": "Daxili enerji",
+      "rule": "Sistemin hissəciklərinin nizamsız hərəkətinin kinetik və qarşılıqlı təsir potensial enerjilərinin cəmidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_02",
+      "name": "Daxili enerjinin dəyişməsi",
+      "rule": "Daxili enerji istilikvermə və iş görülməsi nəticəsində dəyişə bilər.",
+      "formula": "ΔU = Q − A",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_03",
+      "name": "Termodinamikanın I qanunu",
+      "rule": "Sistemə verilən istilik onun daxili enerjisinin dəyişməsinə və sistemin gördüyü işə sərf olunur.",
+      "formula": "Q = ΔU + A",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_04",
+      "name": "İstilik miqdarı",
+      "rule": "Cismin temperaturunu dəyişmək üçün verilən istilik kütlə, xüsusi istilik tutumu və temperatur dəyişməsi ilə bağlıdır.",
+      "formula": "Q = cmΔT",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_05",
+      "name": "Xüsusi istilik tutumu",
+      "rule": "1 kq maddənin temperaturunu 1°C artırmaq üçün tələb olunan istilik miqdarıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_06",
+      "name": "Ərimə istiliyi",
+      "rule": "Bərk maddənin əriməsi üçün tələb olunan istilik kütlə və xüsusi ərimə istiliyi ilə hesablanır.",
+      "formula": "Q = λm",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_07",
+      "name": "Buxarlanma istiliyi",
+      "rule": "Mayenin buxarlanması üçün tələb olunan istilik kütlə və xüsusi buxarlanma istiliyi ilə hesablanır.",
+      "formula": "Q = rm",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_08",
+      "name": "Yanacağın yanma istiliyi",
+      "rule": "Yanacağın tam yanması zamanı ayrılan istilik kütlə və xüsusi yanma istiliyi ilə hesablanır.",
+      "formula": "Q = qm",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_09",
+      "name": "İstilik balansı",
+      "rule": "İzolyasiya olunmuş sistemdə verilən istiliklərin cəmi alınan istiliklərə bərabər götürülür.",
+      "formula": "Q_verilən = Q_alınan",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "09_10",
+      "name": "İstilik mühərrikinin faydalı iş əmsalı",
+      "rule": "Mühərrikin aldığı istiliyin nə qədərini mexaniki işə çevirdiyini göstərir.",
+      "formula": "η = A/Q₁",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_01",
+      "name": "Elektrik cərəyanı",
+      "rule": "Yüklü hissəciklərin istiqamətlənmiş hərəkətidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_02",
+      "name": "Cərəyan şiddəti",
+      "rule": "Keçiricinin kəsiyindən vahid zamanda keçən yük miqdarıdır.",
+      "formula": "I = q/t",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_03",
+      "name": "Gərginlik",
+      "rule": "Elektrik sahəsinin yükü bir nöqtədən digərinə köçürərkən gördüyü işin yükə nisbətidir.",
+      "formula": "U = A/q",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_04",
+      "name": "Müqavimət",
+      "rule": "Keçiricinin elektrik cərəyanına göstərdiyi müqaviməti xarakterizə edir.",
+      "formula": "R = U/I",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_05",
+      "name": "Om qanunu",
+      "rule": "Dövrənin hissəsi üçün cərəyan şiddəti gərginliklə düz, müqavimətlə tərs mütənasibdir.",
+      "formula": "I = U/R",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_06",
+      "name": "Keçiricinin müqaviməti",
+      "rule": "Bircins keçiricinin müqaviməti uzunluqla düz, en kəsik sahəsi ilə tərs mütənasibdir.",
+      "formula": "R = ρl/S",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_07",
+      "name": "Ardıcıl birləşmə",
+      "rule": "Ardıcıl birləşmədə cərəyan şiddəti bütün elementlərdə eynidir.",
+      "formula": "I = I₁ = I₂ = ...",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_08",
+      "name": "Ardıcıl müqavimətlər",
+      "rule": "Ardıcıl birləşmədə ümumi müqavimət müqavimətlərin cəminə bərabərdir.",
+      "formula": "R = R₁ + R₂ + ...",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_09",
+      "name": "Ardıcıl gərginlik",
+      "rule": "Ardıcıl birləşmədə ümumi gərginlik hissələrdəki gərginliklərin cəmidir.",
+      "formula": "U = U₁ + U₂ + ...",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_10",
+      "name": "Paralel birləşmə",
+      "rule": "Paralel qollarda gərginlik eynidir.",
+      "formula": "U = U₁ = U₂ = ...",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_11",
+      "name": "Paralel cərəyan",
+      "rule": "Paralel birləşmədə ümumi cərəyan qollardakı cərəyanların cəmidir.",
+      "formula": "I = I₁ + I₂ + ...",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_12",
+      "name": "Paralel müqavimət",
+      "rule": "İki müqavimətin paralel ekvivalent müqaviməti belə tapılır.",
+      "formula": "R = R₁R₂/(R₁+R₂)",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_13",
+      "name": "Elektrik işi",
+      "rule": "Elektrik cərəyanının işi gərginlik, cərəyan və zamanla bağlıdır.",
+      "formula": "A = UIt",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_14",
+      "name": "Elektrik gücü",
+      "rule": "Elektrik qurğusunun gücü görülən işin zamana nisbətidir.",
+      "formula": "P = UI",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_15",
+      "name": "Coul-Lens qanunu",
+      "rule": "Müqavimətdə ayrılan istilik cərəyanın kvadratı, müqavimət və zamanla mütənasibdir.",
+      "formula": "Q = I²Rt",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "10_16",
+      "name": "Elektrik enerjisi",
+      "rule": "Elektrik enerjisi praktiki olaraq kWh və ya SI sistemində joule ilə ifadə edilə bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_01",
+      "name": "Elektrik yükü",
+      "rule": "Maddənin elektromaqnit qarşılıqlı təsirdə iştirakını xarakterizə edən fiziki kəmiyyətdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_02",
+      "name": "Yükün saxlanması",
+      "rule": "İzolyasiya olunmuş sistemdə elektrik yüklərinin cəbri cəmi sabit qalır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_03",
+      "name": "Kulon qanunu",
+      "rule": "İki nöqtəvi yük arasındakı elektrik qüvvəsi yüklərin modullarının hasilinə düz, məsafənin kvadratına tərs mütənasibdir.",
+      "formula": "F = k|q₁q₂|/r²",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_04",
+      "name": "Elektrik sahəsi",
+      "rule": "Yüklərin ətrafında digər yüklərə qüvvə təsirinin mümkün olduğu sahədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_05",
+      "name": "Elektrik sahəsinin intensivliyi",
+      "rule": "Vahid müsbət sınaq yükünə təsir edən qüvvə ilə müəyyən olunur.",
+      "formula": "E = F/q",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_06",
+      "name": "Potensial",
+      "rule": "Elektrik sahəsində vahid müsbət yükün potensial enerjisini xarakterizə edən kəmiyyətdir.",
+      "formula": "φ = E_p/q",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "11_07",
+      "name": "Gərginlik və potensial fərqi",
+      "rule": "İki nöqtə arasındakı potensial fərqi gərginliklə əlaqəlidir.",
+      "formula": "U = φ₁ − φ₂",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_01",
+      "name": "Maqnit sahəsi",
+      "rule": "Hərəkətdə olan yüklər və cərəyanlı keçiricilər ətrafında yaranan sahədir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_02",
+      "name": "Cərəyanlı naqilə maqnit qüvvəsi",
+      "rule": "Maqnit sahəsində cərəyanlı keçiriciyə qüvvə təsir edə bilər.",
+      "formula": "F = BIl sinα",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_03",
+      "name": "Lorens qüvvəsi",
+      "rule": "Maqnit sahəsində hərəkət edən yüklü hissəciyə təsir edən qüvvədir.",
+      "formula": "F = qvB sinα",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_04",
+      "name": "Maqnit induksiyası",
+      "rule": "Maqnit sahəsinin qüvvə təsirini xarakterizə edən vektor kəmiyyətdir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_05",
+      "name": "Elektromaqnit induksiyası",
+      "rule": "Maqnit selinin dəyişməsi nəticəsində elektrik hərəkət qüvvəsinin yaranması hadisəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "12_06",
+      "name": "Lenz qanunu",
+      "rule": "İnduksiya cərəyanının istiqaməti onu yaradan maqnit seli dəyişməsinə qarşı yönəlir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_01",
+      "name": "Mexaniki rəqs",
+      "rule": "Cismin tarazlıq vəziyyəti ətrafında təkrarlanan hərəkətidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_02",
+      "name": "Period",
+      "rule": "Bir tam rəqsə sərf olunan zamandır.",
+      "formula": "T = t/N",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_03",
+      "name": "Tezlik",
+      "rule": "Vahid zamanda baş verən rəqslərin sayıdır.",
+      "formula": "ν = N/t = 1/T",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_04",
+      "name": "Dalğa uzunluğu",
+      "rule": "Dalğanın bir period ərzində yayıldığı məsafədir.",
+      "formula": "λ = vT = v/ν",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_05",
+      "name": "Dalğa sürəti",
+      "rule": "Dalğanın yayılma sürəti tezlik və dalğa uzunluğu ilə bağlıdır.",
+      "formula": "v = λν",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_06",
+      "name": "Amplitud",
+      "rule": "Rəqs edən cismin tarazlıq vəziyyətindən maksimum uzaqlaşmasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "13_07",
+      "name": "Rezonans",
+      "rule": "Xarici periodik təsirin tezliyi sistemin öz tezliyinə yaxın olduqda rəqslərin amplitudunun kəskin artması hadisəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_01",
+      "name": "İşığın düzxətli yayılması",
+      "rule": "Bircins şəffaf mühitdə işıq şüaları düz xətlə yayılır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_02",
+      "name": "İşığın əks olunması",
+      "rule": "İşıq səthə düşdükdə geri qayıda bilər; düşmə bucağı əksolunma bucağına bərabərdir.",
+      "formula": "α = β",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_03",
+      "name": "İşığın sınması",
+      "rule": "İşığın bir mühitdən digərinə keçərkən yayılma istiqamətinin dəyişməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_04",
+      "name": "Sınma qanunu",
+      "rule": "İşığın sınmasında Snell qanunu tətbiq olunur.",
+      "formula": "n₁sinα = n₂sinβ",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_05",
+      "name": "Sındırma əmsalı",
+      "rule": "Vakuumda işıq sürətinin mühitdəki işıq sürətinə nisbətidir.",
+      "formula": "n = c/v",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_06",
+      "name": "Linzanın optik qüvvəsi",
+      "rule": "Linzanın optik qüvvəsi fokus məsafəsinin tərsi ilə müəyyən edilir.",
+      "formula": "D = 1/f",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_07",
+      "name": "Toplayıcı linza",
+      "rule": "Paralel işıq şüalarını əsas fokusda toplamağa meylli linzadır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_08",
+      "name": "Səpici linza",
+      "rule": "Paralel şüaları sanki əsas fokusdan yayılırmış kimi səpən linzadır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_09",
+      "name": "Linza düsturu",
+      "rule": "Nazik linza üçün obyekt məsafəsi, təsvir məsafəsi və fokus məsafəsi arasında əlaqə vardır.",
+      "formula": "1/f = 1/a + 1/b",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "14_10",
+      "name": "Xətti böyütmə",
+      "rule": "Təsvir ölçüsünün obyekt ölçüsünə nisbətidir.",
+      "formula": "Γ = h'/h = b/a",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_01",
+      "name": "Atomun quruluşu",
+      "rule": "Atom nüvədən və elektronlardan ibarətdir; nüvədə proton və neytronlar yerləşir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_02",
+      "name": "Atom nömrəsi",
+      "rule": "Nüvədəki protonların sayıdır və elementin kimliyini müəyyən edir.",
+      "formula": "Z = N_proton",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_03",
+      "name": "Kütlə ədədi",
+      "rule": "Nüvədəki proton və neytronların ümumi sayıdır.",
+      "formula": "A = Z + N",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_04",
+      "name": "İzotop",
+      "rule": "Proton sayı eyni, neytron sayı fərqli olan eyni element atomlarıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_05",
+      "name": "Radioaktivlik",
+      "rule": "Qeyri-sabit atom nüvələrinin özbaşına şüalanma ilə başqa vəziyyətə və ya nüvəyə çevrilməsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_06",
+      "name": "Alfa şüalanması",
+      "rule": "Alfa zərrəciyi helium nüvəsidir; +2 yüklüdür.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_07",
+      "name": "Beta şüalanması",
+      "rule": "Beta şüalanması nüvə çevrilmələri zamanı elektron və ya pozitron emissiyası ilə bağlıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_08",
+      "name": "Qamma şüalanması",
+      "rule": "Qamma şüalanması yüksək enerjili elektromaqnit şüalanmasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_09",
+      "name": "Yarımparçalanma dövrü",
+      "rule": "Radioaktiv nüvələrin yarısının parçalanması üçün tələb olunan zamandır.",
+      "formula": "N = N₀(1/2)^(t/T₁/₂)",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "15_10",
+      "name": "Nüvə enerjisi",
+      "rule": "Nüvə çevrilmələri zamanı kütlə defekti ilə əlaqəli böyük enerji ayrıla bilər.",
+      "formula": "E = mc²",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "16_01",
+      "name": "Yarımkeçirici",
+      "rule": "Elektrik keçiriciliyi keçiricilərlə izolyatorlar arasında olan və temperatur, işıq və qatqılardan güclü təsirlənən materialdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "16_02",
+      "name": "p-tip yarımkeçirici",
+      "rule": "Əsas yükdaşıyıcıları deşiklər olan yarımkeçiricidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "16_03",
+      "name": "n-tip yarımkeçirici",
+      "rule": "Əsas yükdaşıyıcıları elektronlar olan yarımkeçiricidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "16_04",
+      "name": "Diod",
+      "rule": "Cərəyanı əsasən bir istiqamətdə keçirməyə imkan verən yarımkeçirici qurğudur.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "17_01",
+      "name": "Fotoeffekt",
+      "rule": "İşığın təsiri ilə maddədən elektronların qopması hadisəsidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "17_02",
+      "name": "Foton enerjisi",
+      "rule": "Fotonun enerjisi onun tezliyi ilə düz mütənasibdir.",
+      "formula": "E = hν",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "17_03",
+      "name": "Elektromaqnit dalğası",
+      "rule": "Elektrik və maqnit sahələrinin bir-birini doğuraraq fəzada yayılan dalğasıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "17_04",
+      "name": "İşığın vakuumda sürəti",
+      "rule": "Vakuumda elektromaqnit şüalanmanın sürəti sabitdir.",
+      "formula": "c ≈ 3×10⁸ m/s",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "18_01",
+      "name": "Verilənləri SI sisteminə gətirmək",
+      "rule": "Məsələ həllindən əvvəl uzunluq, zaman, kütlə, sürət və digər kəmiyyətlər uyğun SI vahidlərinə çevrilməlidir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "18_02",
+      "name": "Şəkil çəkmək",
+      "rule": "Mexanika, optika və elektrik məsələlərində sxem və ya şəkil çəkmək verilənləri düzgün qurmağa kömək edir.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "18_03",
+      "name": "Vektor istiqaməti",
+      "rule": "Qüvvə, sürət, təcil, yerdəyişmə və impuls kimi vektor kəmiyyətlərində istiqamət nəzərə alınmalıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "18_04",
+      "name": "Ölçü vahidini yoxlamaq",
+      "rule": "Alınmış düsturun və cavabın vahidi soruşulan fiziki kəmiyyətə uyğun olmalıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "18_05",
+      "name": "Qüvvələrin proyeksiyası",
+      "rule": "Maili səth və mürəkkəb qüvvə məsələlərində qüvvələr seçilmiş koordinat oxlarına proyeksiya edilə bilər.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "18_06",
+      "name": "Enerji üsulu",
+      "rule": "Mexaniki hərəkət məsələlərində uyğun olduqda iş-enerji və enerjinin saxlanması qanunlarından istifadə etmək olar.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    },
+    {
+      "id": "18_07",
+      "name": "Elektrik dövrəsi",
+      "rule": "Dövrə məsələlərində əvvəlcə ardıcıl və paralel birləşmələr müəyyən edilməli, sonra Om qanunu tətbiq olunmalıdır.",
+      "formula": "",
+      "uses": [],
+      "exceptions": [],
+      "examples": [],
+      "notes": ""
+    }
+  ]
+}
